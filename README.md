@@ -1,2 +1,2 @@
 # Tesis
-Contaminación Lumínica en la Ciudad de México
+Estudio de la Contaminación Lumínica en la Ciudad de México
