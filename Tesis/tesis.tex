@@ -1,0 +1,94 @@
+\documentclass[letterpaper,11pt,twoside]{book} 
+
+%Configuración inicial
+\usepackage[spanish]{babel} %español 
+\usepackage[utf8]{inputenc} %acentos
+\usepackage{amsmath,float,graphicx,gensymb} %ecuaciones/imágenes
+\usepackage{svg} %gráficos vectoriales escalables
+\usepackage{afterpage} %salto de página
+\usepackage{ragged2e} %guiones de alineación de página 
+\usepackage[margin=1in]{geometry} %tamaños de margen
+\usepackage[sc]{mathpazo} %fuente
+\newcommand{\grad}{$^{\circ}$} %grados
+\usepackage{hyperref} %referencias navegables
+\usepackage{upgreek} %diferentes letras griegas
+
+%Características de las referencias
+\usepackage[round]{natbib}
+\bibliographystyle{apalike}
+
+
+%Comandos para cambiar la posición de los títulos de capítulo
+\usepackage[compact]{titlesec}
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-15mm}{40pt}
+\setlength{\parindent}{0cm}
+
+
+%Comandos para páginas en blanco
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+    
+\begin{document}
+
+	\include{portada}
+	\afterpage{\blankpage}	
+	\let\cleardoublepage\clearpage
+	
+%Frase	
+\chapter*{}
+\begin{flushright}
+\pagestyle{empty}
+\thispagestyle{empty}
+\textit{per aspera ad astra}
+\end{flushright}
+\afterpage{\blankpage}
+
+	\setcounter{page}{1}
+    \pagenumbering{roman}
+	
+	\include{agradecimientos}
+	\afterpage{\blankpage}
+	\include{acronimos}
+	\afterpage{\blankpage}
+	\include{resumen}
+	\afterpage{\blankpage}
+
+	\tableofcontents
+	 
+	\cleardoublepage
+	\phantomsection
+	\renewcommand\listfigurename{Índice de figuras}
+    \addcontentsline{toc}{chapter}{\listfigurename}
+	\listoffigures
+	
+	\cleardoublepage
+	\phantomsection
+	\renewcommand\listtablename{Índice de tablas}
+    \addcontentsline{toc}{chapter}{Índice de tablas}
+	\listoftables
+
+
+	\mainmatter %comienza numeración arábiga
+	
+	\include{./capitulos/introduccion}
+	
+	\include{./capitulos/hipotesis_objetivos}
+	
+	\include{./capitulos/metodologia}
+	
+	\include{./capitulos/resultados_discusion}
+	
+	\include{./capitulos/conclusiones}
+	
+	\phantomsection
+	\renewcommand\bibname{Referencias}
+	\addcontentsline{toc}{chapter}{Referencias}
+	\bibliography{referencias}
+
+
+\end{document}
