@@ -1,6 +1,6 @@
 \chapter{Metodología}
 
-Datos de consumo de energía eléctrica por entidad federativa por el Sistema de Información Energética de la Secretaría de Energía.
+Datos de consumo de energía eléctrica por entidad federativa por el Sistema de Información Energética de la Secretaría de Energía.\\
 
 Datos de alumbrado pública por las alcaldías de la Ciudad de México y la Agencia de Gestión Urbana a través del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México.
 
@@ -15,7 +15,7 @@ En \textit{Caracterización de la contaminación lumínica en zonas protegidas y
     
 \end{itemize}
 
-En ambos casos, la finalidad óptima es la elaboración de un mapa de niveles de contaminación lumíninca que incluya la dimensión temporal para evaluar los cambios en el brillo del cielo nocturno.\\
+En ambos casos, la finalidad óptima es la elaboración de un mapa de niveles de contaminación lumínica que incluya la dimensión temporal para evaluar los cambios en el brillo del cielo nocturno.\\
 
 La red de Contaminación Lumínica Catalana es un ejemplo de medición continua de la CL.
 
@@ -129,3 +129,19 @@ El programa Starlight ¿Podría la REPSA convertirse en un lugar protegido?
 \subsection{Función de emisividad urbana}
 
 \section{El modelo \textit{SkyGlow}}
+
+Marco teórico del modelo SkyGlow
+
+http://www.unisky.sav.sk/?lang=en&page=aplikacia&subpage=glow
+
+Gráficas tipo all-sky de radiancia en puntos específicos de luz que llega desde todas partes del cielo (180°) o en el cenit.\\
+
+La radiancia espectral es un problema de transferencia radiativa que se puede resolver considerando condiciones de frontera:\\
+
+Función de emisividad de la ciudad. Relativamente constante en el tiempo. Depende de la cantidad y tipo de luminarias, la geometría (tamaño) de la ciudad y la posición del observador.\\
+
+Características fluctuantes de la atmósfera. 
+Efecto del aerosol atmosférico o turbidez atmosférica (propiedades ópticas de bulto del aerosol)
+Contenido de agua líquida de las nubes que es función del tamaño de gotitas de nube y su densidad espacial así como su altitud en la atmósfera.\\
+
+Correr el modelo sólo para 20 nm y así ahorrar tiempo de computación. Justificar por qué esto es representativo.

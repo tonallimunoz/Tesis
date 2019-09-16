@@ -39,23 +39,27 @@
 	\afterpage{\blankpage}	
 	\let\cleardoublepage\clearpage
 	
-%Frase	
-\chapter*{}
-\begin{flushright}
-\pagestyle{empty}
-\thispagestyle{empty}
-\textit{per aspera ad astra}
-\end{flushright}
-\afterpage{\blankpage}
-
-	\setcounter{page}{1}
-    \pagenumbering{roman}
+	%Frase	
+	\chapter*{}
+	\begin{flushright}
+	\pagestyle{empty}
+	\thispagestyle{empty}
+	\textit{per aspera ad astra}
+	\end{flushright}
+	\afterpage{\blankpage}
+	
+	\pagenumbering{roman}
 	
 	\include{agradecimientos}
 	\afterpage{\blankpage}
-	\include{acronimos}
+	
+	\include{abreviaturas}
 	\afterpage{\blankpage}
+	
 	\include{resumen}
+	\afterpage{\blankpage}
+	
+	\include{productos}
 	\afterpage{\blankpage}
 
 	\tableofcontents
@@ -71,7 +75,7 @@
 	\renewcommand\listtablename{Índice de tablas}
     \addcontentsline{toc}{chapter}{Índice de tablas}
 	\listoftables
-
+	\afterpage{\blankpage}
 
 	\mainmatter %comienza numeración arábiga
 	
@@ -85,10 +89,11 @@
 	
 	\include{./capitulos/conclusiones}
 	
+	\include{./capitulos/recomendaciones}
+	
 	\phantomsection
 	\renewcommand\bibname{Referencias}
 	\addcontentsline{toc}{chapter}{Referencias}
 	\bibliography{referencias}
-
-
+	
 \end{document}
