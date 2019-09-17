@@ -12,6 +12,8 @@ A level-1 auxiliary file: ./capitulos/resultados_discusion.aux
 A level-1 auxiliary file: ./capitulos/conclusiones.aux
 A level-1 auxiliary file: ./capitulos/recomendaciones.aux
 Database file #1: referencias.bib
+Warning--I didn't find a database entry for "Joshua2019"
 Warning--empty journal in INEGI2015
+Warning--empty journal in OCDE2015
 Warning--empty journal in SENER2013
-(There were 2 warnings)
+(There were 4 warnings)
