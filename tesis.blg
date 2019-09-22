@@ -6,14 +6,13 @@ A level-1 auxiliary file: abreviaturas.aux
 A level-1 auxiliary file: resumen.aux
 A level-1 auxiliary file: productos.aux
 A level-1 auxiliary file: ./capitulos/introduccion.aux
-A level-1 auxiliary file: ./capitulos/hipotesis_objetivos.aux
 A level-1 auxiliary file: ./capitulos/metodologia.aux
 A level-1 auxiliary file: ./capitulos/resultados_discusion.aux
 A level-1 auxiliary file: ./capitulos/conclusiones.aux
 A level-1 auxiliary file: ./capitulos/recomendaciones.aux
 Database file #1: referencias.bib
-Warning--I didn't find a database entry for "Joshua2019"
 Warning--empty journal in INEGI2015
+Warning--empty journal in NASA2007
 Warning--empty journal in OCDE2015
 Warning--empty journal in SENER2013
 (There were 4 warnings)

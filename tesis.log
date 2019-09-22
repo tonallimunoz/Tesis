@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  16 SEP 2019 22:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  18 SEP 2019 08:37
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -439,33 +439,32 @@ LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
  (agradecimientos.aux) (abreviaturas.aux)
 (resumen.aux) (productos.aux) (capitulos/introduccion.aux)
-(capitulos/hipotesis_objetivos.aux) (capitulos/metodologia.aux)
-(capitulos/resultados_discusion.aux) (capitulos/conclusiones.aux)
-(capitulos/recomendaciones.aux))
+(capitulos/metodologia.aux) (capitulos/resultados_discusion.aux)
+(capitulos/conclusiones.aux) (capitulos/recomendaciones.aux))
 \openout1 = `tesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 37.
 
 
 ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pplx.fd"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
 
 ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
@@ -497,20 +496,20 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \celsius on input line 36.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 36.
+LaTeX Info: Redefining \celsius on input line 37.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 37.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 36.
-Package gensymb Info: Using \upOmega for \ohm on input line 36.
+LaTeX Info: Redefining \ohm on input line 37.
+Package gensymb Info: Using \upOmega for \ohm on input line 37.
 
 Package gensymb Warning: Not defining \micro.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 36.
+LaTeX Info: Redefining \selectfont on input line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -547,7 +546,7 @@ LaTeX Info: Redefining \selectfont on input line 36.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box36
-Package hyperref Info: Link coloring OFF on input line 36.
+Package hyperref Info: Link coloring OFF on input line 37.
 
 ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -559,9 +558,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count127
 )
-LaTeX Info: Redefining \ref on input line 36.
-LaTeX Info: Redefining \pageref on input line 36.
-LaTeX Info: Redefining \nameref on input line 36.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
  (tesis.out) (tesis.out)
 \@outlinefile=\write3
 \openout3 = `tesis.out'.
@@ -569,12 +568,12 @@ LaTeX Info: Redefining \nameref on input line 36.
 \openout2 = `portada.aux'.
 
  (portada.tex
-<unam.pdf, id=127, 822.27202pt x 924.25299pt>
+<unam.pdf, id=163, 822.27202pt x 924.25299pt>
 File: unam.pdf Graphic file (type pdf)
 <use unam.pdf>
 Package pdftex.def Info: unam.pdf  used on input line 7.
 (pdftex.def)             Requested size: 74.00128pt x 83.17917pt.
-<ciencias.pdf, id=128, 359.74399pt x 411.136pt>
+<ciencias.pdf, id=164, 359.74399pt x 411.136pt>
 File: ciencias.pdf Graphic file (type pdf)
 <use ciencias.pdf>
 Package pdftex.def Info: ciencias.pdf  used on input line 19.
@@ -615,25 +614,25 @@ th page group included in a single page
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 	\chapter
+l.44 	\chapter
               *{} [1
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 44.
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.53 	\include{agradecimientos}
+l.54 	\include{agradecimientos}
                                 [1]pdfTeX warning (ext4): destination with the 
 same identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.53 	\include{agradecimientos}
+l.54 	\include{agradecimientos}
                                 [1
 
 ]
@@ -645,7 +644,7 @@ l.53 	\include{agradecimientos}
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 	\include{abreviaturas}
+l.57 	\include{abreviaturas}
                              [2
 
 
@@ -661,7 +660,7 @@ LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10.95> not available
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 	\include{resumen}
+l.60 	\include{resumen}
                         [3
 
 
@@ -694,20 +693,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.62 	\include{productos}
+l.63 	\include{productos}
                           [4
 
 
 ]
 \openout2 = `productos.aux'.
 
- (productos.tex) [5
+ (productos.tex
+LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+) [5
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.V}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 	\tableofcontents
+l.66 	\tableofcontents
                        [5
 
 
@@ -747,18 +779,22 @@ Package spanish Warning: Replacing `OT1/pplx/bx/sc' by
 Package spanish Warning: Replacing `OT1/pplx/bx/sc' by 
 (spanish)                faked small caps on input line 7.
 
-)
+[6])
 \tf@toc=\write4
 \openout4 = `tesis.toc'.
 
- [6] (tesis.lof
+LaTeX Font Info:    Font shape `OT1/pplx/m/sl' in size <10.95> not available
+(Font)              Font shape `OT1/pplx/m/it' tried instead on input line 68.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+ [7] (tesis.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lof=\write5
 \openout5 = `tesis.lof'.
 
- [7
+ [8
 
 
 ] (tesis.lot
@@ -768,15 +804,15 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lot=\write6
 \openout6 = `tesis.lot'.
 
- [8
+ [9
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.VIII}) 
-has been already used, duplicate ignored
+]pdfTeX warning (ext4): destination with the same identifier (name{page.IX}) ha
+s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 	\mainmatter
-                  %comienza numeración arábiga [8
+l.81 	\mainmatter
+                  %comienza numeración arábiga [9
 
 ]
 \openout2 = `./capitulos/introduccion.aux'.
@@ -784,35 +820,35 @@ l.80 	\mainmatter
 
 (capitulos/introduccion.tex
 Cap\'{\i }tulo 1.
-LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+<espectroelectromagnetico.png, id=322, 1027.84pt x 609.27625pt>
+File: espectroelectromagnetico.png Graphic file (type png)
+<use espectroelectromagnetico.png>
+Package pdftex.def Info: espectroelectromagnetico.png  used on input line 13.
+(pdftex.def)             Requested size: 469.75502pt x 278.4576pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-<duraciondeldiahistorico.png, id=284, 963.6pt x 542.025pt>
-File: duraciondeldiahistorico.png Graphic file (type png)
-<use duraciondeldiahistorico.png>
-Package pdftex.def Info: duraciondeldiahistorico.png  used on input line 15.
-(pdftex.def)             Requested size: 469.75502pt x 264.23819pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
@@ -820,135 +856,121 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-
- []
-
-LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 42.
-
-Underfull \vbox (badness 3525) has occurred while \output is active []
-
-LaTeX Font Info:    Font shape `OT1/pplx/m/sl' in size <10.95> not available
-(Font)              Font shape `OT1/pplx/m/it' tried instead on input line 47.
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
- [2 <./duraciondeldiahistorico.png>])
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
- [3]
-\openout2 = `./capitulos/hipotesis_objetivos.aux'.
-
- (capitulos/hipotesis_objetivos.tex
-Cap\'{\i }tulo 2.
-) [4
-
-
-
-]
-\openout2 = `./capitulos/metodologia.aux'.
-
- (capitulos/metodologia.tex
-Cap\'{\i }tulo 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-[5
-
-
-
-]
 Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
-
- []
-
-
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+[2 <./espectroelectromagnetico.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
-LaTeX Info: Redefining \. on input line 101.
-LaTeX Info: Redefining \% on input line 101.
-[6]
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+<duraciondeldiahistorico.png, id=355, 963.6pt x 542.025pt>
+File: duraciondeldiahistorico.png Graphic file (type png)
+<use duraciondeldiahistorico.png>
+Package pdftex.def Info: duraciondeldiahistorico.png  used on input line 106.
+(pdftex.def)             Requested size: 469.75502pt x 264.23819pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
+[4 <./duraciondeldiahistorico.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+LaTeX Info: Redefining \. on input line 188.
+LaTeX Info: Redefining \% on input line 188.
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+)
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [6]
+\openout2 = `./capitulos/metodologia.aux'.
+
+ (capitulos/metodologia.tex
+Cap\'{\i }tulo 2.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/it' in size <14.4> not available
-(Font)              Font shape `OT1/pplx/b/it' tried instead on input line 131.
-
-
+(Font)              Font shape `OT1/pplx/b/it' tried instead on input line 3.
 ! Misplaced alignment tab character &.
-l.135 http://www.unisky.sav.sk/?lang=en&
-                                        page=aplikacia&subpage=glow
+l.7 http://www.unisky.sav.sk/?lang=en&
+                                      page=aplikacia&subpage=glow
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -957,7 +979,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.135 ...ww.unisky.sav.sk/?lang=en&page=aplikacia&
+l.7 .../www.unisky.sav.sk/?lang=en&page=aplikacia&
                                                   subpage=glow
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -974,39 +996,40 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 ...llega desde todas partes del cielo (180°
+l.9 ...e llega desde todas partes del cielo (180°
                                                   ) o en el cenit.\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--146
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
 
  []
 
-)
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
- [7]
+) [7
+
+
+
+]
 \openout2 = `./capitulos/resultados_discusion.aux'.
 
  (capitulos/resultados_discusion.tex
-Cap\'{\i }tulo 4.
+Cap\'{\i }tulo 3.
 ) [8
 
 
@@ -1015,7 +1038,7 @@ Cap\'{\i }tulo 4.
 \openout2 = `./capitulos/conclusiones.aux'.
 
  (capitulos/conclusiones.tex
-Cap\'{\i }tulo 5.
+Cap\'{\i }tulo 4.
 ) [9
 
 
@@ -1024,30 +1047,29 @@ Cap\'{\i }tulo 5.
 \openout2 = `./capitulos/recomendaciones.aux'.
 
  (capitulos/recomendaciones.tex
-Cap\'{\i }tulo 6.
+Cap\'{\i }tulo 5.
 ) [10
 
 
 
 ] (tesis.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
  [11
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (tesis.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  (agradecimientos.aux)
 (abreviaturas.aux) (resumen.aux) (productos.aux) (capitulos/introduccion.aux)
-(capitulos/hipotesis_objetivos.aux) (capitulos/metodologia.aux)
-(capitulos/resultados_discusion.aux) (capitulos/conclusiones.aux)
-(capitulos/recomendaciones.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
+(capitulos/metodologia.aux) (capitulos/resultados_discusion.aux)
+(capitulos/conclusiones.aux) (capitulos/recomendaciones.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 5D569BC37C7F5B927269A7FC66839C97;2552.
+(rerunfilecheck)             Checksum: 1A608D3B8E5599F9135D38F8B70EA83B;3038.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1055,16 +1077,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 9545 strings out of 492895
- 144810 string characters out of 3123735
- 287767 words of memory out of 3000000
- 13111 multiletter control sequences out of 15000+200000
- 32135 words of font info for 80 fonts, out of 3000000 for 9000
+ 9567 strings out of 492895
+ 145025 string characters out of 3123735
+ 288469 words of memory out of 3000000
+ 13127 multiletter control sequences out of 15000+200000
+ 31878 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,7n,42p,930b,457s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,7n,42p,929b,679s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 }<C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr10.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
@@ -1077,9 +1099,9 @@ h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Us
 ers/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb
 ><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/upl
 ri8a.pfb>
-Output written on tesis.pdf (27 pages, 1095848 bytes).
+Output written on tesis.pdf (28 pages, 1185532 bytes).
 PDF statistics:
- 399 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
- 264 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 461 PDF objects out of 1000 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
 
