@@ -1,2 +1,2 @@
 # Tesis
-Estudio de la Contaminación Lumínica en la Ciudad de México
+Estudio de la luz artificial durante la noche en la Ciudad de México
