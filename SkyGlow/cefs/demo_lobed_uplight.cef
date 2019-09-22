@@ -1,0 +1,16 @@
+# demo file
+# name Demo emission function - lobed model
+# zenith_angle[deg] value[-]
+0	0.0
+10	0.05
+20	0.1
+30	0.2
+40	0.3
+# test line
+50	0.4
+60	0.5
+70	0.6
+80	0.3
+90	0.0
+
+

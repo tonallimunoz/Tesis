@@ -1,0 +1,7 @@
+# demo file
+# name Stratus clouds
+# wavelength[nm] value[-]
+350   0.5   ... wavelength [nm] & cloud spectral reflectance [-]
+500   0.5   ... wavelength [nm] & cloud spectral reflectance [-]
+600   0.5   ... wavelength [nm] & cloud spectral reflectance [-]
+800   0.5   ... wavelength [nm] & cloud spectral reflectance [-]
