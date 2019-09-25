@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  18 SEP 2019 08:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.24)  24 SEP 2019 21:51
 entering extended mode
 **./tesis.tex
 (tesis.tex
 LaTeX2e <2018-12-01>
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
 Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk11.clo"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk11.clo"
 File: bk11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -21,30 +21,35 @@ File: bk11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2019/07/19 3.33 The Babel package
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
-"
-File: switch.def 2019/07/19 3.33 Babel switching mechanism
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+y"
+Package: babel 2019/04/03 3.29 The Babel package
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
+ef"
+File: switch.def 2019/04/03 3.29 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
+g"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\span
-ish.ldf"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\sp
+anish.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2019/07/19 3.33 Babel common definitions
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
+f"
+File: babel.def 2019/04/03 3.29 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
-ef")
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
+.def")
 \bbl@dirlevel=\count90
 )
 \es@quottoks=\toks14
@@ -54,35 +59,36 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
-y"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
+sty"
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
-y"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
+sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
-"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
+ty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen104
 ))
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
-"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
+ty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen105
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
-"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
+ty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count92
@@ -122,7 +128,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
-) ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+)
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count104
 \float@exts=\toks22
@@ -130,74 +137,74 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks23
 \@floatcapt=\box30
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
-sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks24
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
-sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
-ics.cfg"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
-x.def"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\gensymb.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\gensymb.sty"
 Package: gensymb 2003/07/02 v1.0 (WaS)
-)
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/svg\svg.sty"
+) ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/svg\svg.sty"
 Package: svg 2018/11/12 v2.02b (include SVG pictures)
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrbas
-e.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrb
+ase.sty"
 Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
  basics and keyval usage)
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfi
-le.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrl
+file.sty"
 Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
 ))
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
-ty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
+.sty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
-x.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflua
+tex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
-sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxete
+x.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
-mds.sty"
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
-rr.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
+rerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
-.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
+ds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -205,24 +212,25 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\shellesc.sty
-"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\shellesc.s
+ty"
 Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 69.
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/trimspaces\trimspa
-ces.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/trimspaces\trims
+paces.sty"
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \svg@box=\box31
 \c@svg@param@lastpage=\count105
 \c@svg@param@currpage=\count106
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
+y"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
-.cfg"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+or.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -236,27 +244,25 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\transpare
-nt.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\transpa
+rent.sty"
 Package: transparent 2018/11/18 v1.3 Transparency via pdfTeX's color stack (HO)
 
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.s
-ty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook
+.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 ))
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\afterpage.st
-y"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\afterpage.
+sty"
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks25
 \AP@partial=\box32
 \AP@footins=\box33
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ragged2e\ragged2e.
-sty"
-Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
-
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip46
@@ -274,12 +280,12 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip58
 \JustifyingParindent=\skip59
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+y.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
-sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvte
+x.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
@@ -296,24 +302,24 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks26
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-cfg"))
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\mathpazo.st
-y"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+y.cfg"))
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\mathpazo.
+sty"
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
-sty"
-Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperre
+f.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
-hyperref.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsu
+b-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
-generic.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsu
+b-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -342,88 +348,94 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
-.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
+ns.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen123
 \Hy@linkcounter=\count110
 \Hy@pagecounter=\count111
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
-f"
-File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.
+def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count112
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
-cfg"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperre
+f.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4550.
-Package hyperref Info: Link nesting OFF on input line 4555.
-Package hyperref Info: Hyper index ON on input line 4558.
-Package hyperref Info: Plain pages OFF on input line 4565.
-Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4803.
+Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count113
- ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5156.
+LaTeX Info: Redefining \url on input line 5125.
 \XeTeXLinkMargin=\dimen124
 \Fld@menulength=\count114
 \Field@Width=\dimen125
 \Fld@charsize=\dimen126
-Package hyperref Info: Hyper figures OFF on input line 6411.
-Package hyperref Info: Link nesting OFF on input line 6416.
-Package hyperref Info: Hyper index ON on input line 6419.
-Package hyperref Info: backreferencing OFF on input line 6426.
-Package hyperref Info: Link coloring OFF on input line 6431.
-Package hyperref Info: Link coloring with OCG OFF on input line 6436.
-Package hyperref Info: PDF/A mode OFF on input line 6441.
-LaTeX Info: Redefining \ref on input line 6481.
-LaTeX Info: Redefining \pageref on input line 6485.
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
 \Hy@abspage=\count115
 \c@Item=\count116
 \c@Hfootnote=\count117
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
-ef"
-File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex
+.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count118
 \c@bookmark@seq@number=\count119
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
-check.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfi
+lecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip60
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\upgreek.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\upgreek.sty"
 Package: upgreek 2003/02/12 v2.0 (WaS)
 Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
 \symugrf@m=\mathgroup5
 LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
 (Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.
+sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.st
+y"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip61
 \bibsep=\skip62
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count120
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
-sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlese
+c.sty"
 Package: titlesec 2019/09/09 v2.12 Sectioning titles
 \ttl@box=\box34
 \beforetitleunit=\skip63
@@ -435,39 +447,41 @@ Package: titlesec 2019/09/09 v2.12 Sectioning titles
 \titlewidthlast=\dimen130
 \titlewidthfirst=\dimen131
 ) (tesis.aux (portada.aux)
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
  (agradecimientos.aux) (abreviaturas.aux)
 (resumen.aux) (productos.aux) (capitulos/introduccion.aux)
 (capitulos/metodologia.aux) (capitulos/resultados_discusion.aux)
-(capitulos/conclusiones.aux) (capitulos/recomendaciones.aux))
+(capitulos/conclusiones.aux) (capitulos/recomendaciones.aux)
+(capitulos/anexos.aux))
 \openout1 = `tesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 41.
 
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pplx.fd"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pplx.f
+d"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
-df.mkii"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count121
 \scratchdimen=\dimen132
@@ -481,12 +495,12 @@ df.mkii"
 \makeMPintoPDFobject=\count126
 \everyMPtoPDFconversion=\toks29
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
-base.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
+f-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
-y"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
+sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -496,20 +510,20 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \celsius on input line 37.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 37.
+LaTeX Info: Redefining \celsius on input line 41.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 41.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 37.
-Package gensymb Info: Using \upOmega for \ohm on input line 37.
+LaTeX Info: Redefining \ohm on input line 41.
+Package gensymb Info: Using \upOmega for \ohm on input line 41.
 
 Package gensymb Warning: Not defining \micro.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 37.
+LaTeX Info: Redefining \selectfont on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -546,21 +560,21 @@ LaTeX Info: Redefining \selectfont on input line 37.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box36
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 41.
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
-ty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref
+.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
-estring.sty"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\getti
+tlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count127
 )
-LaTeX Info: Redefining \ref on input line 37.
-LaTeX Info: Redefining \pageref on input line 37.
-LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
  (tesis.out) (tesis.out)
 \@outlinefile=\write3
 \openout3 = `tesis.out'.
@@ -568,12 +582,12 @@ LaTeX Info: Redefining \nameref on input line 37.
 \openout2 = `portada.aux'.
 
  (portada.tex
-<unam.pdf, id=163, 822.27202pt x 924.25299pt>
+<unam.pdf, id=171, 822.27202pt x 924.25299pt>
 File: unam.pdf Graphic file (type pdf)
 <use unam.pdf>
 Package pdftex.def Info: unam.pdf  used on input line 7.
 (pdftex.def)             Requested size: 74.00128pt x 83.17917pt.
-<ciencias.pdf, id=164, 359.74399pt x 411.136pt>
+<ciencias.pdf, id=172, 359.74399pt x 411.136pt>
 File: ciencias.pdf Graphic file (type pdf)
 <use ciencias.pdf>
 Package pdftex.def Info: ciencias.pdf  used on input line 19.
@@ -581,32 +595,36 @@ Package pdftex.def Info: ciencias.pdf  used on input line 19.
 LaTeX Font Info:    Try loading font information for OML+zplm on input line 20.
 
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.fd"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.f
+d"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Try loading font information for OMS+zplm on input line 20.
 
- ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.fd
-"
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.f
+d"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Try loading font information for OMX+zplm on input line 20.
 
 
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.fd"
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.f
+d"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Try loading font information for OT1+zplm on input line 20.
 
- ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd
-"
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.f
+d"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )) [1
 
 
 
-{C:/Users/joc_h/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./unam.pdf>
- <./ciencias.pdf
+{C:/Users/Usuario/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./unam.pd
+f> <./ciencias.pdf
 
 pdfTeX warning: pdflatex (file ./ciencias.pdf): PDF inclusion: multiple pdfs wi
 th page group included in a single page
@@ -614,25 +632,25 @@ th page group included in a single page
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 	\chapter
+l.48 	\chapter
               *{} [1
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 44.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 44.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 48.
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 	\include{agradecimientos}
+l.58 	\include{agradecimientos}
                                 [1]pdfTeX warning (ext4): destination with the 
 same identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 	\include{agradecimientos}
+l.58 	\include{agradecimientos}
                                 [1
 
 ]
@@ -644,7 +662,7 @@ l.54 	\include{agradecimientos}
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.57 	\include{abreviaturas}
+l.61 	\include{abreviaturas}
                              [2
 
 
@@ -660,7 +678,7 @@ LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10.95> not available
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.60 	\include{resumen}
+l.64 	\include{resumen}
                         [3
 
 
@@ -693,7 +711,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 	\include{productos}
+l.67 	\include{productos}
                           [4
 
 
@@ -739,7 +757,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.66 	\tableofcontents
+l.70 	\tableofcontents
                        [5
 
 
@@ -784,9 +802,9 @@ Package spanish Warning: Replacing `OT1/pplx/bx/sc' by
 \openout4 = `tesis.toc'.
 
 LaTeX Font Info:    Font shape `OT1/pplx/m/sl' in size <10.95> not available
-(Font)              Font shape `OT1/pplx/m/it' tried instead on input line 68.
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
+(Font)              Font shape `OT1/pplx/m/it' tried instead on input line 72.
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
  [7] (tesis.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -811,7 +829,7 @@ LaTeX Info: Redefining \% on input line 1.
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 	\mainmatter
+l.85 	\mainmatter
                   %comienza numeración arábiga [9
 
 ]
@@ -827,80 +845,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
 
-<espectroelectromagnetico.png, id=322, 1027.84pt x 609.27625pt>
+<espectroelectromagnetico.png, id=336, 1027.84pt x 609.27625pt>
 File: espectroelectromagnetico.png Graphic file (type png)
 <use espectroelectromagnetico.png>
 Package pdftex.def Info: espectroelectromagnetico.png  used on input line 13.
 (pdftex.def)             Requested size: 469.75502pt x 278.4576pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 33.
 
- []
 
-[1
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 65.
+
+
+Underfull \vbox (badness 1629) has occurred while \output is active []
+
+ [1
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+LaTeX Info: Redefining \. on input line 100.
+LaTeX Info: Redefining \% on input line 100.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-
- []
-
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
 [2 <./espectroelectromagnetico.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-
- []
-
-<duraciondeldiahistorico.png, id=355, 963.6pt x 542.025pt>
-File: duraciondeldiahistorico.png Graphic file (type png)
-<use duraciondeldiahistorico.png>
-Package pdftex.def Info: duraciondeldiahistorico.png  used on input line 106.
-(pdftex.def)             Requested size: 469.75502pt x 264.23819pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
-
- []
-
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 113--115
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
@@ -914,54 +898,113 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--126
+ []
+
+<duraciondeldiahistorico.png, id=383, 963.6pt x 542.025pt>
+File: duraciondeldiahistorico.png Graphic file (type png)
+<use duraciondeldiahistorico.png>
+Package pdftex.def Info: duraciondeldiahistorico.png  used on input line 128.
+(pdftex.def)             Requested size: 469.75502pt x 264.23819pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
 
  []
 
-LaTeX Info: Redefining \. on input line 128.
-LaTeX Info: Redefining \% on input line 128.
+LaTeX Info: Redefining \. on input line 137.
+LaTeX Info: Redefining \% on input line 137.
 [4 <./duraciondeldiahistorico.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
-LaTeX Info: Redefining \. on input line 188.
-LaTeX Info: Redefining \% on input line 188.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+LaTeX Info: Redefining \. on input line 189.
+LaTeX Info: Redefining \% on input line 189.
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
-)
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
- [6]
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+LaTeX Info: Redefining \. on input line 256.
+LaTeX Info: Redefining \% on input line 256.
+[6])
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
+ [7]
 \openout2 = `./capitulos/metodologia.aux'.
 
  (capitulos/metodologia.tex
@@ -1021,7 +1064,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--18
 
  []
 
-) [7
+) [8
 
 
 
@@ -1030,7 +1073,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--18
 
  (capitulos/resultados_discusion.tex
 Cap\'{\i }tulo 3.
-) [8
+) [9
 
 
 
@@ -1039,7 +1082,7 @@ Cap\'{\i }tulo 3.
 
  (capitulos/conclusiones.tex
 Cap\'{\i }tulo 4.
-) [9
+) [10
 
 
 
@@ -1048,60 +1091,68 @@ Cap\'{\i }tulo 4.
 
  (capitulos/recomendaciones.tex
 Cap\'{\i }tulo 5.
-) [10
+) [11
+
+
+
+]
+\openout2 = `./capitulos/anexos.aux'.
+
+ (capitulos/anexos.tex
+Cap\'{\i }tulo 6.
+) [12
 
 
 
 ] (tesis.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
- [11
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+ [13
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
  (tesis.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  (agradecimientos.aux)
 (abreviaturas.aux) (resumen.aux) (productos.aux) (capitulos/introduccion.aux)
 (capitulos/metodologia.aux) (capitulos/resultados_discusion.aux)
-(capitulos/conclusiones.aux) (capitulos/recomendaciones.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
+(capitulos/conclusiones.aux) (capitulos/recomendaciones.aux)
+(capitulos/anexos.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1A608D3B8E5599F9135D38F8B70EA83B;3038.
+(rerunfilecheck)             Checksum: BEF897738B2E1185B52218AC59F260CF;3148.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
- 9567 strings out of 492895
- 145025 string characters out of 3123735
- 288469 words of memory out of 3000000
- 13127 multiletter control sequences out of 15000+200000
- 31878 words of font info for 79 fonts, out of 3000000 for 9000
+ 9572 strings out of 492902
+ 145705 string characters out of 3122872
+ 292239 words of memory out of 3000000
+ 13109 multiletter control sequences out of 15000+200000
+ 32135 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,7n,42p,929b,679s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/joc_h/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/joc_h/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/joc_h/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/joc_
-h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Us
-ers/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb
-><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/upl
-ri8a.pfb>
-Output written on tesis.pdf (28 pages, 1185532 bytes).
+ 35i,11n,42p,929b,656s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
+nc}<C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/Usuario/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/Usuario/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Us
+ers/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pf
+b><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/
+uplb8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
+palatino/uplbi8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/urw/palatino/uplr8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on tesis.pdf (30 pages, 1195112 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 84 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 491 PDF objects out of 1000 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 357 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,8 +5,8 @@
 
 \subsection{Radiación electromagnética}
 
-La luz es radiación electromagnética que se propaga como onda a través del espacio transportando energía radiante en el proceso. Está constituida por partículas elementales sin masa denominadas fotones.
-Las propiedades de la luz están condensadas en el espectro electromagnético (Figura~\ref{espectroelectromagnetico}) con base en el número de oscilaciones de la onda por unidad de tiempo (frecuencia) y la distancia lineal entre dos puntos equivalentes de ondas sucesivas (longitud de onda).\\
+La luz es radiación electromagnética que se propaga en forma de onda a través del espacio transportando energía radiante en el proceso. Está constituida por partículas elementales sin masa denominadas fotones.
+Las propiedades de la luz están condensadas en el espectro electromagnético (Figura~\ref{espectroelectromagnetico}) con base en el número de oscilaciones de la onda por unidad de tiempo (frecuencia, $\nu$) y la distancia lineal entre dos puntos equivalentes de ondas sucesivas (longitud de onda, $\lambda$).\\
 
 \begin{figure}
   \centering
@@ -15,58 +15,80 @@ Las propiedades de la luz están condensadas en el espectro electromagnético (F
   \label{espectroelectromagnetico}
 \end{figure}
 
-Una de tales propiedades, importante para este trabajo en la región visible del espectro electromagnético ($\sim$ 450-750 nm), es la temperatura de color que está definida a partir de la Ley de desplazamiento de Wien. Esta ley explica la relación inversa entre la longitud de onda en la que se produce el pico de emisión de un cuerpo negro y su temperatura:
+Una de tales propiedades de interés para este trabajo en la región visible del espectro electromagnético ($\sim$ 450-750 nm), es la temperatura de color ($T$)  que está definida a partir de la Ley de desplazamiento de Wien. Esta ley explica la relación inversa entre la longitud de onda en la que se produce el pico de emisión de un cuerpo negro ($\lambda_{max}$) y $T$:
 
 \begin{equation}
 \lambda_{max}=\dfrac{b}{T}
 \end{equation}
 
+Donde $b = 2.897...\e{-3}$ m K, es denominada la constante de Wien. Un cuerpo negro es un objeto ideal que absorbe toda radiación electromagnética incidente y que en equilibrio termodinámico y térmico, emite radiación térmica sólo con dependencia en su temperatura.\\
 
-Propiedades de propagación
+En la \textbf{Sección \ref{fuentesluz}} se presenta la aplicación del concepto de temperatura de color para la clasificación del color de las fuentes de luz y su implicación biológica en los seres vivos.\\
 
-\subsection{Unidades de medición de la luz}
+\subsection{Propiedades ópticas}
 
-Métodos experimentales
-
-Métodos teóricos
-
-Para la estimación regional de la CL se puede optar por alguno de los métodos arriba descritos o incluso la combinación de ambos.\\
-
-Las magnitudes son unidades astronómicas de medición permiten establecer una escala de brillo aparente de objetos celestes. Algunos ejemplos (de menos a más brillantes)son:
-
-\begin{itemize}
-
-    \item 0.03. Vega, la estrella de referencia
-    \item 6. Estrellas perceptibles a simple vista
-    \item -12.6. Luna llena
-    \item -26.73 Sol
-    
- \end{itemize}
- 
- Para la medición del brillo del cielo nocturno se utilizan diferentes unidades según el enfoque del estudio. En el caso de estudios generales (sin dependencia espectral) se retoman las magnitudes astronómicas por unidad de área.\\
- 
-En este sentido las magnitudes/arcosegundo se definen como el brillo medido en magnitudes extendido sobre un arcosegundo cuadrado del cielo (área).\\
-
-Hay 360 grados en un círculo, hay 60 arcominutos en un grado, hay 21,600 arcominutos en un círculo. Hay 60 arcosegundos en un arcominuto, hay 1,296,000 arcosegundos en un círculo.\\
-
-Estas unidades de medición son logarítmicas (lo que implica que cambios pequeños en la medición reflejan cambios grandes en el brillo del cielo).\\
-
-El uso de esta unidad de medición requiere de ciertas consideraciones para la interpretación correcta de los resultados. Como se mencionó con anterioridad, las nubes, el aerosol atmosférico,la niebla y la neblina pueden alterar las mediciones tanto de campo como las remotas.
+La óptica es el campo de la física que se encarga de estudiar la interacción de la luz con la materia. En la  \textbf{Tabla \ref{tab:propiedadesopticas}} se resumen las principales propiedades ópticas.\\
 
 
+\begin{table}[]
+\centering
+\caption{Propiedades ópticas de la luz}
+\label{tab:propiedadesopticas}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lll}
+\hline
+\textbf{Propiedad} &          & \textbf{Descripción}                                             \\ \hline
+                                    &          &                                                                                   \\
+Absorción                           &          & La luz es captada en el objeto y aumenta su energía térmica                       \\
+                                    &          &                                                                                   \\
+Transmisión                         &          & La luz atraviesa el objeto sin cambio de dirección ni intensidad                  \\
+                                    &          &                                                                                   \\
+Dispersión                          &          & La luz es captada en el objeto y se re-emite con diferente dirección e intensidad \\
+                                    &          &                                                                                   \\
+                                    & Rayleigh & Dispersión elástica (conserva energía) en que la longitud de onda de la luz       \\
+                                    &          & incidente es mucho mayor que el tamaño del objeto                                 \\
+                                    &          &                                                                                   \\
+                                    & Mie      & Dispersión elástica en que la longitud de onda de la luz incidente es similar     \\
+                                    &          & al tamaño del objeto                                                              \\
+                                    &          &                                                                                   \\
+Reflexión                           &          & La luz se desvía al chocar con el objeto con un ángulo igual al de incidencia     \\
+                                    &          &                                                                                   \\
+Refracción                          &          & La luz cambia de dirección y velocidad al atravesar por un medio diferente       
+\end{tabular}%
+}
+\end{table}
 
-En \textit{Caracterización de la contaminación lumínica en zonas protegidas y urbanas} (2015), tesis doctoral de Salvador Ribas de la Universidad de Barcelona, se menciona dos tipos de medición del brillo del cielo nocturno:
+\subsection{Unidades de medición}
 
-\begin{itemize}
+Existen dos campos de estudio que se encargan de la medición de la luz: la fotometría y la radiometría. La fotometría se encarga de medir la luz con base en la sensibilidad de la vista humana. Por otro lado, la radiometría mide la luz abarcando todas las longitudes de onda del espectro electromagnético. Al ser de carácter general este trabajo, en la \textbf{Tabla \ref{tab:unidadesradiometria}} se muestran las unidades del Sistema Internacional de Unidades (SI) utilizadas en radiometría. 
 
-    \item Extensivas (a lo largo de un territorio)
-    \item Continuas (emplazamiento permanente a lo largo de una red)     
-    
-\end{itemize}
+\begin{table}[]
+\centering
+\caption{Unidades del SI utilizadas en radiometría}
+\label{tab:unidadesradiometria}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lll}
+\hline
+\textbf{Magnitud física}            & \textbf{Unidad del SI}                      & \textbf{Notas}                                                    \\ \hline
+                                    &                                             &                                                                   \\
+Energía radiante (Q)                & julio (J)                                   & Energía                                                           \\
+                                    &                                             &                                                                   \\
+Flujo radiante ($\Phi$)             & vatio                                       & Energía radiada por unidad de tiempo (potencia)                   \\
+                                    &                                             &                                                                   \\
+Intensidad radiante (I)             & vatio por estereorradián                    & Potencia por ángulo sólido                                        \\
+                                    &                                             &                                                                   \\
+Irradiancia (E)                     & vatio por metro cuadrado                    & Potencia incidente por superficie                                 \\
+                                    &                                             &                                                                   \\
+Emitancia radiante (M)              & vatio por metro cuadrado                    & Potencia emitida por superficie de la fuente radiante             \\
+                                    &                                             &                                                                   \\
+Radiancia (L)                       & vatio por estereorradián por metro cuadrado & Potencia por ángulo sólido y por superficie                       \\
+                                    &                                             &                                                                   \\
+Radiancia espectral ($L_{\lambda}$) & vatio por estereorradián por metro cúbico   & Potencia por ángulo sólido, por superficie y por longitud de onda
+\end{tabular}%
+}
+\end{table}
 
-En ambos casos, la finalidad óptima es la elaboración de un mapa de niveles de contaminación lumínica que incluya la dimensión temporal para evaluar los cambios en el brillo del cielo nocturno.\\
-
-La red de Contaminación Lumínica Catalana es un ejemplo de medición continua de la CL.
+Métodos experimentales y métodos teóricos
 
 
 \section{Brillo del cielo nocturno}
@@ -132,9 +154,13 @@ Uso y abuso de la energía\\
 
 \subsection{Tipos de CL}
 
+Skyglow de interés
+
 \subsection{Consecuencias de la CL}
 
 En qué región del espectro se ven afectadas diferentes clases de animales de acuerdo con su visión (luminancia).\\
+
+Podrían estimular la nucleación de partículas ultrafinas que se forman por reacciones fotoquímicas.
 
 \subsection{Marco regulatorio: normas y leyes en México y el mundo}
 
@@ -172,26 +198,50 @@ Según el Departamento de Estudios Luminotécnicos de la ETSEIB (UPC) en \textit
 
 \section{Alumbrado público}
 
-\subsection{Fuentes de luz}
+\subsection{Fuentes de luz} \label{fuentesluz}
+
+Curso de iluminación de Manuel García.\\
+
+En la práctica,la temperatura de color sólo tiene significado físico para objetos que son aproximadamente cuerpos negros.\\
+
+Color temperature Wikipedia.\\
+
+Lámparas incandesentes (el bulbo se aproxima a un cuerpo negro irradiador). \\
+
+
+Lámparas fluorescentes y LEDS no emiten en el espectro de un cuerpo negro, para esto se aplica la correlated color temperature.\\
 
 \subsection{Tipos de luminarias}
 
+Poste,etc.
+
 \subsection{Función de emisividad urbana}
 
+Teoría de Kocifaj y Héctor
 
 \section{Estudio de caso: Ciudad de México}
 
+
 \subsection{Descripción del área de estudio}
+
+División política, extensión, situación geográfica, 
 
 Incluir REPSA
 
 \subsection{Inventario de alumbrado público}
 
+Incluir número total de luminarias
+
 \subsection{Consumo de energía eléctrica}
+
 
 Datos de consumo de energía eléctrica por entidad federativa por el Sistema de Información Energética de la Secretaría de Energía.\\
 
+Su relación con las emisiones de gases de efecto invernadero 
+
 \subsection{Climatología de nubes y aerosol atmosférico}
+
+Artículo de Giovanni Caraballi
 
 \section{Hipótesis}
 

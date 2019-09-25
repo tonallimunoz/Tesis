@@ -1,7 +1,7 @@
 \documentclass[letterpaper,11pt,twoside]{book} 
 
 %Configuración inicial
-\usepackage[spanish]{babel} %español 
+\usepackage[spanish,es-tabla]{babel} %español 
 \usepackage[utf8]{inputenc} %acentos
 \usepackage{amsmath,float,graphicx,gensymb} %ecuaciones/imágenes
 \usepackage{svg} %gráficos vectoriales escalables
@@ -13,11 +13,15 @@
 \usepackage{hyperref} %referencias navegables
 \usepackage{upgreek} %diferentes letras griegas
 \decimalpoint %usar punto en vez de la coma por default en el paquete de idioma español
+\usepackage{lscape} %Tablas horizontales
 
 %Características de las referencias
 \usepackage[round]{natbib}
 \bibliographystyle{apalike}
 
+%Notación científica
+
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
 
 %Comandos para cambiar la posición de los títulos de capítulo
 \usepackage[compact]{titlesec}
@@ -89,6 +93,8 @@
 	\include{./capitulos/conclusiones}
 	
 	\include{./capitulos/recomendaciones}
+	
+	\include{./capitulos/anexos}
 	
 	\phantomsection
 	\renewcommand\bibname{Referencias}
