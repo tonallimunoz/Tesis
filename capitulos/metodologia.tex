@@ -1,14 +1,22 @@
 \chapter{Metodología}
 
+\section{El software \textit{Radiance Light Trends}}
+
 \section{El modelo \textit{SkyGlow}}
 
 Marco teórico del modelo SkyGlow
 
-http://www.unisky.sav.sk/?lang=en&page=aplikacia&subpage=glow
+%http://www.unisky.sav.sk/?lang=en&page=aplikacia&subpage=glow
 
-Gráficas tipo all-sky de radiancia en puntos específicos de luz que llega desde todas partes del cielo (180°) o en el cenit.\\
+
+In general, if we want to know how radiation will be attenuated in the
+atmosphere by aerosols, gases and/or clouds we need to solve a radiation
+transfer equation, which requires information on optical properties of the
+gases and particulates (such as extinction coefficients, single scattering
+albedo, scattering phase function, etc.). 
 
 La radiancia espectral es un problema de transferencia radiativa que se puede resolver considerando condiciones de frontera:\\
+
 
 Función de emisividad de la ciudad. Relativamente constante en el tiempo. Depende de la cantidad y tipo de luminarias, la geometría (tamaño) de la ciudad y la posición del observador.\\
 
@@ -16,4 +24,28 @@ Características fluctuantes de la atmósfera.
 Efecto del aerosol atmosférico o turbidez atmosférica (propiedades ópticas de bulto del aerosol)
 Contenido de agua líquida de las nubes que es función del tamaño de gotitas de nube y su densidad espacial así como su altitud en la atmósfera.\\
 
+Depending on the city size, the
+distance to a hypothetical observer and the
+altitude of the cloud base, a city is split into
+
+Urban night-sky luminance and cloud type 3
+
+many pixels to keep the computational accur-
+acy at a predefined level. Every pixel can be
+
+characterised by its geometrical position with
+respect to the observer, the total spectral
+radiant flux emitted to the upper hemisphere
+and spectral radiance as a function of zenith
+angle. These functions are provided for
+discrete wavelengths, thus simulating the
+weighted spectrum of all light sources
+(lamps) in a given pixel. Solano2015
+
+Inputs del modelo
+
 Correr el modelo sólo para 20 nm y así ahorrar tiempo de computación. Justificar por qué esto es representativo.
+
+Productos:
+
+Gráficas tipo all-sky de radiancia en puntos específicos de luz que llega desde todas partes del cielo (180 grados) o en el cenit.\\

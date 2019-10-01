@@ -1,36 +1,165 @@
 \begin{thebibliography}{}
 
+\bibitem[Born and Wolf, 2003]{Born&Wolf2003}
+Born, M. and Wolf, E. (2003).
+\newblock Principles of optics.
+\newblock {\em Cambridge University Press}.
+
+\bibitem[Carabali et~al., 2017]{Carabali2017}
+Carabali, G., Estévez, H., Valdés-Barrón, M., Bonifaz-Alfonzo, R.,
+  Riveros-Rosas, D., Velasco-Herrera, V., and Vázquez-Gálvez, F. (2017).
+\newblock {Aerosol climatology over the Mexico City basin: characterization of
+  optical properties}.
+\newblock {\em Atmospheric Research}, 194:190--201.
+
 \bibitem[Conway, 1982]{Conway1982}
 Conway, B.~A. (1982).
 \newblock On the history of the lunar orbit.
 \newblock {\em Icarus}, 51(3):610--622.
 
+\bibitem[Elvidge et~al., 2010]{Eldvidge2010}
+Elvidge, C., Keith, D., Tuttle, B., and Baugh, K. (2010).
+\newblock Spectral identification of lighting type and character.
+\newblock {\em Sensors}, 10:3961--3988.
+
+\bibitem[Foot and Leeson, 1987]{Foot1987}
+Foot, J. and Leeson, M. (1987).
+\newblock Aerosol single-scattering albedo: a method for obtaining climatology
+  data.
+\newblock {\em Atmospheric Environment}, 21(7):1665--1670.
+
+\bibitem[Garstang, 1986]{Garstang1986}
+Garstang, R. (1986).
+\newblock Model for artificial night-sky illumination.
+\newblock {\em Publications of the Astronomical Society of the Pacific},
+  98:364--375.
+
+\bibitem[Garstang, 1991]{Garstang1991}
+Garstang, R. (1991).
+\newblock Dust and light pollution.
+\newblock {\em Publications of the Astronomical Society of the Pacific},
+  103:1109--1116.
+
 \bibitem[Gil et~al., 2012]{LibroCL}
-Gil, M.~G., Páramo, R. S.~M., Lamphar, H.~S., and Payàs, P.~F. (2012).
+Gil, M.~G., Páramo, R. S.~M., Solano, H., and Payàs, P.~F. (2012).
 \newblock {Contaminación lumínica. Una visión desde el foco contaminante: el
   alumbrado artificial}.
 \newblock {\em Universidad Politécnica de Cataluña}.
 
-\bibitem[Greaves, 2005]{Greaves2005}
-Greaves, J.~S. (2005).
-\newblock Disks around stars and the growth of planetary systems.
-\newblock {\em Science}, 307(5706):68--71.
+\bibitem[{HA. Solano and Miroslav Kocifaj}, 2013a]{Solano2013}
+{HA. Solano and Miroslav Kocifaj} (2013a).
+\newblock Light pollution in ultraviolet and visible spectrum: effect on
+  different visual perceptions.
+\newblock {\em PLOS ONE}, 8(2):1--15.
+
+\bibitem[{HA. Solano and Miroslav Kocifaj}, 2013b]{Solano2013b}
+{HA. Solano and Miroslav Kocifaj} (2013b).
+\newblock Skyglow effects in uv and visible spectra: radiative fluxes.
+\newblock {\em Journal of Environmental Management}, 127:300--307.
+
+\bibitem[{HA. Solano and Miroslav Kocifaj}, 2014]{Solano2014}
+{HA. Solano and Miroslav Kocifaj} (2014).
+\newblock Quanitative analysis of night skyglow amplification under cloudy
+  conditions.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  443:3665--3674.
+
+\bibitem[{HA. Solano and Miroslav Kocifaj}, 2015]{Solano2015}
+{HA. Solano and Miroslav Kocifaj} (2015).
+\newblock Urban night-sky luminance due to different cloud types: a numerical
+  experiment.
+\newblock {\em Lighting Research and Technology}, 0:1--17.
+
+\bibitem[Halliday et~al., 2008]{Halliday&Resnick2008}
+Halliday, D., Resnick, R., and Walker, J. (2008).
+\newblock Fundamentals of physics.
+\newblock {\em John Wiley and Sons, Inc.}
+
+\bibitem[Hanel et~al., 2018]{Hanel2018}
+Hanel, A., Posch, T., Ribas, S.~J., Aubé, M., Duriscoe, D., Jechow, A.,
+  Kollath, Z., Lolkema, D., Moore, C., Schmidt, N., Spoelstra, H., Wuchterl,
+  G., and Kyba, C. (2018).
+\newblock Measuring night sky brightness: methods and challenges.
+\newblock {\em Journal of Quantitative Spectroscopy and Radiative Transfer},
+  205:278--290.
+
+\bibitem[Holben et~al., 1998]{Holben1998}
+Holben, B., Eck, T., Slutsker, I., Tanré, D., Buis, J., Setzer, A., Vermote,
+  E., Reagan, J., Kaufman, Y., Nakajima, T., Lavenu, F., Jankowiak, I., and
+  Smirnov, A. (1998).
+\newblock {AERONET. A federated instrument network and data archive for aerosol
+  characterization}.
+\newblock {\em Remote Sensing of Environment}, 66(1):1--16.
+
+\bibitem[{Instituto de Transparencia, Acceso a la Información Pública,
+  Protección de Datos Personales y Rendición de Cuentas de la Ciudad de
+  México}, 2019]{INFO2019}
+{Instituto de Transparencia, Acceso a la Información Pública, Protección de
+  Datos Personales y Rendición de Cuentas de la Ciudad de México} (2019).
+\newblock {Consulta digital}.
 
 \bibitem[{Instituto Nacional de Estadística y Geografía}, 2015]{INEGI2015}
 {Instituto Nacional de Estadística y Geografía} (2015).
 \newblock Encuesta intercensal.
 
-\bibitem[Kocifaj, 2007]{Kocifaj2007}
-Kocifaj, M. (2007).
-\newblock Light-pollution model for cloudy and cloudless night skies with
-  ground-based light sources.
-\newblock {\em Applied Optics}, 46(15):3013--3022.
+\bibitem[Kyba et~al., 2017]{Kyba2017}
+Kyba, C., Mohar, A., and Posch, T. (2017).
+\newblock {How bright is moonlight?}
+\newblock {\em Astronomy and Geophysics}, 58(1):131--132.
+
+\bibitem[Leinert et~al., 1998]{Leinert1998}
+Leinert, C., Bowyer, S., Haikala, L., Hanner, M., and Hauser, M. (1998).
+\newblock The 1997 reference of diffuse night sky brightness.
+\newblock {\em Astronomy and Astrophysics Supplement Series}, 1(127):1--99.
+
+\bibitem[Lohmann et~al., 2016]{Lohmann2016}
+Lohmann, U., Luond, F., and Mahrt, F. (2016).
+\newblock An introduction to clouds: from microscale to climate.
+\newblock {\em Cambridge University Press}.
 
 \bibitem[Lot et~al., 2012]{AtlasREPSA}
 Lot, A., Escobedo, M.~P., Alarcón, G.~G., and Palacios, S.~R. (2012).
 \newblock {Atlas de riesgos de la Reserva Ecológica del Pedregal de San
   Ángel}.
 \newblock {\em Coordinación de la Investigación Científica}.
+
+\bibitem[Marin, 2009]{Marin2009}
+Marin, C. (2009).
+\newblock Starlight: a common heritage.
+\newblock {\em Proceedings of the International Astronomical Union},
+  5:449--456.
+
+\bibitem[Matthews, 2008]{Matthews2008}
+Matthews, G. (2008).
+\newblock {Celestial body irradiance determination from an underfilled
+  satellite radiometer: application to albedo and thermal emission measurements
+  of the Moon using CERES}.
+\newblock {\em Applied Optics}, 47(27):4981--4993.
+
+\bibitem[Meyer, 1968]{Jurgen1968}
+Meyer, J. (1968).
+\newblock Radiometry and photometry: units and conversion factors.
+\newblock {\em Applied Optics}, 7(10):2081--2084.
+
+\bibitem[{Miroslav Kocifaj}, 2007]{Kocifaj2007}
+{Miroslav Kocifaj} (2007).
+\newblock Light-pollution model for cloudy and cloudless night skies with
+  ground-based light sources.
+\newblock {\em Applied Optics}, 46(15):3013--3022.
+
+\bibitem[{Miroslav Kocifaj and HA. Solano}, 2014]{Kocifaj2014}
+{Miroslav Kocifaj and HA. Solano} (2014).
+\newblock Skyglow: a retrieval of the approximate radiant intensity function of
+  ground-based light sources.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  439:3405--3413.
+
+\bibitem[{Miroslav Kocifaj and HA. Solano}, 2016]{Kocifaj2016}
+{Miroslav Kocifaj and HA. Solano} (2016).
+\newblock Angular emission function of a city and skyglow modeling: a critical
+  perspective.
+\newblock {\em Publications of the Astronomical Society of the Pacific},
+  128:1--16.
 
 \bibitem[{National Aeronautics and Space Administration}, 2007]{NASA2007}
 {National Aeronautics and Space Administration} (2007).
@@ -41,13 +170,28 @@ Lot, A., Escobedo, M.~P., Alarcón, G.~G., and Palacios, S.~R. (2012).
 {Organización para la Cooperación y el Desarrollo Económicos} (2015).
 \newblock {Estudios territoriales de la OCDE. Valle de México, México}.
 
+\bibitem[Purcell and Morin, 2013]{Purcell&Morin2013}
+Purcell, E. and Morin, D. (2013).
+\newblock Electricity and magnetism.
+\newblock {\em Cambridge University Press}.
+
+\bibitem[Ramos and Montenegro, 2012]{Ramos2012}
+Ramos, L. and Montenegro, M. (2012).
+\newblock {La generación de energía eléctrica en México}.
+\newblock {\em Tecnología y Ciencias del Agua}, 3(4):197--211.
+
+\bibitem[Schulte et~al., 2018]{Globaldiscussion}
+Schulte, N., Dannemann, E., and Meier, J. (2018).
+\newblock {Light pollution. A global discussion}.
+\newblock {\em Helmholtz Centre for Environmental Research}.
+
 \bibitem[{Secretaría de Energía}, 2013]{SENER2013}
 {Secretaría de Energía} (2013).
 \newblock Prospectiva de petróleo crudo y petrolíferos 2013-2027.
 
 \bibitem[Stevenson, 1987]{Stevenson1987}
 Stevenson, D.~J. (1987).
-\newblock Origin of the moon - the collision hypotesis.
+\newblock {Origin of the Moon - the collision hypotesis}.
 \newblock {\em Annual review of Earth and Planetary Sciences}, 15(1):271--315.
 
 \bibitem[Stevenson and Bartlett, 2016]{Stevenson&Bartlett2016}
@@ -60,6 +204,11 @@ Stone, T. (2017).
 \newblock The value of darkness: a moral framework for urban nighttime
   lighting.
 \newblock {\em Science and Engineering Ethics}, 24(2018):607--628.
+
+\bibitem[Twomey, 1967]{Twomey1967}
+Twomey, S. (1967).
+\newblock Light scattering by cloud layers.
+\newblock {\em Journal of the Atmospheric Sciences}, 24:70--79.
 
 \bibitem[Zahnle and Walker, 1987]{Zahnle&Walker1987}
 Zahnle, K. and Walker, J.~C. (1987).

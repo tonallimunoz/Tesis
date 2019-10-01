@@ -10,9 +10,12 @@ A level-1 auxiliary file: ./capitulos/metodologia.aux
 A level-1 auxiliary file: ./capitulos/resultados_discusion.aux
 A level-1 auxiliary file: ./capitulos/conclusiones.aux
 A level-1 auxiliary file: ./capitulos/recomendaciones.aux
+A level-1 auxiliary file: ./capitulos/anexos.aux
 Database file #1: referencias.bib
+Warning--I didn't find a database entry for "Greaves2005"
+Warning--empty journal in INFO2019
 Warning--empty journal in INEGI2015
 Warning--empty journal in NASA2007
 Warning--empty journal in OCDE2015
 Warning--empty journal in SENER2013
-(There were 4 warnings)
+(There were 6 warnings)

@@ -14,19 +14,25 @@
 >>> ATTENTION: <<< 
  
 Command-line argument(s) recognized and accepted. 
- vertex distance (at 7 discrete azimuth angles) read successfuly from MA.dat 
- vertex distance (at 11 discrete azimuth angles) read successfuly from TLA.dat 
- vertex distance (at 6 discrete azimuth angles) read successfuly from XO.dat 
+ vertex distance (at 5 discrete azimuth angles) read successfuly from AZ.dat 
+ vertex distance (at 6 discrete azimuth angles) read successfuly from CUA.dat 
+ vertex distance (at 8 discrete azimuth angles) read successfuly from GAM.dat 
+ vertex distance (at 5 discrete azimuth angles) read successfuly from MH.dat 
+ vertex distance (at 6 discrete azimuth angles) read successfuly from VC.dat 
  
 POLYGONal-source case activated; The real size of the light source is accepted; 
  	Radiance is calculated in absolute units [W/m2/sr]. 
 
- Light-source[0]='MA.dat' (with equivalent radius=9.40 [km] and 105 discrete flux densities) parsed successfuly 
- Polygonal Light-source[0]='MA.dat' is at avg_azimuth=152.8 [deg] and avg_distance=11.94 [km] 
- Light-source[1]='TLA.dat' (with equivalent radius=9.82 [km] and 105 discrete flux densities) parsed successfuly 
- Polygonal Light-source[1]='TLA.dat' is at avg_azimuth=250.6 [deg] and avg_distance=12.19 [km] 
- Light-source[2]='XO.dat' (with equivalent radius=6.53 [km] and 105 discrete flux densities) parsed successfuly 
- Polygonal Light-source[2]='XO.dat' is at avg_azimuth=99.3 [deg] and avg_distance=0.38 [km] 
+ Light-source[0]='AZ.dat' (with equivalent radius=2.34 [km] and 105 discrete flux densities) parsed successfuly 
+ Polygonal Light-source[0]='AZ.dat' is at avg_azimuth=338.0 [deg] and avg_distance=5.93 [km] 
+ Light-source[1]='CUA.dat' (with equivalent radius=3.25 [km] and 105 discrete flux densities) parsed successfuly 
+ Polygonal Light-source[1]='CUA.dat' is at avg_azimuth=162.1 [deg] and avg_distance=0.55 [km] 
+ Light-source[2]='GAM.dat' (with equivalent radius=5.56 [km] and 105 discrete flux densities) parsed successfuly 
+ Polygonal Light-source[2]='GAM.dat' is at avg_azimuth=21.9 [deg] and avg_distance=8.47 [km] 
+ Light-source[3]='MH.dat' (with equivalent radius=3.93 [km] and 105 discrete flux densities) parsed successfuly 
+ Polygonal Light-source[3]='MH.dat' is at avg_azimuth=261.8 [deg] and avg_distance=6.27 [km] 
+ Light-source[4]='VC.dat' (with equivalent radius=3.45 [km] and 105 discrete flux densities) parsed successfuly 
+ Polygonal Light-source[4]='VC.dat' is at avg_azimuth=94.6 [deg] and avg_distance=6.00 [km] 
  Asymmetry parameter (at 8 discrete wavelengths) read successfuly from dust_asm.spc 
  Single scattering albedo (at 8 discrete wavelengths) read successfuly from dust_ssa.spc 
  Cloud reflectance (at 4 discrete wavelengths) read successfuly from cloud.spc 
