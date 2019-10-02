@@ -12,10 +12,14 @@ A level-1 auxiliary file: ./capitulos/conclusiones.aux
 A level-1 auxiliary file: ./capitulos/recomendaciones.aux
 A level-1 auxiliary file: ./capitulos/anexos.aux
 Database file #1: referencias.bib
-Warning--I didn't find a database entry for "Greaves2005"
+Repeated entry---line 386 of file referencias.bib
+ : @article{Garstang1986
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Stevenson&Bartlett2016"
 Warning--empty journal in INFO2019
 Warning--empty journal in INEGI2015
 Warning--empty journal in NASA2007
 Warning--empty journal in OCDE2015
 Warning--empty journal in SENER2013
-(There were 6 warnings)
+(There was 1 error message)

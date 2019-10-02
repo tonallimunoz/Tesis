@@ -12,10 +12,16 @@ Carabali, G., Estévez, H., Valdés-Barrón, M., Bonifaz-Alfonzo, R.,
   optical properties}.
 \newblock {\em Atmospheric Research}, 194:190--201.
 
-\bibitem[Conway, 1982]{Conway1982}
-Conway, B.~A. (1982).
-\newblock On the history of the lunar orbit.
-\newblock {\em Icarus}, 51(3):610--622.
+\bibitem[Conway, 2000]{Conway2000}
+Conway, S. (2000).
+\newblock {The Cambrian explosion: slow-fuse or megatonnage?}
+\newblock {\em Proceedings of the National Academy of Sciences},
+  97(9):4426--4429.
+
+\bibitem[{DJ. Stevenson}, 1987]{Stevenson1987}
+{DJ. Stevenson} (1987).
+\newblock {Origin of the Moon - the collision hypotesis}.
+\newblock {\em Annual review of Earth and Planetary Sciences}, 15:271--315.
 
 \bibitem[Elvidge et~al., 2010]{Eldvidge2010}
 Elvidge, C., Keith, D., Tuttle, B., and Baugh, K. (2010).
@@ -101,6 +107,11 @@ Holben, B., Eck, T., Slutsker, I., Tanré, D., Buis, J., Setzer, A., Vermote,
 \bibitem[{Instituto Nacional de Estadística y Geografía}, 2015]{INEGI2015}
 {Instituto Nacional de Estadística y Geografía} (2015).
 \newblock Encuesta intercensal.
+
+\bibitem[{JS. Greaves}, 2005]{Greaves2005}
+{JS. Greaves} (2005).
+\newblock Disks around stars and the growth of planetary systems.
+\newblock {\em Science}, 307(68-71).
 
 \bibitem[Kyba et~al., 2017]{Kyba2017}
 Kyba, C., Mohar, A., and Posch, T. (2017).
@@ -189,16 +200,6 @@ Schulte, N., Dannemann, E., and Meier, J. (2018).
 {Secretaría de Energía} (2013).
 \newblock Prospectiva de petróleo crudo y petrolíferos 2013-2027.
 
-\bibitem[Stevenson, 1987]{Stevenson1987}
-Stevenson, D.~J. (1987).
-\newblock {Origin of the Moon - the collision hypotesis}.
-\newblock {\em Annual review of Earth and Planetary Sciences}, 15(1):271--315.
-
-\bibitem[Stevenson and Bartlett, 2016]{Stevenson&Bartlett2016}
-Stevenson, D.~J. and Bartlett, B.~C. (2016).
-\newblock {Analysis of a Precambrian resonance-stabilizied day length}.
-\newblock {\em Geophysical Research Letters}, 43(11):5716--5724.
-
 \bibitem[Stone, 2017]{Stone2017}
 Stone, T. (2017).
 \newblock The value of darkness: a moral framework for urban nighttime
@@ -210,10 +211,23 @@ Twomey, S. (1967).
 \newblock Light scattering by cloud layers.
 \newblock {\em Journal of the Atmospheric Sciences}, 24:70--79.
 
-\bibitem[Zahnle and Walker, 1987]{Zahnle&Walker1987}
-Zahnle, K. and Walker, J.~C. (1987).
-\newblock {A constant daylength during the Precambrian era?}
-\newblock {\em Precambrian Research}, 37(2):950--105.
+\bibitem[Uribe, 2014]{Uribe2014}
+Uribe, H. (2014).
+\newblock De ecosistema a socioecosistema diseñado como territorio del capital
+  agroindustrial.
+\newblock {\em Revista Colombiana de Sociología}, 37:121--157.
+
+\bibitem[Urquiza and Cadenas, 2015]{Urquiza2015}
+Urquiza, A. and Cadenas, H. (2015).
+\newblock Sistemas socio-ecológicos: elementos teóricos y conceptuales para
+  la discusión en torno a la vulnerabilidad hídrica.
+\newblock {\em L'Ordinaire des Amériques}, 218:1--18.
+
+\bibitem[Ávila and Perevochtchikova, 2019]{Avila2019}
+Ávila, V. and Perevochtchikova, M. (2019).
+\newblock Sistemas socio-ecológicos: marcos analíticos y estudios de caso en
+  oaxaca, méxico.
+\newblock {\em Universidad Nacional Autónoma de México}.
 
 \bibitem[Zari, 2018]{Zari2018}
 Zari, M.~P. (2018).

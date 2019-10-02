@@ -47,3 +47,5 @@ Mexico: Tlahuac (4 vertices)
 Mexico: Venustiano Carranza (6 vertices)
 Mexico: Xochimilco (6 vertices)
 17 cities read.
+City Gustavo A. Madero switched on
+Observer's position set to -99.1497919230526, 19.510272567452574
