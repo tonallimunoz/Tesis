@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.24)  2 OCT 2019 12:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.24)  4 OCT 2019 20:34
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -850,7 +850,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<espectroelectromagnetico.png, id=421, 1027.84pt x 609.27625pt>
+<espectroelectromagnetico.png, id=427, 1027.84pt x 609.27625pt>
 File: espectroelectromagnetico.png Graphic file (type png)
 <use espectroelectromagnetico.png>
 Package pdftex.def Info: espectroelectromagnetico.png  used on input line 12.
@@ -1093,7 +1093,7 @@ Overfull \hbox (21.55357pt too wide) in paragraph at lines 280--297
  [][] 
  []
 
-<distribucionespectral.png, id=601, 412.54124pt x 347.79938pt>
+<distribucionespectral.png, id=607, 412.54124pt x 347.79938pt>
 File: distribucionespectral.png Graphic file (type png)
 <use distribucionespectral.png>
 Package pdftex.def Info: distribucionespectral.png  used on input line 301.
@@ -1105,7 +1105,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
  []
 
-<anguloapantallamiento.png, id=620, 171.64125pt x 277.035pt>
+<anguloapantallamiento.png, id=626, 171.64125pt x 277.035pt>
 File: anguloapantallamiento.png Graphic file (type png)
 <use anguloapantallamiento.png>
 Package pdftex.def Info: anguloapantallamiento.png  used on input line 317.
@@ -1152,7 +1152,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 340--341
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
  []
 
@@ -1172,7 +1172,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 350--351
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
 
  []
 
@@ -1189,38 +1189,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 358--359
 LaTeX Info: Redefining \. on input line 359.
 LaTeX Info: Redefining \% on input line 359.
 [10]
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+<nocturnalidad.png, id=696, 514.17094pt x 386.94562pt>
+File: nocturnalidad.png Graphic file (type png)
+<use nocturnalidad.png>
+Package pdftex.def Info: nocturnalidad.png  used on input line 371.
+(pdftex.def)             Requested size: 411.33731pt x 309.55692pt.
+
 Underfull \hbox (badness 10000) in paragraph at lines 376--377
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 398--399
+LaTeX Info: Redefining \. on input line 378.
+LaTeX Info: Redefining \% on input line 378.
+[11 <./nocturnalidad.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--401
+Underfull \hbox (badness 10000) in paragraph at lines 412--413
 
  []
 
-LaTeX Info: Redefining \. on input line 412.
-LaTeX Info: Redefining \% on input line 412.
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 445--446
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
 
  []
 
-LaTeX Info: Redefining \. on input line 478.
-LaTeX Info: Redefining \% on input line 478.
-[12])
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+
+ []
+
+LaTeX Info: Redefining \. on input line 436.
+LaTeX Info: Redefining \% on input line 436.
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+LaTeX Info: Redefining \. on input line 504.
+LaTeX Info: Redefining \% on input line 504.
+[13])
 LaTeX Info: Redefining \. on input line 89.
 LaTeX Info: Redefining \% on input line 89.
- [13]
+ [14]
 \openout2 = `./capitulos/metodologia.aux'.
 
  (capitulos/metodologia.tex
@@ -1247,7 +1279,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--91
 
  []
 
-[14
+[15
 
 
 
@@ -1256,7 +1288,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--91
 
  (capitulos/resultados_discusion.tex
 Cap\'{\i }tulo 3.
-) [15
+) [16
 
 
 
@@ -1265,7 +1297,7 @@ Cap\'{\i }tulo 3.
 
  (capitulos/conclusiones.tex
 Cap\'{\i }tulo 4.
-) [16
+) [17
 
 
 
@@ -1274,7 +1306,7 @@ Cap\'{\i }tulo 4.
 
  (capitulos/recomendaciones.tex
 Cap\'{\i }tulo 5.
-) [17
+) [18
 
 
 
@@ -1283,21 +1315,21 @@ Cap\'{\i }tulo 5.
 
  (capitulos/anexos.tex
 Cap\'{\i }tulo 6.
-) [18
+) [19
 
 
 
-] (tesis.bbl [19
+] (tesis.bbl [20
 
 
 ]
-LaTeX Info: Redefining \. on input line 214.
-LaTeX Info: Redefining \% on input line 214.
- [20])
+LaTeX Info: Redefining \. on input line 209.
+LaTeX Info: Redefining \% on input line 209.
+ [21])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
 LaTeX Info: Redefining \. on input line 106.
 LaTeX Info: Redefining \% on input line 106.
- [21]
+ [22]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
  (tesis.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 26.
@@ -1318,10 +1350,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 9769 strings out of 492902
- 149051 string characters out of 3122872
- 288810 words of memory out of 3000000
- 13234 multiletter control sequences out of 15000+200000
+ 9789 strings out of 492902
+ 149402 string characters out of 3122872
+ 290061 words of memory out of 3000000
+ 13248 multiletter control sequences out of 15000+200000
  40636 words of font info for 101 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,11n,42p,777b,677s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1339,9 +1371,9 @@ ype1/urw/palatino/uplb8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/Usuario/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Usuario/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on tesis.pdf (39 pages, 612861 bytes).
+Output written on tesis.pdf (40 pages, 672079 bytes).
 PDF statistics:
- 791 PDF objects out of 1000 (max. 8388607)
- 144 named destinations out of 1000 (max. 500000)
- 442 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 831 PDF objects out of 1000 (max. 8388607)
+ 149 named destinations out of 1000 (max. 500000)
+ 447 words of extra memory for PDF output out of 10000 (max. 10000000)
 

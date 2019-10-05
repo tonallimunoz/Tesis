@@ -24,32 +24,32 @@
 \contentsline {section}{\numberline {1.4}Contaminaci\IeC {\'o}n lum\IeC {\'\i }nica (CL)}{10}{section.1.4}% 
 \contentsline {subsection}{\numberline {1.4.1}El enfoque socioecosist\IeC {\'e}mico}{10}{subsection.1.4.1}% 
 \contentsline {subsection}{\numberline {1.4.2}Importancia del ciclo d\IeC {\'\i }a-noche en la evoluci\IeC {\'o}n de la vida}{10}{subsection.1.4.2}% 
-\contentsline {subsection}{\numberline {1.4.3}Historia del uso y abuso de la luz}{11}{subsection.1.4.3}% 
-\contentsline {subsection}{\numberline {1.4.4}Tipos de CL}{11}{subsection.1.4.4}% 
-\contentsline {subsection}{\numberline {1.4.5}Consecuencias de la CL}{11}{subsection.1.4.5}% 
-\contentsline {subsection}{\numberline {1.4.6}Contexto hist\IeC {\'o}rico del estudio de la CL}{11}{subsection.1.4.6}% 
-\contentsline {subsection}{\numberline {1.4.7}Marco regulatorio: normas y leyes en M\IeC {\'e}xico y el mundo}{11}{subsection.1.4.7}% 
-\contentsline {section}{\numberline {1.5}Estudio de caso: Ciudad de M\IeC {\'e}xico}{12}{section.1.5}% 
-\contentsline {subsection}{\numberline {1.5.1}Descripci\IeC {\'o}n del \IeC {\'a}rea de estudio}{12}{subsection.1.5.1}% 
-\contentsline {subsection}{\numberline {1.5.2}Inventario de alumbrado p\IeC {\'u}blico}{12}{subsection.1.5.2}% 
-\contentsline {subsection}{\numberline {1.5.3}Consumo de energ\IeC {\'\i }a el\IeC {\'e}ctrica}{12}{subsection.1.5.3}% 
-\contentsline {subsection}{\numberline {1.5.4}Climatolog\IeC {\'\i }a de aerosol atmosf\IeC {\'e}rico y nubosidad}{12}{subsection.1.5.4}% 
-\contentsline {section}{\numberline {1.6}Hip\IeC {\'o}tesis}{12}{section.1.6}% 
-\contentsline {section}{\numberline {1.7}Objetivos}{12}{section.1.7}% 
-\contentsline {subsection}{\numberline {1.7.1}Generales}{12}{subsection.1.7.1}% 
-\contentsline {subsection}{\numberline {1.7.2}Particulares}{13}{subsection.1.7.2}% 
-\contentsline {chapter}{\numberline {2}Metodolog\IeC {\'\i }a}{14}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}El software \textit {Radiance Light Trends}}{14}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}El modelo \textit {SkyGlow}}{14}{section.2.2}% 
-\contentsline {chapter}{\numberline {3}Resultados y discusi\IeC {\'o}n}{15}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Tendencias de radiancia en las alcald\IeC {\'\i }as de la Ciudad de M\IeC {\'e}xico}{15}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Mapa de radiancia de la Ciudad de M\IeC {\'e}xico}{15}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Gr\IeC {\'a}ficas tipo \textit {all sky} de distribuci\IeC {\'o}n de radiancia}{15}{section.3.3}% 
-\contentsline {section}{\numberline {3.4}Experimentos num\IeC {\'e}ricos}{15}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}Cambio del tipo de luminarias en la Ciudad de M\IeC {\'e}xico}{15}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3.4.2}Influencia del aerosol atmosf\IeC {\'e}rico en la distribuci\IeC {\'o}n de radiancia}{15}{subsection.3.4.2}% 
-\contentsline {subsection}{\numberline {3.4.3}Influencia de la nubosidad en la distribuci\IeC {\'o}n de radiancia}{15}{subsection.3.4.3}% 
-\contentsline {chapter}{\numberline {4}Conclusiones}{16}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}Recomendaciones}{17}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Anexos}{18}{chapter.6}% 
-\contentsline {chapter}{Referencias}{19}{section*.11}% 
+\contentsline {subsection}{\numberline {1.4.3}Historia del uso y abuso de la luz}{12}{subsection.1.4.3}% 
+\contentsline {subsection}{\numberline {1.4.4}Tipos de CL}{12}{subsection.1.4.4}% 
+\contentsline {subsection}{\numberline {1.4.5}Consecuencias de la CL}{12}{subsection.1.4.5}% 
+\contentsline {subsection}{\numberline {1.4.6}Contexto hist\IeC {\'o}rico del estudio de la CL}{12}{subsection.1.4.6}% 
+\contentsline {subsection}{\numberline {1.4.7}Marco regulatorio: normas y leyes en M\IeC {\'e}xico y el mundo}{12}{subsection.1.4.7}% 
+\contentsline {section}{\numberline {1.5}Estudio de caso: Ciudad de M\IeC {\'e}xico}{13}{section.1.5}% 
+\contentsline {subsection}{\numberline {1.5.1}Descripci\IeC {\'o}n del \IeC {\'a}rea de estudio}{13}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1.5.2}Inventario de alumbrado p\IeC {\'u}blico}{13}{subsection.1.5.2}% 
+\contentsline {subsection}{\numberline {1.5.3}Consumo de energ\IeC {\'\i }a el\IeC {\'e}ctrica}{13}{subsection.1.5.3}% 
+\contentsline {subsection}{\numberline {1.5.4}Climatolog\IeC {\'\i }a de aerosol atmosf\IeC {\'e}rico y nubosidad}{13}{subsection.1.5.4}% 
+\contentsline {section}{\numberline {1.6}Hip\IeC {\'o}tesis}{13}{section.1.6}% 
+\contentsline {section}{\numberline {1.7}Objetivos}{13}{section.1.7}% 
+\contentsline {subsection}{\numberline {1.7.1}Generales}{13}{subsection.1.7.1}% 
+\contentsline {subsection}{\numberline {1.7.2}Particulares}{14}{subsection.1.7.2}% 
+\contentsline {chapter}{\numberline {2}Metodolog\IeC {\'\i }a}{15}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}El software \textit {Radiance Light Trends}}{15}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}El modelo \textit {SkyGlow}}{15}{section.2.2}% 
+\contentsline {chapter}{\numberline {3}Resultados y discusi\IeC {\'o}n}{16}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Tendencias de radiancia en las alcald\IeC {\'\i }as de la Ciudad de M\IeC {\'e}xico}{16}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Mapa de radiancia de la Ciudad de M\IeC {\'e}xico}{16}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Gr\IeC {\'a}ficas tipo \textit {all sky} de distribuci\IeC {\'o}n de radiancia}{16}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Experimentos num\IeC {\'e}ricos}{16}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Cambio del tipo de luminarias en la Ciudad de M\IeC {\'e}xico}{16}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Influencia del aerosol atmosf\IeC {\'e}rico en la distribuci\IeC {\'o}n de radiancia}{16}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.3}Influencia de la nubosidad en la distribuci\IeC {\'o}n de radiancia}{16}{subsection.3.4.3}% 
+\contentsline {chapter}{\numberline {4}Conclusiones}{17}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}Recomendaciones}{18}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Anexos}{19}{chapter.6}% 
+\contentsline {chapter}{Referencias}{20}{section*.11}% 

@@ -5,6 +5,11 @@ Born, M. and Wolf, E. (2003).
 \newblock Principles of optics.
 \newblock {\em Cambridge University Press}.
 
+\bibitem[{C. Rich and T. Longcore}, 2006]{Longcore2006}
+{C. Rich and T. Longcore} (2006).
+\newblock Ecological consequences of artificial night lighting.
+\newblock {\em Island Press}.
+
 \bibitem[Carabali et~al., 2017]{Carabali2017}
 Carabali, G., Estévez, H., Valdés-Barrón, M., Bonifaz-Alfonzo, R.,
   Riveros-Rosas, D., Velasco-Herrera, V., and Vázquez-Gálvez, F. (2017).
@@ -97,6 +102,11 @@ Holben, B., Eck, T., Slutsker, I., Tanré, D., Buis, J., Setzer, A., Vermote,
   characterization}.
 \newblock {\em Remote Sensing of Environment}, 66(1):1--16.
 
+\bibitem[Holker et~al., 2010]{Holker2010}
+Holker, F., Wolter, C., Perkin, E., and Tockner, K. (2010).
+\newblock Light pollution as a biodiversity threat.
+\newblock {\em Trends in Ecology and Evolution}, 25(12):681--682.
+
 \bibitem[{Instituto de Transparencia, Acceso a la Información Pública,
   Protección de Datos Personales y Rendición de Cuentas de la Ciudad de
   México}, 2019]{INFO2019}
@@ -107,6 +117,11 @@ Holben, B., Eck, T., Slutsker, I., Tanré, D., Buis, J., Setzer, A., Vermote,
 \bibitem[{Instituto Nacional de Estadística y Geografía}, 2015]{INEGI2015}
 {Instituto Nacional de Estadística y Geografía} (2015).
 \newblock Encuesta intercensal.
+
+\bibitem[{JC. Dunlap}, 1999]{Dunlap1999}
+{JC. Dunlap} (1999).
+\newblock {Molecular bases for circadian clocks}.
+\newblock {\em Cell}, 96:271--290.
 
 \bibitem[{JS. Greaves}, 2005]{Greaves2005}
 {JS. Greaves} (2005).
