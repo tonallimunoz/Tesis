@@ -1,14 +1,25 @@
 \begin{thebibliography}{}
 
+\bibitem[Arguijo, 2018]{Arguijo2018}
+Arguijo, T. (2018).
+\newblock Iniciativa que reforma y adiciona diversas disposiciones de la
+  lgeepa.
+
+\bibitem[Aubé et~al., 2005]{Aube2005}
+Aubé, M., Franchomme, L., Robert, P., and Houle, V. (2005).
+\newblock Light pollution modeling and detection in a heterogeneous
+  environment.
+\newblock {\em Proceedings of SPIE}, 589:1--12.
+
+\bibitem[Bertiau et~al., 1973]{Bertiau1973}
+Bertiau, F., Graeve, E., and Treanor, P. (1973).
+\newblock {The artificial night-sky illumination in Italy}.
+\newblock {\em Vatican Observatory Publications}, 1:159--179.
+
 \bibitem[Born and Wolf, 2003]{Born&Wolf2003}
 Born, M. and Wolf, E. (2003).
 \newblock Principles of optics.
 \newblock {\em Cambridge University Press}.
-
-\bibitem[{C. Rich and T. Longcore}, 2006]{Longcore2006}
-{C. Rich and T. Longcore} (2006).
-\newblock Ecological consequences of artificial night lighting.
-\newblock {\em Island Press}.
 
 \bibitem[Carabali et~al., 2017]{Carabali2017}
 Carabali, G., Estévez, H., Valdés-Barrón, M., Bonifaz-Alfonzo, R.,
@@ -17,21 +28,47 @@ Carabali, G., Estévez, H., Valdés-Barrón, M., Bonifaz-Alfonzo, R.,
   optical properties}.
 \newblock {\em Atmospheric Research}, 194:190--201.
 
+\bibitem[{Comité Español de Iluminación}, 2017]{CEI2017}
+{Comité Español de Iluminación} (2017).
+\newblock {Posibles riesgos de la iluminación LED}.
+
 \bibitem[Conway, 2000]{Conway2000}
 Conway, S. (2000).
 \newblock {The Cambrian explosion: slow-fuse or megatonnage?}
 \newblock {\em Proceedings of the National Academy of Sciences},
   97(9):4426--4429.
 
+\bibitem[Davies et~al., 2013]{Davies2013}
+Davies, T., Bennie, J., Inger, R., Hempel, N., and Gaston, K. (2013).
+\newblock Artificial light pollution: are shifting spectral signatures changing
+  the balance of species interactions?
+\newblock {\em Global Change Biology}, 19(5).
+
 \bibitem[{DJ. Stevenson}, 1987]{Stevenson1987}
 {DJ. Stevenson} (1987).
 \newblock {Origin of the Moon - the collision hypotesis}.
 \newblock {\em Annual review of Earth and Planetary Sciences}, 15:271--315.
 
+\bibitem[Dunbar and Growlett, 2014]{Dunbar2014}
+Dunbar, R. and Growlett, J. (2014).
+\newblock Fireside chat: the impact of fire on hominin socioecology.
+\newblock {\em Oxford University Press}.
+
+\bibitem[Duvall, 1988]{Duvall1988}
+Duvall, N. (1988).
+\newblock Domestic technology: a chronology.
+\newblock {\em {G. K. Hall Company Editors}}.
+
 \bibitem[Elvidge et~al., 2010]{Eldvidge2010}
 Elvidge, C., Keith, D., Tuttle, B., and Baugh, K. (2010).
 \newblock Spectral identification of lighting type and character.
 \newblock {\em Sensors}, 10:3961--3988.
+
+\bibitem[Falchi et~al., 2016]{Falchi2016}
+Falchi, F., Cinzano, P., Duriscoe, D., Kyba, C., Elvidge, C., Baugh, K.,
+  Portnov, B., Rybnikova, N., and Furgoni, R. (2016).
+\newblock The new world atlas of artificial night sky brightness.
+\newblock {\em Science Advances}, 2(6):1--25.
 
 \bibitem[Foot and Leeson, 1987]{Foot1987}
 Foot, J. and Leeson, M. (1987).
@@ -107,12 +144,17 @@ Holker, F., Wolter, C., Perkin, E., and Tockner, K. (2010).
 \newblock Light pollution as a biodiversity threat.
 \newblock {\em Trends in Ecology and Evolution}, 25(12):681--682.
 
+\bibitem[Hudson, 1992]{Hudson1992}
+Hudson, P. (1992).
+\newblock The industrial revolution.
+\newblock {\em Chapman and Hall Editors}.
+
 \bibitem[{Instituto de Transparencia, Acceso a la Información Pública,
   Protección de Datos Personales y Rendición de Cuentas de la Ciudad de
   México}, 2019]{INFO2019}
 {Instituto de Transparencia, Acceso a la Información Pública, Protección de
   Datos Personales y Rendición de Cuentas de la Ciudad de México} (2019).
-\newblock {Consulta digital}.
+\newblock {Facilitación de datos}.
 
 \bibitem[{Instituto Nacional de Estadística y Geografía}, 2015]{INEGI2015}
 {Instituto Nacional de Estadística y Geografía} (2015).
@@ -137,6 +179,18 @@ Kyba, C., Mohar, A., and Posch, T. (2017).
 Leinert, C., Bowyer, S., Haikala, L., Hanner, M., and Hauser, M. (1998).
 \newblock The 1997 reference of diffuse night sky brightness.
 \newblock {\em Astronomy and Astrophysics Supplement Series}, 1(127):1--99.
+
+\bibitem[{Ley General del Equilibrio Ecológico y la Protección al Ambiente},
+  2018]{LGEEPA2018}
+{Ley General del Equilibrio Ecológico y la Protección al Ambiente} (2018).
+
+\bibitem[Linares et~al., 2018]{Linares2018}
+Linares, H., ans Salvador~Ribas, E.~M., Gil, M., Figueras, F., and Aubé, M.
+  (2018).
+\newblock Modeling the night sky brightness and light pollution sources of
+  montsec protected area.
+\newblock {\em Journal of Quantitative Spectroscopy and Radiative Transfer},
+  217:178--188.
 
 \bibitem[Lohmann et~al., 2016]{Lohmann2016}
 Lohmann, U., Luond, F., and Mahrt, F. (2016).
@@ -187,6 +241,13 @@ Meyer, J. (1968).
 \newblock {\em Publications of the Astronomical Society of the Pacific},
   128:1--16.
 
+\bibitem[{Miroslav Kocifaj and Thomas Posch and HA. Solano}, 2015]{Kocifaj2015}
+{Miroslav Kocifaj and Thomas Posch and HA. Solano} (2015).
+\newblock On the relation between zenith sky brightness and horizontal
+  illuminance.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  446(3):2895--2901.
+
 \bibitem[{National Aeronautics and Space Administration}, 2007]{NASA2007}
 {National Aeronautics and Space Administration} (2007).
 \newblock Electromagnetic spectrum properties.
@@ -195,6 +256,10 @@ Meyer, J. (1968).
   2015]{OCDE2015}
 {Organización para la Cooperación y el Desarrollo Económicos} (2015).
 \newblock {Estudios territoriales de la OCDE. Valle de México, México}.
+
+\bibitem[{Página Oficial de la REPSA}, 2019]{REPSA2019}
+{Página Oficial de la REPSA} (2019).
+\newblock {\url{repsa.unam.mx}}.
 
 \bibitem[Purcell and Morin, 2013]{Purcell&Morin2013}
 Purcell, E. and Morin, D. (2013).
@@ -206,6 +271,17 @@ Ramos, L. and Montenegro, M. (2012).
 \newblock {La generación de energía eléctrica en México}.
 \newblock {\em Tecnología y Ciencias del Agua}, 3(4):197--211.
 
+\bibitem[Ribas, 2015]{Ribas2015}
+Ribas, S. (2015).
+\newblock Caracterizació de la contaminación lumínica en zones protegides i
+  urbanes.
+\newblock {\em Tesis Doctoral Universitat de Barcelona}.
+
+\bibitem[Rich and Longcore, 2006]{Longcore2006}
+Rich, C. and Longcore, T. (2006).
+\newblock Ecological consequences of artificial night lighting.
+\newblock {\em Island Press}.
+
 \bibitem[Schulte et~al., 2018]{Globaldiscussion}
 Schulte, N., Dannemann, E., and Meier, J. (2018).
 \newblock {Light pollution. A global discussion}.
@@ -215,16 +291,30 @@ Schulte, N., Dannemann, E., and Meier, J. (2018).
 {Secretaría de Energía} (2013).
 \newblock Prospectiva de petróleo crudo y petrolíferos 2013-2027.
 
+\bibitem[{Secretaría del Medio Ambiente de la Ciudad de México},
+  2016]{SEDEMA2016}
+{Secretaría del Medio Ambiente de la Ciudad de México} (2016).
+\newblock {Suelo de Conservación}.
+
 \bibitem[Stone, 2017]{Stone2017}
 Stone, T. (2017).
 \newblock The value of darkness: a moral framework for urban nighttime
   lighting.
 \newblock {\em Science and Engineering Ethics}, 24(2018):607--628.
 
+\bibitem[{T. Gallaway and R. Olsen and D. Mitchell}, 2010]{Gallaway2010}
+{T. Gallaway and R. Olsen and D. Mitchell} (2010).
+\newblock The economics of global light pollution.
+\newblock {\em Ecological Economics}, 69.
+
 \bibitem[Twomey, 1967]{Twomey1967}
 Twomey, S. (1967).
 \newblock Light scattering by cloud layers.
 \newblock {\em Journal of the Atmospheric Sciences}, 24:70--79.
+
+\bibitem[{UNESCO and CONACyT and AMC}, 2016]{UNESCO2016}
+{UNESCO and CONACyT and AMC} (2016).
+\newblock Derecho a los cielos oscuros.
 
 \bibitem[Uribe, 2014]{Uribe2014}
 Uribe, H. (2014).
@@ -238,11 +328,26 @@ Urquiza, A. and Cadenas, H. (2015).
   la discusión en torno a la vulnerabilidad hídrica.
 \newblock {\em L'Ordinaire des Amériques}, 218:1--18.
 
+\bibitem[{U.S. Department of Energy}, 2017]{USENERGY2017}
+{U.S. Department of Energy} (2017).
+\newblock {An Investigation of LED Street Lighting's Impact on Sky Glow}.
+
 \bibitem[Ávila and Perevochtchikova, 2019]{Avila2019}
 Ávila, V. and Perevochtchikova, M. (2019).
 \newblock Sistemas socio-ecológicos: marcos analíticos y estudios de caso en
   oaxaca, méxico.
 \newblock {\em Universidad Nacional Autónoma de México}.
+
+\bibitem[Wiesnner, 2014]{Wiessner2014}
+Wiesnner, P. (2014).
+\newblock Embers of society: firelight talk.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 39:14027--14035.
+
+\bibitem[Wrangham and Carmody, 2010]{Wrangham2010}
+Wrangham, R. and Carmody, R. (2010).
+\newblock Human adaptation to the control of fire.
+\newblock {\em Evolutionary Anthropology}, 19(5):187--199.
 
 \bibitem[Zari, 2018]{Zari2018}
 Zari, M.~P. (2018).
