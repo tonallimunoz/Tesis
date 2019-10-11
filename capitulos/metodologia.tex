@@ -1,12 +1,47 @@
 \chapter{Metodología}
+\label{chap:metodologia}
 
-\section{El software \textit{Radiance Light Trends}}
+En este capítulo se describen las bases teóricas y técnicas del modelo de distribución de la luz en la atmósfera \textit{SkyGlow} desarrollado por \cite{Kocifaj2007}, además del software \textit{Radiance Light Trends} desarrollado por \cite{RLT2019} que permite analizar datos de radiancia medidos por el sensor \textit{Visible Infrared Imaging Radiometer Suite} (VIIRS) a bordo del satélite \textit{Suomi National Polar-orbiting Partnership}.\\
+
+Advertencia: la distribución de radiancia teórica generada por el modelo \textit{SkyGlow} se construye considerando un observador en superficie por lo que, al comparar los valores de radiancia teóricos del modelo con los generados por el VIIRS, no se pretende validar el modelo, sino estimar la tendencia de los valores de radiancia para el área de interés.\\
+
+En el \textbf{\autoref{chap:recomendaciones}} se presentan propuestas para validar el modelo \textit{SkyGlow} para la Ciudad de México.\\ 
 
 \section{El modelo \textit{SkyGlow}}
 
-Marco teórico del modelo SkyGlow
 
-%http://www.unisky.sav.sk/?lang=en&page=aplikacia&subpage=glow
+\textit{SkyGlow} es un modelo teórico escalable que permite simular el comportamiento angular de la radiancia en el cielo durante la noche en una región específica o integrada del EE. No considera restricciones en el número de fuentes de luz ni en la distribución espacial de las mismas en la vecindad del punto de medición, por lo que la distancia y el ángulo azimutal de las fuentes de luz son configurables. El modelo es aplicable para fuentes de luz con dimensiones finitas reales con propiedades radiativas espectrales y angulares definidas \citep{Kocifaj2007}.\\ 
+
+La influencia de la atmósfera en la modulación de la radiación es formulada en términos de propiedades ópticas de las moléculas de aire y aerosol atmosférico. La reflectancia espectral y la altitud de las capas de nubes son los principales factores tomados en cuenta para la modelación de condiciones de nubosidad \citep{Kocifaj2007}, \citep{Solano2014}.\\ 
+
+Las ecuaciones derivadas son traducidas en código numéricamente rápido, lo que es deseable para la realización de experimentos numéricos que incluyen una malla con gran número de puntos (dominio geográfico grande con alta resolución espacial) \citep{Kocifaj2007}, \citep{Linares2018}.\\
+
+\subsection{Datos de entrada}
+
+\textbf{Definición del dominio}
+
+El área de la superficie de estudio (forma y tamaño) es definida a través de vértices coordenados (latitud y longitud).\\
+
+\newpage
+
+\textbf{Inventario de fuentes de luz}
+
+El modelo calcula la emisión total de las fuentes de luz con base en la población (típicamente 750 lm por habitante) y su dependencia espectral.\\
+
+\textbf{Inventario de fuentes de luz}
+
+Una vez que el escenario está definido, el modelo requiere de parámetros específicos del experimento numérico que se desarrollará:
+
+\begin{itemize}
+
+    \item Rango de longitud de onda: la máxima y mínima longitud de onda a estudiar (Para este estudio, se utiliza el rango visible del EE para estimar el efecto de la dependencia espectral de las fuentes de luz reportadas en el \textbf{Inventario de Alumbrado Público de la Ciudad de México})
+    
+    \item Parámetros atmosféricos: véase la \textbf{\autoref{subsubsec:propiedadesopticasaerosol}}
+    
+    \item 
+    
+\end{itemize}
+
 
 
 In general, if we want to know how radiation will be attenuated in the
@@ -15,24 +50,13 @@ transfer equation, which requires information on optical properties of the
 gases and particulates (such as extinction coefficients, single scattering
 albedo, scattering phase function, etc.). 
 
-La radiancia espectral es un problema de transferencia radiativa que se puede resolver considerando condiciones de frontera:\\
-
-
-Función de emisividad de la ciudad. Relativamente constante en el tiempo. Depende de la cantidad y tipo de luminarias, la geometría (tamaño) de la ciudad y la posición del observador.\\
-
-Características fluctuantes de la atmósfera. 
-Efecto del aerosol atmosférico o turbidez atmosférica (propiedades ópticas de bulto del aerosol)
-Contenido de agua líquida de las nubes que es función del tamaño de gotitas de nube y su densidad espacial así como su altitud en la atmósfera.\\
 
 Depending on the city size, the
 distance to a hypothetical observer and the
 altitude of the cloud base, a city is split into
-
-Urban night-sky luminance and cloud type 3
-
+Urban night-sky luminance and cloud type 
 many pixels to keep the computational accur-
 acy at a predefined level. Every pixel can be
-
 characterised by its geometrical position with
 respect to the observer, the total spectral
 radiant flux emitted to the upper hemisphere
@@ -42,10 +66,19 @@ discrete wavelengths, thus simulating the
 weighted spectrum of all light sources
 (lamps) in a given pixel. Solano2015
 
-Inputs del modelo
 
-Correr el modelo sólo para 20 nm y así ahorrar tiempo de computación. Justificar por qué esto es representativo.
 
-Productos:
 
-Gráficas tipo all-sky de radiancia en puntos específicos de luz que llega desde todas partes del cielo (180 grados) o en el cenit.\\
+\subsection{Tratamiento de datos de salida}
+Metodología para los Productos:
+
+Mapa Radiancia Ciudad de México
+Diffuse Irradiance on horizontal surface
+
+%https://academic.oup.com/mnras/article/446/3/2895/2892638
+
+Gráficas tipo all-sky de radiancia en puntos específicos de luz que llega desde todas partes del cielo (180 grados)\\
+
+\section{El software \textit{Radiance Light Trends}}
+
+%https://twitter.com/skyglowberlin/status/1103259587501801472

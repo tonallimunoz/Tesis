@@ -28,6 +28,10 @@ Carabali, G., Estévez, H., Valdés-Barrón, M., Bonifaz-Alfonzo, R.,
   optical properties}.
 \newblock {\em Atmospheric Research}, 194:190--201.
 
+\bibitem[{Comisión Reguladora de Energía}, 2017]{CRE2017}
+{Comisión Reguladora de Energía} (2017).
+\newblock {Factor de Emisión del Sector Eléctrico Nacional}.
+
 \bibitem[{Comité Español de Iluminación}, 2017]{CEI2017}
 {Comité Español de Iluminación} (2017).
 \newblock {Posibles riesgos de la iluminación LED}.
@@ -154,7 +158,7 @@ Hudson, P. (1992).
   México}, 2019]{INFO2019}
 {Instituto de Transparencia, Acceso a la Información Pública, Protección de
   Datos Personales y Rendición de Cuentas de la Ciudad de México} (2019).
-\newblock {Facilitación de datos}.
+\newblock {Petición electrónica de datos}.
 
 \bibitem[{Instituto Nacional de Estadística y Geografía}, 2015]{INEGI2015}
 {Instituto Nacional de Estadística y Geografía} (2015).
@@ -169,6 +173,25 @@ Hudson, P. (1992).
 {JS. Greaves} (2005).
 \newblock Disks around stars and the growth of planetary systems.
 \newblock {\em Science}, 307(68-71).
+
+\bibitem[Jáuregui, 2002]{Jauregui2002}
+Jáuregui, E. (2002).
+\newblock {The Climate of the Mexico City Air Basin: Its Effects on the
+  Formation and Transport of Pollutants}.
+\newblock {\em Urban Air Pollution and Forests}, 156:86--117.
+
+\bibitem[Kanniah et~al., 2009]{Kanniah2009}
+Kanniah, K., Beringer, J., Tapper, N., and Long, C. (2009).
+\newblock {Aerosols and their influence on the radiation partioning and savanna
+  productivity in northern Australia}.
+\newblock {\em Theoretical and Applied Climatology}, 100(3):423--438.
+
+\bibitem[Kaskaoutis et~al., 2007]{Kaskaoutis2007}
+Kaskaoutis, D., Kambezidis, H., Hatzianastassiou, N., Kosmopoulos, P., and
+  Badarinath, K. (2007).
+\newblock {Aerosol climatology: dependence of the Angstrom exponent on
+  wavelength over four AERONET sites}.
+\newblock {\em Atmospheric Chemistry and Physics Discussions}, 7:7347--7397.
 
 \bibitem[Kyba et~al., 2017]{Kyba2017}
 Kyba, C., Mohar, A., and Posch, T. (2017).
@@ -185,17 +208,12 @@ Leinert, C., Bowyer, S., Haikala, L., Hanner, M., and Hauser, M. (1998).
 {Ley General del Equilibrio Ecológico y la Protección al Ambiente} (2018).
 
 \bibitem[Linares et~al., 2018]{Linares2018}
-Linares, H., ans Salvador~Ribas, E.~M., Gil, M., Figueras, F., and Aubé, M.
+Linares, H., Masana, E., Ribas, S., Gil, M., Figueras, F., and Aubé, M.
   (2018).
 \newblock Modeling the night sky brightness and light pollution sources of
   montsec protected area.
 \newblock {\em Journal of Quantitative Spectroscopy and Radiative Transfer},
   217:178--188.
-
-\bibitem[Lohmann et~al., 2016]{Lohmann2016}
-Lohmann, U., Luond, F., and Mahrt, F. (2016).
-\newblock An introduction to clouds: from microscale to climate.
-\newblock {\em Cambridge University Press}.
 
 \bibitem[Lot et~al., 2012]{AtlasREPSA}
 Lot, A., Escobedo, M.~P., Alarcón, G.~G., and Palacios, S.~R. (2012).
@@ -215,6 +233,10 @@ Matthews, G. (2008).
   satellite radiometer: application to albedo and thermal emission measurements
   of the Moon using CERES}.
 \newblock {\em Applied Optics}, 47(27):4981--4993.
+
+\bibitem[{Met Office UK}, 2019]{Metoffice2019}
+{Met Office UK} (2019).
+\newblock {\url{metoffice.gov.uk}}.
 
 \bibitem[Meyer, 1968]{Jurgen1968}
 Meyer, J. (1968).
@@ -261,6 +283,10 @@ Meyer, J. (1968).
 {Página Oficial de la REPSA} (2019).
 \newblock {\url{repsa.unam.mx}}.
 
+\bibitem[{Programa GEI México}, 2013]{GEI2013}
+{Programa GEI México} (2013).
+\newblock {\url{geimexico.org}}.
+
 \bibitem[Purcell and Morin, 2013]{Purcell&Morin2013}
 Purcell, E. and Morin, D. (2013).
 \newblock Electricity and magnetism.
@@ -296,6 +322,11 @@ Schulte, N., Dannemann, E., and Meier, J. (2018).
 {Secretaría del Medio Ambiente de la Ciudad de México} (2016).
 \newblock {Suelo de Conservación}.
 
+\bibitem[Stare and Kyba, 2019]{RLT2019}
+Stare, J. and Kyba, C. (2019).
+\newblock {Radiance Light Trends}.
+\newblock {\em GeoForschungsZentrum Data Services}.
+
 \bibitem[Stone, 2017]{Stone2017}
 Stone, T. (2017).
 \newblock The value of darkness: a moral framework for urban nighttime
@@ -315,6 +346,12 @@ Twomey, S. (1967).
 \bibitem[{UNESCO and CONACyT and AMC}, 2016]{UNESCO2016}
 {UNESCO and CONACyT and AMC} (2016).
 \newblock Derecho a los cielos oscuros.
+
+\bibitem[{Unidad de Transparencia de la Secretaría del Medio Ambiente de la
+  Ciudad de México}, 2018]{UTSEDEMA2018}
+{Unidad de Transparencia de la Secretaría del Medio Ambiente de la Ciudad de
+  México} (2018).
+\newblock {Petición electrónica de datos}.
 
 \bibitem[Uribe, 2014]{Uribe2014}
 Uribe, H. (2014).
@@ -343,6 +380,10 @@ Wiesnner, P. (2014).
 \newblock Embers of society: firelight talk.
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 39:14027--14035.
+
+\bibitem[{World Meteorological Organization}, 1987]{Cloudatlas1987}
+{World Meteorological Organization} (1987).
+\newblock {International Cloud Atlas}.
 
 \bibitem[Wrangham and Carmody, 2010]{Wrangham2010}
 Wrangham, R. and Carmody, R. (2010).

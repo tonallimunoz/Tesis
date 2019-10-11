@@ -15,7 +15,7 @@
 \contentsline {subsection}{\numberline {1.2.2}Variaci\IeC {\'o}n natural del brillo del cielo nocturno por influencia de la Luna}{3}{subsection.1.2.2}% 
 \contentsline {subsection}{\numberline {1.2.3}Variaci\IeC {\'o}n natural del brillo artificial del cielo nocturno por influencia de las condiciones atmosf\IeC {\'e}ricas}{4}{subsection.1.2.3}% 
 \contentsline {subsubsection}{Propiedades \IeC {\'o}pticas del aerosol atmosf\IeC {\'e}rico}{4}{subsection.1.2.3}% 
-\contentsline {subsubsection}{Propiedades \IeC {\'o}pticas de las nubes}{5}{equation.1.2.7}% 
+\contentsline {subsubsection}{Propiedades \IeC {\'o}pticas de las nubes}{6}{equation.1.2.11}% 
 \contentsline {section}{\numberline {1.3}Luz artificial}{7}{section.1.3}% 
 \contentsline {subsection}{\numberline {1.3.1}Fundamentos te\IeC {\'o}ricos de las fuentes artificiales de luz}{7}{subsection.1.3.1}% 
 \contentsline {subsection}{\numberline {1.3.2}Fuentes de luz artificial}{8}{subsection.1.3.2}% 
@@ -31,25 +31,27 @@
 \contentsline {subsection}{\numberline {1.4.7}Marco regulatorio: normas y leyes en M\IeC {\'e}xico y el mundo}{17}{subsection.1.4.7}% 
 \contentsline {section}{\numberline {1.5}Estudio de caso: Ciudad de M\IeC {\'e}xico}{19}{section.1.5}% 
 \contentsline {subsection}{\numberline {1.5.1}Descripci\IeC {\'o}n del \IeC {\'a}rea de estudio}{19}{subsection.1.5.1}% 
-\contentsline {subsection}{\numberline {1.5.2}Climatolog\IeC {\'\i }a de aerosol atmosf\IeC {\'e}rico}{20}{subsection.1.5.2}% 
-\contentsline {subsection}{\numberline {1.5.3}Inventario de Alumbrado P\IeC {\'u}blico de la Ciudad de M\IeC {\'e}xico}{20}{subsection.1.5.3}% 
-\contentsline {subsection}{\numberline {1.5.4}Consumo de energ\IeC {\'\i }a el\IeC {\'e}ctrica}{22}{subsection.1.5.4}% 
-\contentsline {section}{\numberline {1.6}Hip\IeC {\'o}tesis}{22}{section.1.6}% 
-\contentsline {section}{\numberline {1.7}Objetivos}{22}{section.1.7}% 
-\contentsline {subsection}{\numberline {1.7.1}Generales}{22}{subsection.1.7.1}% 
-\contentsline {subsection}{\numberline {1.7.2}Particulares}{22}{subsection.1.7.2}% 
-\contentsline {chapter}{\numberline {2}Metodolog\IeC {\'\i }a}{23}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}El software \textit {Radiance Light Trends}}{23}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}El modelo \textit {SkyGlow}}{23}{section.2.2}% 
-\contentsline {chapter}{\numberline {3}Resultados y discusi\IeC {\'o}n}{24}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Tendencias de radiancia en las alcald\IeC {\'\i }as de la Ciudad de M\IeC {\'e}xico}{24}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Mapa de radiancia de la Ciudad de M\IeC {\'e}xico}{24}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Gr\IeC {\'a}ficas tipo \textit {all sky} de distribuci\IeC {\'o}n de radiancia}{24}{section.3.3}% 
-\contentsline {section}{\numberline {3.4}Experimentos num\IeC {\'e}ricos}{24}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}Cambio del tipo de luminarias en la Ciudad de M\IeC {\'e}xico}{24}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3.4.2}Influencia del aerosol atmosf\IeC {\'e}rico en la distribuci\IeC {\'o}n de radiancia}{24}{subsection.3.4.2}% 
-\contentsline {subsection}{\numberline {3.4.3}Influencia de la nubosidad en la distribuci\IeC {\'o}n de radiancia}{24}{subsection.3.4.3}% 
-\contentsline {chapter}{\numberline {4}Conclusiones}{25}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}Recomendaciones}{26}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Anexos}{27}{chapter.6}% 
-\contentsline {chapter}{Referencias}{28}{section*.11}% 
+\contentsline {subsection}{\numberline {1.5.2}Climatolog\IeC {\'\i }a de aerosol atmosf\IeC {\'e}rico y nubosidad}{20}{subsection.1.5.2}% 
+\contentsline {subsection}{\numberline {1.5.3}Consumo de energ\IeC {\'\i }a el\IeC {\'e}ctrica}{22}{subsection.1.5.3}% 
+\contentsline {subsection}{\numberline {1.5.4}Inventario de Alumbrado P\IeC {\'u}blico de la Ciudad de M\IeC {\'e}xico}{22}{subsection.1.5.4}% 
+\contentsline {section}{\numberline {1.6}Hip\IeC {\'o}tesis}{24}{section.1.6}% 
+\contentsline {section}{\numberline {1.7}Objetivos}{24}{section.1.7}% 
+\contentsline {subsection}{\numberline {1.7.1}Generales}{24}{subsection.1.7.1}% 
+\contentsline {subsection}{\numberline {1.7.2}Particulares}{24}{subsection.1.7.2}% 
+\contentsline {chapter}{\numberline {2}Metodolog\IeC {\'\i }a}{25}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}El modelo \textit {SkyGlow}}{25}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Datos de entrada}{25}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Tratamiento de datos de salida}{26}{subsection.2.1.2}% 
+\contentsline {section}{\numberline {2.2}El software \textit {Radiance Light Trends}}{26}{section.2.2}% 
+\contentsline {chapter}{\numberline {3}Resultados y discusi\IeC {\'o}n}{27}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Tendencias de radiancia en las alcald\IeC {\'\i }as de la Ciudad de M\IeC {\'e}xico}{27}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Mapa de radiancia de la Ciudad de M\IeC {\'e}xico}{27}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Gr\IeC {\'a}ficas tipo \textit {all sky} de distribuci\IeC {\'o}n de radiancia}{27}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Experimentos num\IeC {\'e}ricos}{27}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Cambio del tipo de luminarias en la Ciudad de M\IeC {\'e}xico}{27}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Influencia del aerosol atmosf\IeC {\'e}rico en la distribuci\IeC {\'o}n de radiancia}{27}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.3}Influencia de la nubosidad en la distribuci\IeC {\'o}n de radiancia}{27}{subsection.3.4.3}% 
+\contentsline {chapter}{\numberline {4}Conclusiones}{28}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}Recomendaciones}{29}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Anexos}{30}{chapter.6}% 
+\contentsline {chapter}{Referencias}{31}{section*.11}% 

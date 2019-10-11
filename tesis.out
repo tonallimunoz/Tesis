@@ -28,25 +28,27 @@
 \BOOKMARK [2][-]{subsection.1.4.7}{Marco regulatorio: normas y leyes en M\351xico y el mundo}{section.1.4}% 28
 \BOOKMARK [1][-]{section.1.5}{Estudio de caso: Ciudad de M\351xico}{chapter.1}% 29
 \BOOKMARK [2][-]{subsection.1.5.1}{Descripci\363n del \341rea de estudio}{section.1.5}% 30
-\BOOKMARK [2][-]{subsection.1.5.2}{Climatolog\355a de aerosol atmosf\351rico}{section.1.5}% 31
-\BOOKMARK [2][-]{subsection.1.5.3}{Inventario de Alumbrado P\372blico de la Ciudad de M\351xico}{section.1.5}% 32
-\BOOKMARK [2][-]{subsection.1.5.4}{Consumo de energ\355a el\351ctrica}{section.1.5}% 33
+\BOOKMARK [2][-]{subsection.1.5.2}{Climatolog\355a de aerosol atmosf\351rico y nubosidad}{section.1.5}% 31
+\BOOKMARK [2][-]{subsection.1.5.3}{Consumo de energ\355a el\351ctrica}{section.1.5}% 32
+\BOOKMARK [2][-]{subsection.1.5.4}{Inventario de Alumbrado P\372blico de la Ciudad de M\351xico}{section.1.5}% 33
 \BOOKMARK [1][-]{section.1.6}{Hip\363tesis}{chapter.1}% 34
 \BOOKMARK [1][-]{section.1.7}{Objetivos}{chapter.1}% 35
 \BOOKMARK [2][-]{subsection.1.7.1}{Generales}{section.1.7}% 36
 \BOOKMARK [2][-]{subsection.1.7.2}{Particulares}{section.1.7}% 37
 \BOOKMARK [0][-]{chapter.2}{Metodolog\355a}{}% 38
-\BOOKMARK [1][-]{section.2.1}{El software Radiance Light Trends}{chapter.2}% 39
-\BOOKMARK [1][-]{section.2.2}{El modelo SkyGlow}{chapter.2}% 40
-\BOOKMARK [0][-]{chapter.3}{Resultados y discusi\363n}{}% 41
-\BOOKMARK [1][-]{section.3.1}{Tendencias de radiancia en las alcald\355as de la Ciudad de M\351xico}{chapter.3}% 42
-\BOOKMARK [1][-]{section.3.2}{Mapa de radiancia de la Ciudad de M\351xico}{chapter.3}% 43
-\BOOKMARK [1][-]{section.3.3}{Gr\341ficas tipo all sky de distribuci\363n de radiancia}{chapter.3}% 44
-\BOOKMARK [1][-]{section.3.4}{Experimentos num\351ricos}{chapter.3}% 45
-\BOOKMARK [2][-]{subsection.3.4.1}{Cambio del tipo de luminarias en la Ciudad de M\351xico}{section.3.4}% 46
-\BOOKMARK [2][-]{subsection.3.4.2}{Influencia del aerosol atmosf\351rico en la distribuci\363n de radiancia}{section.3.4}% 47
-\BOOKMARK [2][-]{subsection.3.4.3}{Influencia de la nubosidad en la distribuci\363n de radiancia}{section.3.4}% 48
-\BOOKMARK [0][-]{chapter.4}{Conclusiones}{}% 49
-\BOOKMARK [0][-]{chapter.5}{Recomendaciones}{}% 50
-\BOOKMARK [0][-]{chapter.6}{Anexos}{}% 51
-\BOOKMARK [0][-]{section*.11}{Referencias}{}% 52
+\BOOKMARK [1][-]{section.2.1}{El modelo SkyGlow}{chapter.2}% 39
+\BOOKMARK [2][-]{subsection.2.1.1}{Datos de entrada}{section.2.1}% 40
+\BOOKMARK [2][-]{subsection.2.1.2}{Tratamiento de datos de salida}{section.2.1}% 41
+\BOOKMARK [1][-]{section.2.2}{El software Radiance Light Trends}{chapter.2}% 42
+\BOOKMARK [0][-]{chapter.3}{Resultados y discusi\363n}{}% 43
+\BOOKMARK [1][-]{section.3.1}{Tendencias de radiancia en las alcald\355as de la Ciudad de M\351xico}{chapter.3}% 44
+\BOOKMARK [1][-]{section.3.2}{Mapa de radiancia de la Ciudad de M\351xico}{chapter.3}% 45
+\BOOKMARK [1][-]{section.3.3}{Gr\341ficas tipo all sky de distribuci\363n de radiancia}{chapter.3}% 46
+\BOOKMARK [1][-]{section.3.4}{Experimentos num\351ricos}{chapter.3}% 47
+\BOOKMARK [2][-]{subsection.3.4.1}{Cambio del tipo de luminarias en la Ciudad de M\351xico}{section.3.4}% 48
+\BOOKMARK [2][-]{subsection.3.4.2}{Influencia del aerosol atmosf\351rico en la distribuci\363n de radiancia}{section.3.4}% 49
+\BOOKMARK [2][-]{subsection.3.4.3}{Influencia de la nubosidad en la distribuci\363n de radiancia}{section.3.4}% 50
+\BOOKMARK [0][-]{chapter.4}{Conclusiones}{}% 51
+\BOOKMARK [0][-]{chapter.5}{Recomendaciones}{}% 52
+\BOOKMARK [0][-]{chapter.6}{Anexos}{}% 53
+\BOOKMARK [0][-]{section*.11}{Referencias}{}% 54
