@@ -1,0 +1,153 @@
+Reading 2 cefs...
+Demo emission function - lobed model  (10 data points)
+Demo emission function - mainly uplight  (10 data points)
+2 cefs read.
+Reading 5 spectra...
+High pressure sodium light source  (105 data points)
+LED light source  (105 data points)
+Low pressure sodium light source  (105 data points)
+Mercury Vapor light source  (105 data points)
+Metal halide light source  (105 data points)
+5 spectra read.
+Reading 2 horizonts...
+Obstacle at north  (37 data points)
+Obstacle at east  (37 data points)
+2 horizonts read.
+Reading 2 aerosol asymmetry data...
+Carbonaceous species  (8 data points)
+Constant background  (8 data points)
+2 aerosol asymmetry data read.
+Reading 2 aerosol albedo data...
+Carbonaceous species  (8 data points)
+Constant background  (8 data points)
+2 aerosol albedo data read.
+Reading 3 clouds albedo data...
+Altocumulus clouds  (4 data points)
+Altostratus clouds  (4 data points)
+Stratus clouds  (4 data points)
+3 clouds albedo data read.
+Reading 17 cities...
+Mexico: Alvaro Obregón (11 vertices)
+Mexico: Azcapotzalco (5 vertices)
+Mexico: Benito Juarez (5 vertices)
+Mexico: Cuaujimalpa de Morelos (10 vertices)
+Mexico: Coyoacan (15 vertices)
+Mexico: Ciudad Universitaria (9 vertices)
+Mexico: Cuauhtemoc (6 vertices)
+Mexico: Gustavo A. Madero (8 vertices)
+Mexico: Iztapalapa (9 vertices)
+Mexico: Iztacalco (9 vertices)
+Mexico: Milpa Alta (7 vertices)
+Mexico: Magdalena Contreras (7 vertices)
+Mexico: Miguel Hidalgo (5 vertices)
+Mexico: Tlalpan (11 vertices)
+Mexico: Tlahuac (4 vertices)
+Mexico: Venustiano Carranza (6 vertices)
+Mexico: Xochimilco (6 vertices)
+17 cities read.
+City Gustavo A. Madero switched on
+City Azcapotzalco switched on
+City Miguel Hidalgo switched on
+City Cuauhtemoc switched on
+City Venustiano Carranza switched on
+City Cuaujimalpa de Morelos switched on
+City Magdalena Contreras switched on
+City Alvaro Obregón switched on
+City Tlalpan switched on
+City Milpa Alta switched on
+City Tlahuac switched on
+City Iztapalapa switched on
+City Iztacalco switched on
+City Benito Juarez switched on
+City Coyoacan switched on
+City Ciudad Universitaria switched on
+City Xochimilco switched on
+City Alvaro Obregón switched off
+City Alvaro Obregón switched on
+CEF of city Gustavo A. Madero was updated
+CEF of city Azcapotzalco was updated
+City Gustavo A. Madero switched off
+City Azcapotzalco switched off
+City Miguel Hidalgo switched off
+CEF of city Miguel Hidalgo was updated
+City Cuauhtemoc switched off
+CEF of city Cuauhtemoc was updated
+City Venustiano Carranza switched off
+CEF of city Venustiano Carranza was updated
+City Cuaujimalpa de Morelos switched off
+CEF of city Cuaujimalpa de Morelos was updated
+City Alvaro Obregón switched off
+CEF of city Alvaro Obregón was updated
+City Benito Juarez switched off
+CEF of city Benito Juarez was updated
+City Iztacalco switched off
+CEF of city Iztacalco was updated
+City Magdalena Contreras switched off
+CEF of city Magdalena Contreras was updated
+City Iztapalapa switched off
+CEF of city Iztapalapa was updated
+City Coyoacan switched off
+CEF of city Coyoacan was updated
+City Ciudad Universitaria switched off
+CEF of city Ciudad Universitaria was updated
+City Tlalpan switched off
+CEF of city Tlalpan was updated
+City Xochimilco switched off
+CEF of city Xochimilco was updated
+City Tlahuac switched off
+CEF of city Tlahuac was updated
+City Milpa Alta switched off
+CEF of city Milpa Alta was updated
+City Milpa Alta switched on
+City Tlahuac switched on
+City Xochimilco switched on
+City Tlalpan switched on
+City Coyoacan switched on
+City Ciudad Universitaria switched on
+City Alvaro Obregón switched on
+City Alvaro Obregón switched off
+City Magdalena Contreras switched on
+City Alvaro Obregón switched on
+City Cuaujimalpa de Morelos switched on
+City Miguel Hidalgo switched on
+City Benito Juarez switched on
+City Iztapalapa switched on
+City Venustiano Carranza switched on
+City Venustiano Carranza switched off
+City Miguel Hidalgo switched off
+City Iztacalco switched on
+City Venustiano Carranza switched on
+City Cuauhtemoc switched on
+City Miguel Hidalgo switched on
+City Gustavo A. Madero switched on
+City Azcapotzalco switched on
+CEF of city Gustavo A. Madero was updated
+Sky conditions and output settings were updated
+Sky conditions and output settings were updated
+Sky conditions and output settings were updated
+Starting task solving
+Assymetry file of the aerosols written successfully
+Albedo file of the aerosols written successfully
+Unused cloud albedo file written successfully
+Masking file written successfully
+Configuration file written successfully
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/AO.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/AZ.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/BJ.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/CM.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/CO.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/CU.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/CUA.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/GAM.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/IZP.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/IZT.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/MA.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/MC.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/MH.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/TLA.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/TLAH.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/VC.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/XO.dat)
+Executables copied successfully
+
+C:\Users\joc_h\Documents\Tesis\SkyGlow\results>start MSNsR_v5.exe -source_type polygon 
