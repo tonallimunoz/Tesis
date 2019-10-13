@@ -106,7 +106,7 @@ Luz artificial ($I_{SCA}$) & Luz artificial dispersada en la tropósfera \\ \hli
 }
 \end{table}
 
-La suma de tales componentes (excepto luz artificial, netamente de origen antropogénico) se considera de origen natural y es susceptible de ser atenuada por acción de la extinción atmosférica. De acuerdo con esta clasificación, el brillo total del cielo nocturno puede calcularse a partir de la siguiente ecuación:
+La suma de tales componentes (excepto luz artificial, netamente de origen antropogénico) se considera de origen natural y es susceptible de ser atenuada por acción de la atenuación atmosférica. De acuerdo con esta clasificación, el brillo total del cielo nocturno puede calcularse a partir de la siguiente ecuación:
 
 \begin{equation}
 I_{tot} = (I_A + I_{ZL} + I_{ISL} + I_{DGL} + I_{EBL})\:e^{-\tau} + I_{SCA}
@@ -114,7 +114,7 @@ I_{tot} = (I_A + I_{ZL} + I_{ISL} + I_{DGL} + I_{EBL})\:e^{-\tau} + I_{SCA}
 
 \vspace{2mm} 
 
-Donde $\tau$ es el coeficiente de extinción atmosférica que depende de la longitud de onda, la distancia cenital (la distancia angular del cuerpo celeste con respecto al cenit), la altura sobre el nivel del mar del observador y las condiciones atmosféricas.\\ 
+Donde $\tau$ es el coeficiente de atenuación atmosférica que depende de la longitud de onda, la distancia cenital (la distancia angular del cuerpo celeste con respecto al cenit), la altura sobre el nivel del mar del observador y las condiciones atmosféricas.\\ 
 
 La definición matemática del brillo total del cielo nocturno nos permite inferir que las principales contribuciones se deben al brillo del aire y a la luz zodiacal; estimaciones experimentales confirman este comportamiento reportando mediciones de radiancia de hasta 10$^{-4}$ W sr$^{-1}$  m$^{-2}$ atribuibles al brillo del aire \citep{Leinert1998}.\\ 
 
@@ -147,7 +147,7 @@ La concentración de aerosol atmosférico depende principalmente de emisiones na
 
 \textit{\textbf{Espesor óptico de aerosol (AOD)}}\\
 
-El AOD es una cantidad adimensional que representa la extinción atmosférica de la luz por el aerosol atmosférico integrada verticalmente en toda la columna atmosférica. La diferencia de potencial ($V$) medido por un fotómetro solar es proporcional a la radiancia espectral ($L_{\lambda}$) que es captada por el instrumento en la superficie \citep{Holben1998}. El espesor óptico total ($\tau_{TOT}$) puede calcularse a partir de la siguiente ecuación conocida como la ley de Beer-Lambert-Bouguer:
+El AOD es una cantidad adimensional que representa la atenuación atmosférica de la luz por el aerosol atmosférico integrada verticalmente en toda la columna atmosférica. La diferencia de potencial ($V$) medido por un fotómetro solar es proporcional a la radiancia espectral ($L_{\lambda}$) que es captada por el instrumento en la superficie \citep{Holben1998}. El espesor óptico total ($\tau_{TOT}$) puede calcularse a partir de la siguiente ecuación conocida como la ley de Beer-Lambert-Bouguer:
 
 \begin{equation}
 V(\lambda) = V_0(\lambda)\:d^{2} \:e^{-\tau_{TOT}\: m}
@@ -213,7 +213,7 @@ Los coeficientes de dispersión $\epsilon$ se obtienen:
 \epsilon = N \sigma
 \end{equation}
 
-Con $N$ la concentración de partículas de tamaño $D$. El valor del SSA es representativo de las propiedades de absorción de la luz del aerosol atmosférico. Cuando el valor del SSA es cercano a 1 es un indicativo que el aerosol en cuestión absorbe más luz, mientras que, para el aerosol menos absorbente, el valor del SSA es cercano a 0.\\
+Con $N$ la concentración de partículas de tamaño $D$. El valor del SSA es representativo de las propiedades de absorción de la luz del aerosol atmosférico. Cuando el valor del SSA es cercano a 1 es un indicativo que el aerosol en cuestión refleja más luz, mientras que, para el aerosol más absorbente, el valor del SSA es cercano a 0.\\
 
 \subsubsection{Propiedades ópticas de las nubes}
 
@@ -225,7 +225,7 @@ Con $N$ la concentración de partículas de tamaño $D$. El valor del SSA es rep
 
 \vspace{2mm} 
 
-Donde $n$, la parte real de la ecuación, indica la velocidad de la luz dentro de un medio y la parte imaginaria $k$ es el coeficiente de extinción, una medida de la atenuación de la luz dentro del medio en cuestión \citep{Born&Wolf2003}. Los valores de la parte imaginaria del índice refractivo complejo para las gotitas de nube y los cristales de hielo que forman las nubes son muy bajos de acuerdo con \cite{Solano2015}.\\
+Donde $n$, la parte real de la ecuación, indica la velocidad de la luz dentro de un medio y la parte imaginaria $k$ es el coeficiente de atenuación de la luz dentro del medio en cuestión \citep{Born&Wolf2003}. Los valores de la parte imaginaria del índice refractivo complejo para las gotitas de nube y los cristales de hielo que forman las nubes son muy bajos de acuerdo con \cite{Solano2015}.\\
 
 Tomando en cuenta lo anterior, \cite{Solano2015} consideran a las nubes como cuerpos Lambertianos con albedo espectral variante para su estudio óptico. Un cuerpo Lambertiano es aquel que posee una superficie ideal que refleja la luz incidente de manera isotrópica, permitiendo así que el brillo de tal superficie sea la misma para el observador independientemente de su ángulo de visión \citep{Born&Wolf2003}.\\
 
@@ -328,12 +328,11 @@ La forma en que la luminaria distribuye en el espacio la luz emitida por la fuen
 
 
 \subsection{Función de emisión urbana}
-
-La distribución angular de la luz emitida por una ciudad es fundamental para la modelación del brillo del cielo nocturno ocasionado por luz artificial \citep{Kocifaj2014}.\\
+\label{subsec:funciondemisionurbana}
 
 Las fuentes de luz artificiales (públicas y privadas) emiten luz en casi todas las direcciones \citep{Kocifaj2014}, \citep{Kocifaj2016}. Por lo tanto, la luz artificial emitida a la atmósfera se debe a la superposición de emisiones de las diferentes fuentes distribuidas en la superficie.\\
 
-La luz emitida por una región (o incluso a nivel fuente puntual) es caracterizada a través de una función de emisión parametrizada denominada Función de Emisión Urbana (CEF, por sus siglas en inglés) la cual depende de las características del sistema de iluminación de una ciudad \citep{Kocifaj2014}.\\
+La distribución angular de la luz emitida por una ciudad es fundamental para la modelación del brillo del cielo nocturno ocasionado por luz artificial \citep{Kocifaj2014} esta distribución es caracterizada a través de una función de emisión parametrizada denominada Función de Emisión Urbana (CEF, por sus siglas en inglés) la cual depende de las características del sistema de iluminación de una ciudad \citep{Kocifaj2014}.\\
 
 Debido a la falta, hasta la actualidad, de inventarios detallados de las fuentes de luz (públicas y privadas) y su naturaleza heterogénea, resulta extremadamente complicado obtener la CEF a través de estudios teóricos o experimentales \citep{Kocifaj2014}. \cite{Garstang1986} desarolló una aproximación semi-empírica para la estimación de la CEF, la cual es discutida en el \textbf{\autoref{chap:metodologia}}
 
@@ -586,6 +585,7 @@ En el Atlas de Riesgos de la REPSA \citep{AtlasREPSA} se cita la CL como una de 
 La Ciudad de México está localizada en una zona sub-tropical donde las estaciones del año pueden ser separadas en tres periodos: Primavera Seca (PS) de abril a mayo, Temporada Lluviosa (TL) de junio a octubre e Invierno Seco (IS) de noviembre a marzo \citep{Jauregui2002}.\\
 
 \subsection{Climatología de aerosol atmosférico y nubosidad}
+\label{subsec:climatologia}
 
 Para los fines de modelación de esta tesis resulta importante contar con la climatología de aerosol atmosférico y nubosidad en la Ciudad de México, como una referencia que permite realizar experimentos numéricos con condiciones cercanas a las reales.\\
 

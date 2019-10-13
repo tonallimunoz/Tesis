@@ -14,60 +14,32 @@
 >>> ATTENTION: <<< 
  
 Command-line argument(s) recognized and accepted. 
+ vertex distance (at 5 discrete azimuth angles) read successfuly from AZ.dat 
+ vertex distance (at 6 discrete azimuth angles) read successfuly from CUA.dat 
  vertex distance (at 8 discrete azimuth angles) read successfuly from GAM.dat 
+ vertex distance (at 6 discrete azimuth angles) read successfuly from VC.dat 
  
 POLYGONal-source case activated; The real size of the light source is accepted; 
  	Radiance is calculated in absolute units [W/m2/sr]. 
 
- Light-source[0]='GAM.dat' (with equivalent radius=5.55 [km] and 105 discrete flux densities) parsed successfuly 
- Polygonal Light-source[0]='GAM.dat' is at avg_azimuth=178.5 [deg] and avg_distance=8.87 [km] 
+ Light-source[0]='AZ.dat' (with equivalent radius=2.34 [km] and 105 discrete flux densities) parsed successfuly 
+ Polygonal Light-source[0]='AZ.dat' is at avg_azimuth=357.7 [deg] and avg_distance=10.95 [km] 
+ Light-source[1]='CUA.dat' (with equivalent radius=3.25 [km] and 105 discrete flux densities) parsed successfuly 
+ Polygonal Light-source[1]='CUA.dat' is at avg_azimuth=21.6 [deg] and avg_distance=5.30 [km] 
+ Light-source[2]='GAM.dat' (with equivalent radius=5.56 [km] and 105 discrete flux densities) parsed successfuly 
+ Polygonal Light-source[2]='GAM.dat' is at avg_azimuth=20.4 [deg] and avg_distance=14.20 [km] 
+ Light-source[3]='VC.dat' (with equivalent radius=3.45 [km] and 105 discrete flux densities) parsed successfuly 
+ Polygonal Light-source[3]='VC.dat' is at avg_azimuth=57.4 [deg] and avg_distance=9.22 [km] 
  Asymmetry parameter (at 8 discrete wavelengths) read successfuly from dust_asm.spc 
  Single scattering albedo (at 8 discrete wavelengths) read successfuly from dust_ssa.spc 
  Cloud reflectance (at 4 discrete wavelengths) read successfuly from cloud.spc 
  Masked elevation angle (at 11 discrete azimuth angles) read successfuly from masking.dat 
- OVERCAST conditions activated; 
+ CLOUDLESS conditions activated; 
  
 The arrays allocated and initialized successfuly 
 
- Integration step [1] of [40] (current wavelength=350.00 [nm]) 
- Integration step [2] of [40] (current wavelength=361.54 [nm]) 
- Integration step [3] of [40] (current wavelength=373.08 [nm]) 
- Integration step [4] of [40] (current wavelength=384.62 [nm]) 
- Integration step [5] of [40] (current wavelength=396.15 [nm]) 
- Integration step [6] of [40] (current wavelength=407.69 [nm]) 
- Integration step [7] of [40] (current wavelength=419.23 [nm]) 
- Integration step [8] of [40] (current wavelength=430.77 [nm]) 
- Integration step [9] of [40] (current wavelength=442.31 [nm]) 
- Integration step [10] of [40] (current wavelength=453.85 [nm]) 
- Integration step [11] of [40] (current wavelength=465.38 [nm]) 
- Integration step [12] of [40] (current wavelength=476.92 [nm]) 
- Integration step [13] of [40] (current wavelength=488.46 [nm]) 
- Integration step [14] of [40] (current wavelength=500.00 [nm]) 
- Integration step [15] of [40] (current wavelength=511.54 [nm]) 
- Integration step [16] of [40] (current wavelength=523.08 [nm]) 
- Integration step [17] of [40] (current wavelength=534.62 [nm]) 
- Integration step [18] of [40] (current wavelength=546.15 [nm]) 
- Integration step [19] of [40] (current wavelength=557.69 [nm]) 
- Integration step [20] of [40] (current wavelength=569.23 [nm]) 
- Integration step [21] of [40] (current wavelength=580.77 [nm]) 
- Integration step [22] of [40] (current wavelength=592.31 [nm]) 
- Integration step [23] of [40] (current wavelength=603.85 [nm]) 
- Integration step [24] of [40] (current wavelength=615.38 [nm]) 
- Integration step [25] of [40] (current wavelength=626.92 [nm]) 
- Integration step [26] of [40] (current wavelength=638.46 [nm]) 
- Integration step [27] of [40] (current wavelength=650.00 [nm]) 
- Integration step [28] of [40] (current wavelength=661.54 [nm]) 
- Integration step [29] of [40] (current wavelength=673.08 [nm]) 
- Integration step [30] of [40] (current wavelength=684.62 [nm]) 
- Integration step [31] of [40] (current wavelength=696.15 [nm]) 
- Integration step [32] of [40] (current wavelength=707.69 [nm]) 
- Integration step [33] of [40] (current wavelength=719.23 [nm]) 
- Integration step [34] of [40] (current wavelength=730.77 [nm]) 
- Integration step [35] of [40] (current wavelength=742.31 [nm]) 
- Integration step [36] of [40] (current wavelength=753.85 [nm]) 
- Integration step [37] of [40] (current wavelength=765.38 [nm]) 
- Integration step [38] of [40] (current wavelength=776.92 [nm]) 
- Integration step [39] of [40] (current wavelength=788.46 [nm]) 
- Integration step [40] of [40] (current wavelength=800.00 [nm]) 
+ Integration step [1] of [3] (current wavelength=500.00 [nm]) 
+ Integration step [2] of [3] (current wavelength=510.00 [nm]) 
+ Integration step [3] of [3] (current wavelength=520.00 [nm]) 
  
 Allocated arrays released and program terminated normally. 
