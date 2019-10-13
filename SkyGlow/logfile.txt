@@ -151,3 +151,44 @@ City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/X
 Executables copied successfully
 
 C:\Users\joc_h\Documents\Tesis\SkyGlow\results>start MSNsR_v5.exe -source_type polygon 
+Solver finished
+Task solving finished
+Starting viewer
+Results converted successfully
+Executables copied successfully
+
+C:\Users\joc_h\Documents\Tesis\SkyGlow\results>start sky.plt 
+Results shown
+Starting viewer
+Results converted successfully
+Executables copied successfully
+
+C:\Users\joc_h\Documents\Tesis\SkyGlow\results>start sky.plt 
+Results shown
+Sky conditions and output settings were updated
+Starting task solving
+Assymetry file of the aerosols written successfully
+Albedo file of the aerosols written successfully
+Unused cloud albedo file written successfully
+Masking file written successfully
+Configuration file written successfully
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/AO.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/AZ.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/BJ.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/CM.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/CO.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/CU.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/CUA.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/GAM.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/IZP.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/IZT.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/MA.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/MC.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/MH.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/TLA.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/TLAH.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/VC.dat)
+City file written successfully (C:\Users\joc_h\Documents\Tesis\SkyGlow/results/XO.dat)
+Executables copied successfully
+
+C:\Users\joc_h\Documents\Tesis\SkyGlow\results>start MSNsR_v5.exe -source_type polygon 
