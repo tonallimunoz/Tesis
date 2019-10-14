@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  12 OCT 2019 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  14 OCT 2019 17:59
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -419,7 +419,163 @@ LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
 y"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty"
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+) ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.st
+y"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip61
 \bibsep=\skip62
@@ -438,53 +594,94 @@ Package: titlesec 2019/09/09 v2.12 Sectioning titles
 \titlewidth=\dimen129
 \titlewidthlast=\dimen130
 \titlewidthfirst=\dimen131
-) (tesis.aux (portada.aux)
+)
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+\lst@mode=\count121
+\lst@gtempboxa=\box35
+\lst@token=\toks28
+\lst@length=\count122
+\lst@currlwidth=\dimen132
+\lst@column=\count123
+\lst@pos=\count124
+\lst@lostspace=\dimen133
+\lst@width=\dimen134
+\lst@newlines=\count125
+\lst@lineno=\count126
+\lst@maxwidth=\dimen135
+
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count127
+\lst@skipnumbers=\count128
+\lst@framebox=\box36
+)
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (tesis.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  (agradecimientos.aux) (abreviaturas.aux)
 (resumen.aux) (productos.aux) (capitulos/introduccion.aux)
 (capitulos/metodologia.aux) (capitulos/resultados_discusion.aux)
 (capitulos/conclusiones.aux) (capitulos/recomendaciones.aux)
-(capitulos/anexos.aux))
+(capitulos/anexos.aux
+
+LaTeX Warning: Label `radiancetrendstlah' multiply defined.
+
+
+LaTeX Warning: Label `radiancetrendstla' multiply defined.
+
+))
 \openout1 = `tesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 73.
+ ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 73.
 
-
-("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pplx.fd"
+ ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pplx.fd
+"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
 
 ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count121
-\scratchdimen=\dimen132
-\scratchbox=\box35
-\nofMPsegments=\count122
-\nofMParguments=\count123
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count124
-\MPscratchDim=\dimen133
-\MPnumerator=\count125
-\makeMPintoPDFobject=\count126
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count129
+\scratchdimen=\dimen136
+\scratchbox=\box37
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen137
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks30
 )
 ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
 base.sty"
@@ -501,20 +698,19 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \celsius on input line 41.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 41.
-
-
-
-Package gensymb Warning: Not defining \perthousand.
-
-LaTeX Info: Redefining \ohm on input line 41.
-Package gensymb Info: Using \upOmega for \ohm on input line 41.
-
-Package gensymb Warning: Not defining \micro.
-
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 41.
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/pplx/m/n --> TS1/pplx/bx/n on input line 73.
+Package gensymb Info: Math companion symbols declared on input line 73.
+LaTeX Info: Redefining \degree on input line 73.
+LaTeX Info: Redefining \celsius on input line 73.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 73.
+LaTeX Info: Redefining \ohm on input line 73.
+Package gensymb Info: Using \textohm for \ohm on input line 73.
+Package gensymb Info: Using \textmu for \micro on input line 73.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 73.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -550,8 +746,8 @@ LaTeX Info: Redefining \selectfont on input line 41.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box36
-Package hyperref Info: Link coloring OFF on input line 41.
+\AtBeginShipoutBox=\box38
+Package hyperref Info: Link coloring OFF on input line 73.
 
 ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -561,24 +757,25 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count127
+\c@section@level=\count135
 )
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
  (tesis.out) (tesis.out)
 \@outlinefile=\write3
 \openout3 = `tesis.out'.
 
+\c@lstlisting=\count136
 \openout2 = `portada.aux'.
 
  (portada.tex
-<unam.pdf, id=223, 822.27202pt x 924.25299pt>
+<unam.pdf, id=243, 822.27202pt x 924.25299pt>
 File: unam.pdf Graphic file (type pdf)
 <use unam.pdf>
 Package pdftex.def Info: unam.pdf  used on input line 7.
 (pdftex.def)             Requested size: 74.00128pt x 83.17917pt.
-<ciencias.pdf, id=224, 359.74399pt x 411.136pt>
+<ciencias.pdf, id=244, 359.74399pt x 411.136pt>
 File: ciencias.pdf Graphic file (type pdf)
 <use ciencias.pdf>
 Package pdftex.def Info: ciencias.pdf  used on input line 19.
@@ -606,6 +803,12 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 20.
  ("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd
 "
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Try loading font information for TS1+pplx on input line 20.
+
+
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1pplx.fd"
+File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 )) [1
 
 
@@ -619,25 +822,25 @@ th page group included in a single page
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 	\chapter
+l.80 	\chapter
               *{} [1
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 48.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 48.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 80.
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.58 	\include{agradecimientos}
+l.90 	\include{agradecimientos}
                                 [1]pdfTeX warning (ext4): destination with the 
 same identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.58 	\include{agradecimientos}
+l.90 	\include{agradecimientos}
                                 [1
 
 ]
@@ -649,7 +852,7 @@ l.58 	\include{agradecimientos}
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.61 	\include{abreviaturas}
+l.93 	\include{abreviaturas}
                              [2
 
 
@@ -665,7 +868,7 @@ LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10.95> not available
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 	\include{resumen}
+l.96 	\include{resumen}
                         [3
 
 
@@ -698,7 +901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.67 	\include{productos}
+l.99 	\include{productos}
                           [4
 
 
@@ -754,8 +957,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 	\tableofcontents
-                       [5
+l.102 	\tableofcontents
+                        [5
 
 
 ] (tesis.toc
@@ -799,9 +1002,10 @@ Package spanish Warning: Replacing `OT1/pplx/bx/sc' by
 \openout4 = `tesis.toc'.
 
 LaTeX Font Info:    Font shape `OT1/pplx/m/sl' in size <10.95> not available
-(Font)              Font shape `OT1/pplx/m/it' tried instead on input line 72.
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
+(Font)              Font shape `OT1/pplx/m/it' tried instead on input line 104.
+
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
  [7] (tesis.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -826,15 +1030,15 @@ LaTeX Info: Redefining \% on input line 1.
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.87 	\mainmatter
-                  %comienza numeración arábiga [9
+l.119 	\mainmatter
+                   %comienza numeración arábiga [9
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.IX}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.87 	\mainmatter
-                  %comienza numeración arábiga [9]
+l.119 	\mainmatter
+                   %comienza numeración arábiga [9]
 \openout2 = `./capitulos/introduccion.aux'.
 
 
@@ -847,7 +1051,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<espectroelectromagnetico.png, id=466, 1027.84pt x 609.27625pt>
+<espectroelectromagnetico.png, id=529, 1027.84pt x 609.27625pt>
 File: espectroelectromagnetico.png Graphic file (type png)
 <use espectroelectromagnetico.png>
 Package pdftex.def Info: espectroelectromagnetico.png  used on input line 12.
@@ -1080,7 +1284,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
-<distribucionespectral.png, id=635, 457.96358pt x 392.5402pt>
+<distribucionespectral.png, id=698, 457.96358pt x 392.5402pt>
 File: distribucionespectral.png Graphic file (type png)
 <use distribucionespectral.png>
 Package pdftex.def Info: distribucionespectral.png  used on input line 307.
@@ -1092,7 +1296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
 
-<anguloapantallamiento.png, id=654, 171.64125pt x 277.035pt>
+<anguloapantallamiento.png, id=717, 171.64125pt x 277.035pt>
 File: anguloapantallamiento.png Graphic file (type png)
 <use anguloapantallamiento.png>
 Package pdftex.def Info: anguloapantallamiento.png  used on input line 324.
@@ -1180,7 +1384,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 368--369
 
  []
 
-<nocturnalidad.png, id=731, 514.17094pt x 386.94562pt>
+<nocturnalidad.png, id=794, 514.17094pt x 386.94562pt>
 File: nocturnalidad.png Graphic file (type png)
 <use nocturnalidad.png>
 Package pdftex.def Info: nocturnalidad.png  used on input line 375.
@@ -1530,7 +1734,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 568--569
 
  []
 
-<ciudaddemexico.png, id=918, 532.99126pt x 441.14813pt>
+<ciudaddemexico.png, id=981, 532.99126pt x 441.14813pt>
 File: ciudaddemexico.png Graphic file (type png)
 <use ciudaddemexico.png>
 Package pdftex.def Info: ciudaddemexico.png  used on input line 572.
@@ -1618,7 +1822,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<nubes.png, id=963, 2707.11375pt x 611.28375pt>
+<nubes.png, id=1026, 2707.11375pt x 611.28375pt>
 File: nubes.png Graphic file (type png)
 <use nubes.png>
 Package pdftex.def Info: nubes.png  used on input line 665.
@@ -1697,8 +1901,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 738--739
  []
 
 )
-LaTeX Info: Redefining \. on input line 89.
-LaTeX Info: Redefining \% on input line 89.
+LaTeX Info: Redefining \. on input line 121.
+LaTeX Info: Redefining \% on input line 121.
  [24
 
 
@@ -1744,11 +1948,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
 
 ]
-<ciudaddemexicomodelo.png, id=1030, 603.75563pt x 465.23813pt>
+<ciudaddemexicomodelo.png, id=1093, 603.75563pt x 465.23813pt>
 File: ciudaddemexicomodelo.png Graphic file (type png)
 <use ciudaddemexicomodelo.png>
 Package pdftex.def Info: ciudaddemexicomodelo.png  used on input line 29.
-(pdftex.def)             Requested size: 328.82707pt x 253.38292pt.
+(pdftex.def)             Requested size: 281.85587pt x 217.18536pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
@@ -1766,7 +1970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-<geometriamodelo.png, id=1050, 659.46375pt x 349.305pt>
+<geometriamodelo.png, id=1115, 659.46375pt x 349.305pt>
 File: geometriamodelo.png Graphic file (type png)
 <use geometriamodelo.png>
 Package pdftex.def Info: geometriamodelo.png  used on input line 69.
@@ -1855,7 +2059,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-<graficapolar.png, id=1092, 283.0575pt x 281.55188pt>
+<graficapolar.png, id=1157, 283.0575pt x 281.55188pt>
 File: graficapolar.png Graphic file (type png)
 <use graficapolar.png>
 Package pdftex.def Info: graficapolar.png  used on input line 159.
@@ -1886,26 +2090,126 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
+! Too many }'s.
+l.167 ...udad de México (\url{datos.cdmx.gob.mx}}
+                                                  ) y se tradujeron al forma...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
 LaTeX Info: Redefining \. on input line 169.
 LaTeX Info: Redefining \% on input line 169.
-[29 <./graficapolar.png>])
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
- [30]
+[29 <./graficapolar.png>]
+! Too many }'s.
+l.173 ...\url{lighttrends.lightpollutionmap.info}}
+                                                  ) que permite analizar ten...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+l.173 ...formation} (\url{https://ngdc.noaa.gov/}}
+                                                  ) de la \textit{National O...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+<RadianceTrends.png, id=1175, 277.035pt x 356.83313pt>
+File: RadianceTrends.png Graphic file (type png)
+<use RadianceTrends.png>
+Package pdftex.def Info: RadianceTrends.png  used on input line 189.
+(pdftex.def)             Requested size: 140.92793pt x 181.51967pt.
+)
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
+ [30 <./RadianceTrends.png>]
 \openout2 = `./capitulos/resultados_discusion.aux'.
 
  (capitulos/resultados_discusion.tex
 Cap\'{\i }tulo 3.
-) [31
+<GAM.png, id=1185, 1176.64594pt x 587.94656pt>
+File: GAM.png Graphic file (type png)
+<use GAM.png>
+Package pdftex.def Info: GAM.png  used on input line 11.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+[31
 
 
 
-]
+ <./GAM.png>]
+<MA.png, id=1192, 1176.64594pt x 587.94656pt>
+File: MA.png Graphic file (type png)
+<use MA.png>
+Package pdftex.def Info: MA.png  used on input line 21.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+<CU.png, id=1193, 1176.64594pt x 587.94656pt>
+File: CU.png Graphic file (type png)
+<use CU.png>
+Package pdftex.def Info: CU.png  used on input line 25.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+
+! Undefined control sequence.
+l.29 \blindtext
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+[32 <./MA.png> <./CU.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+[33]
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+ [34]
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+ [35]
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [36]
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+ [37]
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+ [38]
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+ [39]
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+ [40])
 \openout2 = `./capitulos/conclusiones.aux'.
 
  (capitulos/conclusiones.tex
 Cap\'{\i }tulo 4.
-) [32
+) [41
 
 
 
@@ -1914,7 +2218,7 @@ Cap\'{\i }tulo 4.
 
  (capitulos/recomendaciones.tex
 Cap\'{\i }tulo 5.
-) [33
+) [42
 
 
 
@@ -1923,51 +2227,314 @@ Cap\'{\i }tulo 5.
 
  (capitulos/anexos.tex
 Cap\'{\i }tulo 6.
-) [34
+! Too many }'s.
+l.4 \section{Código en Julia del Mapa CL-CDMX}}
+                                                
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
 
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
+sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang2.
+sty"
+File: lstlang2.sty 2019/09/10 1.8c listings language file
+)
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang3.
+sty"
+File: lstlang3.sty 2019/09/10 1.8c listings language file
+)
 
-] (tesis.bbl [35
+! Package Listings Error: Couldn't load requested language.
+
+See the Listings package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...utlisting[language=Julia]{CodigoMuestra.jl}
+                                                  
+The following languages weren't loadable:
+    ,julia$
+This may cause errors in the sequel.
+
+
+! Package Listings Error: language julia undefined.
+
+See the Listings package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...utlisting[language=Julia]{CodigoMuestra.jl}
+                                                  
+The language is not loadable. Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
+sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang2.
+sty"
+File: lstlang2.sty 2019/09/10 1.8c listings language file
+)
+("C:\Users\joc_h\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang3.
+sty"
+File: lstlang3.sty 2019/09/10 1.8c listings language file
+)
+
+! Package Listings Error: Couldn't load requested language.
+
+See the Listings package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...utlisting[language=Julia]{CodigoMuestra.jl}
+                                                  
+The following languages weren't loadable:
+    ,julia$
+This may cause errors in the sequel.
+
+
+! Package Listings Error: language julia undefined.
+
+See the Listings package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...utlisting[language=Julia]{CodigoMuestra.jl}
+                                                  
+The language is not loadable. Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 6.
+(CodigoMuestra.jl)
+! Too many }'s.
+l.8 ...en las alcaldías de la Ciudad de México}}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+<AO.png, id=1241, 1176.64594pt x 587.94656pt>
+File: AO.png Graphic file (type png)
+<use AO.png>
+Package pdftex.def Info: AO.png  used on input line 12.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+<AZ.png, id=1242, 1176.64594pt x 587.94656pt>
+File: AZ.png Graphic file (type png)
+<use AZ.png>
+Package pdftex.def Info: AZ.png  used on input line 16.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+! Undefined control sequence.
+l.20 \blindtext
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43
+
 
 
 ]
-LaTeX Info: Redefining \. on input line 217.
-LaTeX Info: Redefining \% on input line 217.
- [36]
-LaTeX Info: Redefining \. on input line 323.
-LaTeX Info: Redefining \% on input line 323.
- [37])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+
+[44 <./AO.png> <./AZ.png>]
+<BJ.png, id=1300, 1176.64594pt x 587.94656pt>
+File: BJ.png Graphic file (type png)
+<use BJ.png>
+Package pdftex.def Info: BJ.png  used on input line 26.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+<CO.png, id=1301, 1176.64594pt x 587.94656pt>
+File: CO.png Graphic file (type png)
+<use CO.png>
+Package pdftex.def Info: CO.png  used on input line 30.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+
+! Undefined control sequence.
+l.34 \blindtext
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+[45 <./BJ.png> <./CO.png>]
+<CM.png, id=1308, 1176.64594pt x 587.94656pt>
+File: CM.png Graphic file (type png)
+<use CM.png>
+Package pdftex.def Info: CM.png  used on input line 40.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+<CUA.png, id=1309, 1176.64594pt x 587.94656pt>
+File: CUA.png Graphic file (type png)
+<use CUA.png>
+Package pdftex.def Info: CUA.png  used on input line 44.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+
+! Undefined control sequence.
+l.48 \blindtext
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+[46 <./CM.png> <./CUA.png>]
+<IZT.png, id=1316, 1176.64594pt x 587.94656pt>
+File: IZT.png Graphic file (type png)
+<use IZT.png>
+Package pdftex.def Info: IZT.png  used on input line 54.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+<IZP.png, id=1317, 1176.64594pt x 587.94656pt>
+File: IZP.png Graphic file (type png)
+<use IZP.png>
+Package pdftex.def Info: IZP.png  used on input line 58.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+
+! Undefined control sequence.
+l.62 \blindtext
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+[47 <./IZT.png> <./IZP.png>]
+<MC.png, id=1324, 1176.64594pt x 587.94656pt>
+File: MC.png Graphic file (type png)
+<use MC.png>
+Package pdftex.def Info: MC.png  used on input line 68.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+<MH.png, id=1325, 1176.64594pt x 587.94656pt>
+File: MH.png Graphic file (type png)
+<use MH.png>
+Package pdftex.def Info: MH.png  used on input line 72.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+
+! Undefined control sequence.
+l.76 \blindtext
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<TLAH.png, id=1326, 1176.64594pt x 587.94656pt>
+File: TLAH.png Graphic file (type png)
+<use TLAH.png>
+Package pdftex.def Info: TLAH.png  used on input line 82.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+<TLA.png, id=1327, 1176.64594pt x 587.94656pt>
+File: TLA.png Graphic file (type png)
+<use TLA.png>
+Package pdftex.def Info: TLA.png  used on input line 86.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+! Undefined control sequence.
+l.90 \blindtext
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+ [48 <./MC.png> <./MH.png>]
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [49 <./TLAH.png> <./TLA.png>]
+<VC.png, id=1341, 1176.64594pt x 587.94656pt>
+File: VC.png Graphic file (type png)
+<use VC.png>
+Package pdftex.def Info: VC.png  used on input line 96.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+<XO.png, id=1342, 1176.64594pt x 587.94656pt>
+File: XO.png Graphic file (type png)
+<use XO.png>
+Package pdftex.def Info: XO.png  used on input line 100.
+(pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
+
+! Undefined control sequence.
+l.104 \blindtext
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 LaTeX Info: Redefining \. on input line 106.
 LaTeX Info: Redefining \% on input line 106.
- [38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
- (tesis.aux (portada.aux)
+[50 <./VC.png> <./XO.png>]) (tesis.bbl [51
+
+
+]
+LaTeX Info: Redefining \. on input line 207.
+LaTeX Info: Redefining \% on input line 207.
+ [52]
+LaTeX Info: Redefining \. on input line 311.
+LaTeX Info: Redefining \% on input line 311.
+ [53]
+LaTeX Info: Redefining \. on input line 424.
+LaTeX Info: Redefining \% on input line 424.
+ [54])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
+ [55]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
+ (tesis.aux
+(portada.aux)
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
-
-(agradecimientos.aux) (abreviaturas.aux) (resumen.aux) (productos.aux)
-(capitulos/introduccion.aux) (capitulos/metodologia.aux)
+ (agradecimientos.aux) (abreviaturas.aux) (resumen.aux)
+(productos.aux) (capitulos/introduccion.aux) (capitulos/metodologia.aux)
 (capitulos/resultados_discusion.aux) (capitulos/conclusiones.aux)
 (capitulos/recomendaciones.aux) (capitulos/anexos.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: E997BC7EA4966853B61FA042F781FF16;4448.
+(rerunfilecheck)             Checksum: 91B7ECFA79CAF1D629F3EB08C97C8655;4822.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 138.
  ) 
 Here is how much of TeX's memory you used:
- 10049 strings out of 492895
- 153238 string characters out of 3123735
- 318778 words of memory out of 3000000
- 13432 multiletter control sequences out of 15000+200000
- 47311 words of font info for 120 fonts, out of 3000000 for 9000
+ 12404 strings out of 492895
+ 186038 string characters out of 3123735
+ 631115 words of memory out of 3000000
+ 15634 multiletter control sequences out of 15000+200000
+ 49356 words of font info for 127 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,17n,42p,993b,679s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,17n,42p,993b,1120s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 }<C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmex10.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
@@ -1975,18 +2542,19 @@ lic/amsfonts/cm/cmmi10.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/joc_h/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/joc_h/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/joc_
-h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/U
-sers/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri
-.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fpl/f
-plrc8a.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/latxfont/lasy10.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/joc_h/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/joc_h/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/joc_h/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on tesis.pdf (56 pages, 6042204 bytes).
+h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C
+:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fpl
+mr.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mat
+hpazo/fplmri.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/fpl/fplrc8a.pfb><C:/Users/joc_h/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/latxfont/lasy10.pfb><C:/Users/joc_h/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/joc_h/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/joc_h/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/joc_h
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on tesis.pdf (73 pages, 7363095 bytes).
 PDF statistics:
- 1235 PDF objects out of 1440 (max. 8388607)
- 219 named destinations out of 1000 (max. 500000)
- 496 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1487 PDF objects out of 1728 (max. 8388607)
+ 306 named destinations out of 1000 (max. 500000)
+ 626 words of extra memory for PDF output out of 10000 (max. 10000000)
 

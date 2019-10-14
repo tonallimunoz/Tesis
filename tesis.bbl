@@ -28,6 +28,12 @@ Carabali, G., Estévez, H., Valdés-Barrón, M., Bonifaz-Alfonzo, R.,
   optical properties}.
 \newblock {\em Atmospheric Research}, 194:190--201.
 
+\bibitem[Coesfeld et~al., 2018]{Coesfeld2018}
+Coesfeld, J., Anderson, S., Baugh, K., Elvidge, C., and Kyba, C. (2018).
+\newblock {Variation of Individual Location Radiance in VIIRS DNB Monthly
+  Composite Images}.
+\newblock {\em Remote Sensing}, 10(12):1964--1970.
+
 \bibitem[{Comisión Reguladora de Energía}, 2017]{CRE2017}
 {Comisión Reguladora de Energía} (2017).
 \newblock {Factor de Emisión del Sector Eléctrico Nacional}.
@@ -62,6 +68,11 @@ Dunbar, R. and Growlett, J. (2014).
 Duvall, N. (1988).
 \newblock Domestic technology: a chronology.
 \newblock {\em {G. K. Hall Company Editors}}.
+
+\bibitem[Elvidge et~al., 2017]{Elvidge2017}
+Elvidge, C., Baugh, K., Zhizhin, M., Chi, F., and Ghosh, T. (2017).
+\newblock {VIIRS night-time lights}.
+\newblock {\em International Journal of Remote Sensing}, 38(21):5860--5879.
 
 \bibitem[Elvidge et~al., 2010]{Eldvidge2010}
 Elvidge, C., Keith, D., Tuttle, B., and Baugh, K. (2010).

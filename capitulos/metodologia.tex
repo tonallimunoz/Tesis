@@ -26,7 +26,7 @@ El área de la superficie de estudio (forma y tamaño) es definida a través de 
 
 \begin{figure}
   \centering
-    \includegraphics[width=0.7\textwidth]{ciudaddemexicomodelo}
+    \includegraphics[width=0.6\textwidth]{ciudaddemexicomodelo}
   \caption{Intefaz gráfica del modelo \textit{SkyGlow}}
   \label{ciudaddemexicomodelo}
 \end{figure}
@@ -41,9 +41,9 @@ Una vez que el escenario está definido, el modelo requiere de parámetros espec
 
 \begin{itemize}
 
-    \item Rango de longitud de onda: la máxima y mínima longitud de onda a estudiar. \textit{Para este estudio}: rango visible del EE dividido en 40 ventanas de 10 nm con el fin  de estimar el efecto de la dependencia espectral de las fuentes de luz reportadas en el \textbf{Inventario de Alumbrado Público de la Ciudad de México}
+    \item Rango de longitud de onda: la máxima y mínima longitud de onda a estudiar. \textit{Para este estudio}: rango visible del EE dividido en 40 ventanas de 10 nm, con el fin  de estimar el efecto de la dependencia espectral de las fuentes de luz reportadas en el \textbf{Inventario de Alumbrado Público de la Ciudad de México}. Para el caso del Mapa Teórico de Contaminación Lumínica de la Ciudad de México se utilizó el rango espectral 580-590 nm que corresponde al pico máximo de emisión de las fuentes de halogenuros metálicos, que son el principal tipo de iluminación de la Ciudad de México (véase Tabla \ref{tab:inventariocdmx} y \textbf{\autoref{subsec:fuentesdeluz}})
     
-    \item Aerosol atmosférico: véase la \textbf{\autoref{subsubsec:propiedadesopticasaerosol}}. \textit{Para este estudio}: los experimentos numéricos se realizaron considerando la climatología descrita en la \textbf{\autoref{subsec:climatologia}}. Para condiciones de fondo promedio (FP) se considera el Parámetro de Asimetría ASY = 0.6 y el Albedo de Dispersión Simple SSA = 0.85; Para especies carbonosas (EC, carbón elemental producto de la combustión incompleta de combustibles fósiles y carbón orgánico) ASY = 0.3, SSA = 0.3. (Todos los parámetros constantes a lo largo del espectro estudiado) \citep{Penner1998}, \citep{Schmidt2010}.
+    \item Aerosol atmosférico: véase la \textbf{\autoref{subsubsec:propiedadesopticasaerosol}}. \textit{Para este estudio}: los experimentos numéricos se realizaron considerando la climatología descrita en la \textbf{\autoref{subsec:climatologia}}. Para condiciones de fondo promedio (FP) se considera el Espesor Óptico de Aerosol AOD = 0.1, Parámetro de Angstrom $\alpha$ = 1.3, Parámetro de Asimetría ASY = 0.6 y Albedo de Dispersión Simple SSA = 0.85; Para especies carbonosas (EC, carbón elemental producto de la combustión incompleta de combustibles fósiles y carbón orgánico) AOD = 0.1, $\alpha$ = 1.3, ASY = 0.3, SSA = 0.3. (Todos los parámetros constantes a lo largo del espectro estudiado) \citep{Penner1998}, \citep{Schmidt2010}.
     
     \item Nubosidad: altura y albedo espectral de la capa de nube. \textit{Para este estudio}: véase la \textbf{\autoref{subsec:climatologia}}
     
@@ -164,10 +164,29 @@ El código fue desarrollado por el Dr. Miroslav Kocifaj de la Academia Eslovaca 
 
 \textbf{Mapa coroplético}}\\
 
-El \textbf{Mapa Teórico de Contaminación Lumínica de la Ciudad de México} es un mapa coroplético de irradiancia espectral difusa en una superficie horizontal. El código desarrollado en Julia se presenta en el \textbf{\autoref{chap:anexos}}.
+El \textbf{Mapa Teórico de Contaminación Lumínica de la Ciudad de México} (Mapa CL-CDMX) es un mapa coroplético de irradiancia espectral difusa en una superficie horizontal calculada con \textit{SkyGlow} con condiciones de fondo promedio. El código desarrollado en Julia se presenta en el \textbf{\autoref{chap:anexos}}. Los polígonos de sectores de la Ciudad de México se obtuvieron de la página de Datos Abiertos Ciudad de México (\url{datos.cdmx.gob.mx}}) y se tradujeron al formato TopoJSON con la biblioteca de software GDAL.
 
 \newpage
 
 \section{El software \textit{Radiance Light Trends}}
 
-%https://twitter.com/skyglowberlin/status/1103259587501801472
+\textit{Radiance Light Trends} es una aplicación web (\url{lighttrends.lightpollutionmap.info}}) que permite analizar tendencias mundiales de radiancia promedio desde 2013 hasta la fecha con datos satelitales nocturnos de la banda Día/Noche (DNB) del VIIRS, disponibles en la página \textit{National Centers for Environmental Information} (\url{https://ngdc.noaa.gov/}}) de la \textit{National Oceanic and Atmospheric Administration} (NOAA).\\
+
+\subsection{Especificaciones}
+
+La banda DNB de la VIIRS está especialmente diseñada para observar la luz artificial a escala mundial. Escanea una región alrededor de la 1:30 am en un rango espectral de 500-900 nm con una resolución espacial de 0.5 km$^2$ \citep{Elvidge2017}.\\
+
+\subsection{Consideraciones}
+
+Las imágenes producidas por DNB son filtradas para reducir ruido de fondo, contaminación de radiancia debida a la luz solar y lunar y cobertura nubosa. Sin embargo, pueden observarse variaciones en corto plazo (meses) debido al ángulo de las imágenes con que se hacen las composiciones mensuales, incendios, fuegos artificiales y bengalas. Debido a esto, resulta recomendable analizar los datos de DNB en tendencias a largo plazo (anuales) para centrarse en las variables de interés: la variación de la radiancia debido al cambio de los sistemas de iluminación (número, fuente y distribución espacial) \citep{Coesfeld2018}, \citep{Elvidge2017}.\\
+
+\subsection{Productos}
+
+La aplicación calcula para cada polígono de cada alcaldía de la Ciudad de México la radiancia promedio anual y le ajusta una línea de tendencia exponencial y una máscara cuando la región es mayor a 1000 km$^2$. Además, la interfaz gráfica de la aplicación permite visualizar una composición de imágenes de DNB de radiancia promedio para el 2016 (Figura~\ref{radiancetrends}) en la que, cualitativamente, las regiones más claras indican valores más altos de radiancia.
+
+\begin{figure}[htb]
+  \centering
+    \includegraphics[width=0.3\textwidth]{RadianceTrends}
+  \caption{Composición de imágenes satelitales de radiancia en la Ciudad de México (imagen y datos procesados por la NOAA, bajo los términos de uso de Microsoft\textregistered \: Bing\textsuperscript{TM} \: Maps Platform)}
+  \label{radiancetrends}
+\end{figure}
