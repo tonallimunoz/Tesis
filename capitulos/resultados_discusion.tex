@@ -3,6 +3,7 @@
 La composición de imágenes satelitales de radiancia en la Ciudad de México (Figura~\ref{radiancetrends}) muestra cualitativamente que los niveles más altos de radiancia promedio se encuentran en la fracción norte-centro de la ciudad, lo que naturalmente, coincide con la mancha urbana. Dada esta distribución, se considera que un observador está <<dentro de la ciudad>> cuando se encuentra en alguno de los Sectores Urbanos mostrados en el Mapa CL-CDMX y <<fuera de la ciudad>> cuando está fuera de ellos, lo que corresponde con suelo de conservación. 
 
 \section{Tendencias de radiancia promedio en las alcaldías de la Ciudad de México}
+\label{subsec:tendenciasradiancia}
 
 Por efectos de representatividad se selecionaron las siguientes figuras elaboradas con el software \textit{Radiance Light Trends} que muestran las tendencias de radiancia promedio en la alcaldía Gustavo A. Madero (GAM, densamente poblada), Milpa Alta (MA, menos poblada, con mayoría de territorio en suelo de conservación) y en el polígono de Ciudad Universitaria que contiene la REPSA (CU). El resto de las tendencias por alcaldía se encuentran en el \textbf{\autoref{chap:anexos}}.
 
@@ -61,6 +62,14 @@ En esta sección se enfoca el problema de la CL desde otra perspectiva diferente
 
 Para tales análisis se seleccionaron los mismos casos particulares de la sección anterior: un observador dentro de la alcaldía Gustavo A. Madero (coordenadas: 19.47\grad, -99.14\grad), alcaldía Milpa Alta (coordenadas: 19.09\grad, -99.15\grad) y la Zona Núcleo Oriente de la REPSA dentro de Ciudad Universitaria (coordenadas: 19.31\grad, -99.18\grad).\\
 
+En la Figura~\ref{1} se muestran los resultados de la distribución angular para condiciones de cielo despejado para dos escenarios: con Fondo Promedio y con Especies Carbonosas. Para todos los casos se observan altos valores de radiancia en el horizonte prácticamente a lo largo de todo el ángulo acimutal.\\
+
+Nótese el caso de MA en que los valores de radiancia son menores a los casos de GAM y CU, lo cual es debido a que la distancia del observador en MA a las zonas más brillantes de la ciudad es mayor con respecto a los otros casos y que, además, el flujo de luz en MA hacia la atmósfera es menor.\\
+
+El efecto de las Especies Carbonosas es claro para los casos de GAM y CU en los que se observa que son responsables del aumento del brillo en el cenit, lo que se atribuye al valor bajo de su parámetro de asimetría permitiendo así la dispersión isotrópica.\\
+
+Recuérdese que los valores de todas las gráficas tipo \textit{all sky} están reportados en escala logarítmica. En el caso de las figuras analizadas en esta sección se tienen valores de radiancia entre 1.36 x 10$^{-3}$ W sr$^{-1}$ m$^{-2}$ (en MA) y 1.83 x 10$^{-2}$ W sr$^{-1}$ m$^{-2}$ (en GAM).\\
+
 \newpage
 
 \begin{figure}[H]
@@ -75,8 +84,19 @@ Para tales análisis se seleccionaron los mismos casos particulares de la secci�
 
 \section{Experimentos numéricos}
 
-Por el potencial ahorro económico que supone, se está llevando a cabo una gran sustitución de instalaciones de alum-
-brado público cambiando fuentes tradicionales -en muchos casos de vapor de sodio a alta presión- por LED.
+Con el fin de inferir la influencia del aerosol atmosférico y la nubosidad en el brillo del cielo nocturno, se construyeron diferentes escenarios tomando como referencia los mismos observadores en superficies de la sección anterior.\\
+
+Con respecto a la influencia del aerosol atmosférico se tomaron las condiciones observadas en la climatología para la Ciudad de México (véase la \textbf{\autoref{subsubsec:propiedadesopticasaerosol}}). Para todos los casos se observa una reducción preferencial en la radiancia del horizonte en determinados ángulos acimutales con respecto a condiciones de Fondo Promedio. Sin embargo, en otros ángulos acimutales se tiene un aumento drástico en la radiancia en el horizonte (valores entre 2.09 x 10$^{-3}$ W sr$^{-1}$ m$^{-2}$ (en MA) y 2.72 x 10$^{-2}$ W sr$^{-1}$ m$^{-2}$ (en GAM y CU)).\\
+
+En particular, para GAM se observa un reducción gradual en la radiancia en el cenit conforme pasan las estaciones de Invierno Seco, Primavera Seca y Temporada Lluviosa (Figura~\ref{2}), para MA se observa la misma reducción pero comenzando desde Temporada Lluviosa (Figura~\ref{3}) y, para CU comenzando desde Primavera Seca (Figura~\ref{4}). Esta diferencia en comportamiento se puede explicar remitiéndose a las funciones $\Gamma$ y $T$ del modelo que caracterizan la distribución angular de la radiancia y su atenuación atmosférica con base a la posición del observador, el AOD y $\alfa$ (parámetros que cambian significativamente en cada escenario).\\
+
+Con respecto a la influencia de la nubosidad se observa en todos los casos una reconfiguración total de la distribución angular de la radiancia. Conforme la nube es más baja con respecto al observador los valores de randiancia aumentan drásticamente con respecto a las condiciones de Fondo Promedio.\\
+
+En particular para GAM los valores extremos de radiancia aumentan de 1.83 x 10$^{-2}$ W sr$^{-1}$ m$^{-2}$ hasta 2.72 x 10$^{-2}$ W sr$^{-1}$ m$^{-2}$ (Figura~\ref{5}). Para MA de 6.73 x 10$^{-3}$ W sr$^{-1}$ m$^{-2}$ a 1.49 x 10$^{-2}$ W sr$^{-1}$ m$^{-2}$ (Figura~\ref{6}) y para CU de 1.22 x 10$^{-2}$ W sr$^{-1}$ m$^{-2}$ a 2.47 x 10$^{-2}$ W sr$^{-1}$ m$^{-2}$ (Figura~\ref{7}). Resultan interesantes los casos de MA y CU en que la nubosidad crea un efecto de enmascaramiento de radiancia en regiones del horizonte de donde proviene menos luz.\\
+
+Como se aborda en \textbf{\autoref{subsec:tendenciasradiancia}} por el potencial ahorro económico que supone, mundialmente se está llevando a cabo una sustitución de instalaciones de alumbrado público cambiando fuentes tradicionales a LED. Entre otros motivos que tienen que ver con la susceptibilidad de un gran número de organismos a las longitudes de onda corta, los LEDs son la fuente de luz con mayor potencial en términos de CL ya que las longitudes de onda corta que emite se transportan más eficientemente en la atmósfera por acción de la dispersión de Rayleigh.\\
+
+En la Figura~\ref{8} se observa que al simular el cambio de iluminación de la ciudad a LED, en todos los casos ocurre un marcado aumento en los valores de radiancia con respecto a las condiciones de Fondo Promedio.\\
 
 \newpage
 
@@ -136,13 +156,34 @@ brado público cambiando fuentes tradicionales -en muchos casos de vapor de sodi
   \centering
     \includegraphics[width=1\textwidth]{8}
   \caption{Gráficas tipo \textit{all sky} para condiciones de cielo despejado con tipo de luminaria LED con A) Fondo Promedio para GAM, B) Especies Carbonosas para GAM, C) Caso de A) para MA, D) Caso de B) para MA, E) Caso de A) para CU y F) Caso de B) para CU} 
-  \label{1}
+  \label{8}
 \end{figure}
 
 \newpage
 
 \section{Mapa CL-CDMX}
 \label{sec:mapacl}
+
+Para efectos de evaluación teórica de los efectos de la distribución de radiancia en el cielo nocturno (brillo del cielo) sobre la irradiancia difusa percibida por un observador en superficie se construyó el \textbf{Mapa Teórico de Contaminación Lumínica de la Ciudad de México} con las salidas del modelo \textit{SkyGlow} (Figura~\ref{8}).\\
+
+Advertencia: los valores de irradiancia presentados en el mapa no son un indicativo directo de los niveles de CL, más bien, son representativos de la tendencia de CL en el rango visible del EE. De manera tradicional los efectos directos de la CL sobre la biodiversidad se efectúan empleando mediciones fotométricas que quedan restringidas en el ámbito de la visión humana y, por lo tanto, se pierde mucha información en el proceso; un aspecto novedoso que ofrece la base teórica del Mapa CL-CDMX es la posibilidad de mapear valores de irradiancia en superficie aplicando filtros específicos basados en la visión de diferentes especies, es decir: generar mapas de cómo perciben el brillo del cielo nocturno diferentes especies en diferentes lugares de la ciudad.\\
+
+Lo anterior es posible efectuarlo de acuerdo con \cite{Solano2013} a través de la modificación de la ecuación \ref{eq:2.5} obteniendo:
+
+\begin{equation}
+D_{\lambda} = \int_{\lambda_{1}}^{\lambda_{1}} \zeta(\lambda) \int_{z = 0}^{z =\pi/2} \int_{\phi = 0}^{\phi = 2\pi} I_{\lambda} (z, \phi) \: sen \,z \: dz \: d\phi
+\end{equation}\\
+
+
+En donde $\zeta(\lambda)$ es la respuesta espectral de una especie en particular siendo una función de su tipo de visión (fotópica, mesópica o escotópica).\\
+
+Por otro lado, el Mapa CL-CDMX permite evaluar la correcta reproducción de las tendencias observadas de CL por el VIIRS DNB (Figura~\ref{radiancetrends}). En general, se observa una reproducción muy fiel al tener los niveles más bajos de irradiancia fuera de la ciudad y los mayores en el Centro de la ciudad integrado por los Sectores Centro, Roma, Tlatelolco, Buenavista y Morelos. Nótese que las regiones en color blanco corresponden a zonas no iluminadas, como el sur de la Ciudad de México y ANPs dentro de la ciudad, o con iluminación especial (no correspondiente al alumbrado público) como el Aeropuerto Internacional de la Ciudad de México, Ciudad Universitaria, Reclusorio Norte y el Colegio Militar.\\
+
+Por último, se propone el Mapa CL-CDMX como un antecedente para la zonificación que necesita cualquier legislación en materia de CL para la Ciudad de México (véase la \textbf{\autoref{subsec:marcoregulatorio}}). Sumado a todo, se hace un llamado a abordar el problema de la CL y su mitigación a través de la zonificación basada en el enfoque socioecosistémico abordado en la \textbf{\autoref{subsec:enfoquesocioecosistemico}}: no porque una zona sea altamente comercial o turística significa que sus fuentes de luz puedan ser de cualquier tipo, tiene que pensarse en que la especie humana coexiste con otras miles de especies en un mismo espacio y que nuestros caminos y calles son los suyos también, la sustentabilidad no se construye para el futuro sino para hoy, las ciudades no son estructuras inmutables que tengan que reproducir esquemas antropocentristas sino procesos de la naturaleza. 
+
+\newpage
+
+\vspace{100mm} 
 
 \begin{figure}[H]
   \centering
@@ -152,5 +193,3 @@ brado público cambiando fuentes tradicionales -en muchos casos de vapor de sodi
 \end{figure}
 
 \newpage
-
-Espacio para explicar el mapa y su buena reproducción de observaciones. irradiancia sobre una superficie horizntal

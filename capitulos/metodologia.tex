@@ -61,7 +61,7 @@ I_{\lambda}(z, \phi) = \frac{A_{0}\, S_{\lambda}}{cos\,z} \int_{h=0}^{h} B_{\lam
 
 Donde $\lambda$ es la longitud de onda a la que se emite la luz, $z'$ y $\phi'$ son el ángulo cenital y acimutal de la luz emitida respectivamente, mientras que $z$ y $\phi$ caracterizan la posición del elemento de cielo observado y h es su altura con respecto al observador P (Figura~\ref{geometriamodelo}).\\
 
-El primer término de la izquierda de la ecuación captura la emisión de las fuentes de luz (no dependen del observador) donde $A_{0}$ es un elemento de superficie de una fuente de luz que radia en todas direcciones y $S_{\lambda, 0}$ es la potencia emitida por elemento de superficie $A_{0}$ de la fuente radiante (W m$^{-2}$ nm$^{-1}$).\\
+El primer término de la izquierda de la ecuación captura la emisión de las fuentes de luz (no dependen del observador) donde $A_{0}$ es un elemento de superficie de una fuente de luz que radia en todas direcciones y $S_{\lambda}$ es la potencia emitida por elemento de superficie $A_{0}$ de la fuente radiante (W m$^{-2}$ nm$^{-1}$).\\
 
 
 \begin{figure}[htb]
@@ -113,7 +113,7 @@ T_{\lambda}(h, z, \phi) = t_{\lambda}(h,z) \, t_{\lambda}(h, z')
 
 Si la radiancia espectral $I_{\lambda}(z, \phi)$ es conocida, entonces la irradiancia espectral difusa en una superficie horizontal $D_{\lambda}$ puede ser calculada \citep{Kocifaj2014} como: 
 
-\begin{equation}
+\begin{equation} \label{eq:2.5}
 D_{\lambda} = \int_{z = 0}^{z =\pi/2} \int_{\phi = 0}^{\phi = 2\pi} I_{\lambda} (z, \phi) \: sen \,z \: dz \: d\phi
 \end{equation}
 
