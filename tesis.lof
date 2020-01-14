@@ -5,29 +5,29 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Espectro electromagnético \citep {NASA2007}}}{2}{figure.1.1}% 
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Distribución espectral de A) LED, B) Vapor de mercurio, C) Halogenuros metálicos, D) Sodio a alta presión y E) Sodio a baja presión \citep {Solano2013b}}}{9}{figure.1.2}% 
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Ángulo de apantallamiento de luminaria \citep {Marin2009}}}{10}{figure.1.3}% 
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Porcentaje de especies nocturnas de diferentes clases y órdenes de vertebrados con respecto a su origen \citep {Holker2010}}}{12}{figure.1.4}% 
-\contentsline {figure}{\numberline {1.5}{\ignorespaces División política y uso de suelo en la Ciudad de México \citep {SEDEMA2016}}}{20}{figure.1.5}% 
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Nubes. A) Altocumulus, B) Altostratus, C) Stratus \citep {Metoffice2019}}}{22}{figure.1.6}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Distribución espectral de A) LED, B) Vapor de mercurio, C) Halogenuros metálicos, D) Sodio a alta presión y E) Sodio a baja presión \citep {Solano2013b}}}{8}{figure.1.2}% 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Ángulo de apantallamiento de luminaria \citep {Marin2009}}}{9}{figure.1.3}% 
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Porcentaje de especies nocturnas de diferentes clases y órdenes de vertebrados con respecto a su origen \citep {Holker2010}}}{11}{figure.1.4}% 
+\contentsline {figure}{\numberline {1.5}{\ignorespaces División política y uso de suelo en la Ciudad de México \citep {SEDEMA2016}}}{19}{figure.1.5}% 
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Nubes. A) \textit {Altocumulus}, B) \textit {Altostratus}, C) \textit {Stratus} \citep {Metoffice2019}}}{21}{figure.1.6}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Intefaz gráfica del modelo \textit {SkyGlow}}}{27}{figure.2.1}% 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Geometría del modelo \citep {Kocifaj2007}}}{28}{figure.2.2}% 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Gráfica polar}}{30}{figure.2.3}% 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Composición de imágenes satelitales de radiancia en la Ciudad de México (imagen y datos procesados por la NOAA, bajo los términos de uso de Microsoft\textregistered \tmspace +\medmuskip {.2222em} Bing\textsuperscript {TM} \tmspace +\medmuskip {.2222em} Maps Platform)}}{31}{figure.2.4}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Intefaz gráfica del modelo \textit {SkyGlow}}}{26}{figure.2.1}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Geometría del modelo \citep {Kocifaj2007}}}{27}{figure.2.2}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Gráfica polar}}{29}{figure.2.3}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Composición de imágenes satelitales de radiancia en la Ciudad de México (imagen y datos procesados por la NOAA, bajo los términos de uso de Microsoft\textregistered \tmspace +\medmuskip {.2222em} Bing\textsuperscript {TM} \tmspace +\medmuskip {.2222em} Maps Platform)}}{30}{figure.2.4}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Tendencia de radiancia promedio para la alcaldía GAM}}{32}{figure.3.1}% 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Tendencia de radiancia promedio para CU}}{33}{figure.3.2}% 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Tendencia de radiancia promedio para la alcaldía MA}}{33}{figure.3.3}% 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado con A) FP para GAM, B) EC para GAM, C) Caso de A) para MA, D) Caso de B) para MA, E) Caso de A) para CU y F) Caso de B) para CU}}{36}{figure.3.4}% 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado para GAM en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{38}{figure.3.5}% 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado para MA en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{38}{figure.3.6}% 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado para CU en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{38}{figure.3.7}% 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo nublado para GAM con A) Nube altocumulus, B) Nube Altostratus y C) Nube stratus}}{39}{figure.3.8}% 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo nublado para MA con A) Nube altocumulus, B) Nube Altostratus y C) Nube stratus}}{39}{figure.3.9}% 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo nublado para CU con A) Nube altocumulus, B) Nube Altostratus y C) Nube stratus}}{39}{figure.3.10}% 
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado con tipo de luminaria LED con A) FP para GAM, B) EC para GAM, C) Caso de A) para MA, D) Caso de B) para MA, E) Caso de A) para CU y F) Caso de B) para CU}}{40}{figure.3.11}% 
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Mapa CL-CDMX}}{42}{figure.3.12}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tendencia de radiancia promedio para la alcaldía GAM}}{31}{figure.3.1}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Tendencia de radiancia promedio para CU}}{32}{figure.3.2}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Tendencia de radiancia promedio para la alcaldía MA}}{32}{figure.3.3}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado con A) FP para GAM, B) EC para GAM, C) Caso de A) para MA, D) Caso de B) para MA, E) Caso de A) para CU y F) Caso de B) para CU}}{35}{figure.3.4}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado para GAM en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{37}{figure.3.5}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado para MA en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{37}{figure.3.6}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado para CU en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{37}{figure.3.7}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo nublado para GAM con A) \textit {altocumulus}, B) \textit {altostratus} y C) \textit {stratus}}}{38}{figure.3.8}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo nublado para MA con A) \textit {altocumulus}, B) \textit {altostratus} y C) \textit {stratus}}}{38}{figure.3.9}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo nublado para CU con A) \textit {altocumulus}, B) \textit {altostratus} y C) \textit {stratus}}}{38}{figure.3.10}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado con tipo de luminaria LED con A) FP para GAM, B) EC para GAM, C) Caso de A) para MA, D) Caso de B) para MA, E) Caso de A) para CU y F) Caso de B) para CU}}{39}{figure.3.11}% 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Mapa CL-CDMX}}{41}{figure.3.12}% 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

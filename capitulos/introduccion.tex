@@ -99,14 +99,14 @@ En la \textbf{Tabla \ref{tab:componentesbrillo}} se describen los principales co
 Brillo del aire ($I_A$) & \begin{tabular}[c]{@{}l@{}}Excitación de átomos de oxígeno y nitrógeno de la atmósfera superior\\ por su interacción con la radiación solar\end{tabular} \\ \hline
 Luz zodiacal ($I_{ZL}$) & Dispersión de la radiación solar en partículas de polvo interestelar \\ \hline
 Luz estelar ($I_{ISL}$) & La luz de las estrellas en su conjunto \\ \hline
-Luz difusa galáctica ($I_{DGL}$) & Luz emitida y dispersada por partículas de polvo de la galaxia \\ \hline
+Luz difusa galáctica ($I_{DGL}$) & Luz dispersada por partículas de polvo de la galaxia \\ \hline
 Luz de fondo extragaláctica ($I_{EBL}$) & Luz producida por galaxias o cúmulo de galaxias \\ \hline
 Luz artificial ($I_{SCA}$) & Luz artificial dispersada en la tropósfera \\ \hline
 \end{tabular}%
 }
 \end{table}
 
-La suma de tales componentes (excepto luz artificial, netamente de origen antropogénico) se considera de origen natural y es susceptible de ser atenuada por acción de la atenuación atmosférica. De acuerdo con esta clasificación, el brillo total del cielo nocturno puede calcularse a partir de la siguiente ecuación:
+La suma de tales componentes (excepto luz artificial, netamente de origen antropogénico) se considera de origen natural y es susceptible de ser atenuada en su interacción con la atmósfera terrestre. De acuerdo con esta clasificación, el brillo total del cielo nocturno puede calcularse a partir de la siguiente ecuación:
 
 \begin{equation}
 I_{tot} = (I_A + I_{ZL} + I_{ISL} + I_{DGL} + I_{EBL})\:e^{-\tau} + I_{SCA}
@@ -217,7 +217,7 @@ Con $N$ la concentración de partículas de tamaño $D$. El valor del SSA es rep
 
 \subsubsection{Propiedades ópticas de las nubes}
 
-\cite{Twomey1967} desarrolló por primera vez una teoría de dispersión de la luz debido a la nubosidad. Estudios más recientes \citep{Kocifaj2007}, \citep{Solano2014}, \citep{Solano2015}, han encontrado cambios significativos en el brillo del cielo por la dispersión de luz artificial por acción de la nubosidad. Las nubes son un medio dispersivo complejo, esto es, que poseen diferentes constituyentes con diferente índice refractivo complejo $(\underline{n})$ definido como:
+\cite{Twomey1967} desarrolló por primera vez una teoría de dispersión de la luz debido a la nubosidad. Estudios más recientes \citep{Kocifaj2007,Solano2014,Solano2015}, han encontrado cambios significativos en el brillo del cielo por la dispersión de luz artificial por acción de la nubosidad. Las nubes son un medio dispersivo complejo, esto es, que poseen diferentes constituyentes con diferente índice refractivo complejo $(\underline{n})$ definido como:
 
 \begin{equation}
 \underline{n} = n + i k
@@ -233,18 +233,18 @@ El albedo espectral de las nubes depende principalmente de factores como la alti
 
 Resulta complicado medir el albedo espectral de las nubes durante la noche ya que la mayoría de los fotómetros que miden esta propiedad funcionan con base en niveles de radiación presentes sólo durante el día. Por esta razón, las simulaciones numéricas de la influencia de las nubes en el brillo del cielo nocturna resultan útiles \citep{Solano2015}.\\
 
-Además, es importante mencionar que los factores que se toman en cuenta en la modelación teórica son capaces de reproducir diferentes comportamientos del brillo del cielo con respecto a la posición del observador, lo cual es deseable para la predicción del brillo del cielo nocturno influenciado por diferentes tipos de nubes \citep{Kocifaj2007}, \citep{Solano2015}.
+Además, es importante mencionar que los factores que se toman en cuenta en la modelación teórica (descritos en la \textbf{\autoref{sec:modeloskyglow}}) son capaces de reproducir diferentes comportamientos del brillo del cielo con respecto a la posición del observador, lo cual es deseable para la predicción del brillo del cielo nocturno influenciado por diferentes tipos de nubes \citep{Kocifaj2007,Solano2015}.
 
 \newpage
 
 \section{Luz artificial}\\
 \label{sec:luzartificial}
 
-En esta sección se aborda la caracterización de la luz artificial (de origen netamente antropogénico). Para esta tesis se considera que el alumbrado público es el principal responsable del brillo del cielo nocturno ocasionado por luz artificial \citep{Solano2013b}.
+En esta sección se aborda la caracterización de la luz artificial (de origen netamente antropogénico). Para esta tesis se considera que el alumbrado público es el principal responsable del brillo del cielo nocturno \citep{Solano2013b}.
 
 \subsection{Fundamentos teóricos de las fuentes artificiales de luz}
 
-El diseño de iluminación es una disciplina fundamental para la correcta iluminación en el alumbrado público, la cual requiere de colaboraciones con otros campos como la física, biología, ciencias de la Tierra, ingeniería y arquitectura. El reto es grande ya que una correcta iluminación debe ser sustentable, apropiada para su contexto y debe lograr ahorro económico \citep{LibroCL}, \citep{Globaldiscussion}. A continuación se presentan los conceptos físicos fundamentales detrás de la iluminación.\\
+El diseño de iluminación es una disciplina fundamental para la correcta iluminación en el alumbrado público, la cual requiere de colaboraciones con otros campos como la física, biología, ciencias de la Tierra, ingeniería y arquitectura. El reto es grande ya que una correcta iluminación debe ser sustentable, apropiada para su contexto y debe lograr ahorro económico \citep{LibroCL, Globaldiscussion}. A continuación se presentan los conceptos físicos fundamentales detrás de la iluminación.\\
 
 
 \textbf{Producción de luz}
@@ -268,13 +268,13 @@ Para efectos de evaluación de reproducción de color y confort se asocia una ap
 
 \textbf{Eficiencia}
 
-Definida para estudios fotométricos, se trata de la cantidad de flujo luminoso (visible) emitido por una fuente de luz por unidad de potencia consumida. La unidad del flujo luminoso es el lumen (lm), el equivalente fotométrico del flujo radiante. No es posible obtener una eficiencia de 100$\%$ debido a las pérdidas ocasionadas por disipación calorífica y radiaciones no visibles para el humano \citep{LibroCL}.
+Definida para estudios fotométricos, se trata de la cantidad de flujo luminoso (visible) emitido por una fuente de luz por unidad de potencia consumida. La unidad del flujo luminoso es el lumen (lm), el equivalente fotométrico del flujo radiante. No es posible obtener una eficiencia de 100$\%$ debido a las pérdidas ocasionadas por disipación calorífica \citep{LibroCL}.
 
 
 \subsection{Fuentes de luz artificial}
 \label{subsec:fuentesdeluz}
 
-Existen tres principales tipos de fuentes de luz artificial: incandescente, de descarga y LED (\textbf{Tabla \ref{tab:luzartificial}}), (Figura~\ref{distribucionespectral})  \citep{Solano2013b}, \citep{Eldvidge2010}, \citep{LibroCL}.\\
+Existen tres principales tipos de fuentes de luz artificial: incandescente, de descarga y LED (\textbf{Tabla \ref{tab:luzartificial}}), (Figura~\ref{distribucionespectral})  \citep{Solano2013b, Eldvidge2010,LibroCL}.\\
 
 La iluminación incandescente es la más antigua y la más utilizada para interiores, su funcionamiento se basa en hacer pasar corriente eléctrica a través de un filamento, aumentando su temperatura hasta hacer que emita radiaciones visibles (termorradiación).\\
 
@@ -330,33 +330,33 @@ La forma en que la luminaria distribuye en el espacio la luz emitida por la fuen
 \subsection{Función de emisión urbana}
 \label{subsec:funciondemisionurbana}
 
-Las fuentes de luz artificiales (públicas y privadas) emiten luz en casi todas las direcciones \citep{Kocifaj2014}, \citep{Kocifaj2016}. Por lo tanto, la luz artificial emitida a la atmósfera se debe a la superposición de emisiones de las diferentes fuentes distribuidas en la superficie.\\
+Las fuentes de luz artificiales (públicas y privadas) emiten luz en casi todas las direcciones \citep{Kocifaj2014,Kocifaj2016}. Por lo tanto, la luz artificial emitida a la atmósfera se debe a la superposición de emisiones de las diferentes fuentes distribuidas en la superficie.\\
 
 La distribución angular de la luz emitida por una ciudad es fundamental para la modelación del brillo del cielo nocturno ocasionado por luz artificial \citep{Kocifaj2014} esta distribución es caracterizada a través de una función de emisión parametrizada denominada Función de Emisión Urbana (CEF, por sus siglas en inglés) la cual depende de las características del sistema de iluminación de una ciudad \citep{Kocifaj2014}.\\
 
-Debido a la falta, hasta la actualidad, de inventarios detallados de las fuentes de luz (públicas y privadas) y su naturaleza heterogénea, resulta extremadamente complicado obtener la CEF a través de estudios teóricos o experimentales \citep{Kocifaj2014}. \cite{Garstang1986} desarolló una aproximación semi-empírica para la estimación de la CEF, la cual es discutida en el \textbf{\autoref{chap:metodologia}}
+Debido a la falta, hasta la actualidad, de inventarios detallados de las fuentes de luz (públicas y privadas) y su naturaleza heterogénea, resulta extremadamente complicado obtener la CEF a través de estudios teóricos o experimentales \citep{Kocifaj2014}. \cite{Garstang1986} desarolló una aproximación semi-empírica para la estimación de la CEF, la cual es discutida en la \textbf{\autoref{sec:modeloskyglow}}.
 
 \newpage
 
 \section{Contaminación lumínica (CL)}\\
 \label{sec:contaminacionluminica}
 
-La CL es cualquier efecto negativo debido a la emisión de luz artificial en intensidades, direcciones, rangos espectrales u horarios innecesarios \citep{AtlasREPSA}, \citep{LibroCL}, \citep{Stone2017}.\\
+La CL es cualquier efecto negativo debido a la emisión de luz artificial en intensidades, direcciones, rangos espectrales y/u horarios innecesarios \citep{AtlasREPSA,LibroCL,Stone2017}.\\
 
-En esta sección se presentan los argumentos que permiten afirmar que el brillo del cielo nocturno ocasionado por la luz artificial, es una fuente de CL en los socioecosistemas. Entiéndase contaminación como la alteración negativa de un sistema a través de la introducción de elementos físicos extraños \citep{AtlasREPSA}, \citep{LibroCL}.\\
+En esta sección se presentan los argumentos que permiten afirmar que el brillo del cielo nocturno ocasionado por la luz artificial, es una fuente de CL en los socioecosistemas. Entiéndase contaminación como la alteración negativa de un sistema a través de la introducción de elementos físicos extraños \citep{AtlasREPSA,LibroCL}.\\
 
 Entiéndase un sistema como un conjunto de componentes interactuando en los que: 1) el comportamiento de cada componente tiene un efecto en el comportamiento del todo y, 2) el comportamiento de los componentes y sus efectos en el todo son interdependientes \citep{Avila2019}.\\
 
 \subsection{El enfoque socioecosistémico}
 \label{subsec:enfoquesocioecosistemico}
 
-Los seres humanos nombramos a la realidad natural de distintas maneras, las cuales poseen significados brutalmente diferentes de acuerdo con el fundamento filosófico con el que percibimos el planeta \citep{Avila2019}, \citep{Uribe2014}. Por ejemplo, las empresas extractivas denominan <<recursos naturales>> a tal realidad, los habitantes de una región, <<territorio>> y los científicos, <<ecosistema>>.\\
+Los seres humanos nombramos a la realidad natural de distintas maneras, las cuales poseen significados diferentes de acuerdo con el fundamento filosófico con el que percibimos el planeta \citep{Avila2019,Uribe2014}. Por ejemplo, las empresas extractivas denominan <<recursos naturales>> a tal realidad, los habitantes de una región, <<territorio>> y los científicos, <<ecosistema>>.\\
 
-Con la aparición de la vida en la Tierra, surgieron los ecosistemas como un nivel de organización de la materia y la energía, en que el los sistemas físico-químicos (abióticos) y los sistemas bióticos interctuaron y evolucionaron de manera integrada. Sin embargo, con la emergencia de las sociedades y su organización con base en un lenguaje simbólico, nacen los socioecosistemas \citep{Avila2019}, \citep{Uribe2014}, \citep{Urquiza2015}.\\
+Con la aparición de la vida en la Tierra, surgieron los ecosistemas como un nivel de organización de la materia y la energía, en que los sistemas físico-químicos (abióticos) y los sistemas bióticos interctuaron y evolucionaron de manera integrada. Sin embargo, con la emergencia de las sociedades y su organización con base en un lenguaje simbólico, nacen los socioecosistemas \citep{Avila2019,Uribe2014,Urquiza2015}.\\
 
 Un socioecosistema es, por lo tanto, un sistema complejo (no lineal) y adaptativo que hace referencia a los procesos de acoplamiento e interacción entre los sistemas sociales (cultura, economía, organización social y política) y los ecosistemas \citep{Urquiza2015}.\\
 
-Resulta fundamental, entonces, estudiar las problemáticas de contaminación ambiental desde el enfoque socioecosistémico. De esta manera se hace visible que, separar el nicho humano de la realidad natural, es el principal motor de la actual crisis ambiental. En este sentido, las Ciencias de la Tierra surgen como la disciplina integradora que, a través de la generación de conocimiento con un enfoque socioecosistémico, logra sembrar directrices en la construcción de la sustentabilidad.\\
+Resulta fundamental, entonces, estudiar las problemáticas de contaminación ambiental desde el enfoque socioecosistémico. De esta manera se hace visible que, separar el nicho humano de la realidad natural, es el principal motor de la actual crisis ambiental. En este sentido, las ciencias de la Tierra surgen como la disciplina integradora que, a través de la generación de conocimiento con un enfoque socioecosistémico, logra sembrar directrices en la construcción de la sustentabilidad.\\
 
 \subsection{Importancia del ciclo día-noche en la evolución de la vida}
 
@@ -366,7 +366,7 @@ Sin embargo, si la hipótesis del Impacto de Theia es correcta, es factible que 
 
 La velocidad de rotación actual de la Tierra debió comenzarse a perfilar hacia finales del periodo Criogénico (hace alrededor de 600 Ma), al mismo tiempo que los niveles de oxígeno y ozono estratosférico fueron óptimos para el surgimiento y desarrollo de vida más compleja (multicelular) en un evento conocido como \textit{la Radiación del Cámbrico}, durante el que se originaron y diversificaron la mayoría de los filos animales incluyendo el de los cordados, al que pertenecemos los humanos \citep{Conway2000}.\\
 
-La mayoría de los organismos, incluyendo a los humanos, poseen ritmos circadianos que son controlados por el ciclo día-noche. Tales ritmos juegan un papel primordial en la regulación del metabolismo, el crecimiento y el comportamiento \citep{Dunlap1999}. Los fotoreceptores circadianos han estado presentes en la retina de los vertebrados desde hace aproximadamente 500 Ma, una vez que la duración del día se estableció en 24 horas \citep{Conway2000}, \citep{Longcore2006}.\\
+La mayoría de los organismos, incluyendo a los humanos, poseen ritmos circadianos que son controlados por el ciclo día-noche. Tales ritmos juegan un papel primordial en la regulación del metabolismo, el crecimiento y el comportamiento \citep{Dunlap1999}. Los fotoreceptores circadianos han estado presentes en la retina de los vertebrados desde hace aproximadamente 500 Ma, una vez que la duración del día se estableció en 24 horas \citep{Conway2000,Longcore2006}.\\
 
 Se ha encontrado que la proporción de especies vertebradas nocturnas que surgieron durante radiaciones evolutivas recientes es mayor con respecto a las antiguas (Figura~\ref{nocturnalidad}). Esto sugiere que la nocturnalidad es un importante paso en la evolución de los vertebrados \citep{Holker2010}. Sin embargo, no sólo la nocturnalidad es importante en los vertebrados, se estima que más del 60$\%$ de invertebrados son nocturnos \citep{Longcore2006}.
 
@@ -420,9 +420,9 @@ En conclusión, la energía radiante del alumbrado público y privado es la caus
 \subsection{Consecuencias de la CL}
 \label{subsec:consecuenciascl}
 
-Regularmente al alumbrado público y privado se les denota de una manera positiva asignándoles valores asociados con la seguridad, estética e identidad los cuales, desafortunadamente, al ser abordados de manera no sustentable invisibilizan el <<lado oscuro de la luz>> que se aborda en la presente subsección \citep{Globaldiscussion}, \citep{LibroCL}.\\ 
+Regularmente al alumbrado público y privado se les denota de una manera positiva asignándoles valores asociados con la seguridad, estética e identidad los cuales, desafortunadamente, al ser abordados de manera no sustentable invisibilizan el <<lado oscuro de la luz>> que se aborda en la presente subsección \citep{Globaldiscussion,LibroCL}.\\ 
 
-Las consecuencias de la CL son extremadamente diversas y afectan en diferentes escalas a los socioecosistemas. Sin embargo, basta con remitirse a la definición de CL para entender, a grandes rasgos las relaciones causa-consecuencia. Esto es, la luz artificial se vuelve contaminante cuando es emitida en intensidades, direcciones, rangos espectrales, horarios innecesarios o en cualquier combinación de estas características \citep{AtlasREPSA}, \citep{LibroCL}, \citep{Stone2017}.\\ 
+Las consecuencias de la CL son extremadamente diversas y afectan en diferentes escalas a los socioecosistemas. Sin embargo, basta con remitirse a la definición de CL para entender, a grandes rasgos las relaciones causa-consecuencia. Esto es, la luz artificial se vuelve contaminante cuando es emitida en intensidades, direcciones, rangos espectrales, horarios innecesarios o en cualquier combinación de estas características \citep{AtlasREPSA,LibroCL,Stone2017}.\\ 
 
 A continuación se mencionan algunas de las consecuencias de la CL clasificadas de acuerdo con su afectación en los socioecosistemas (de manera directa e indirecta). Este recuento no pretende ser exhaustivo pero sí ser representativo de las consecuencias más apremiantes y cuyo estudio es todavía emergente.\\
 
@@ -439,11 +439,11 @@ Sin embargo, también es necesario mencionar que los efectos adversos que puedan
 
 \textit{\textbf{Insectos}}\\
 
-Los insectos son los principales invertebrados afectados por la CL ya que su actividad es básicamente nocturna. Utilizan  la luz del firmamento como referencia de navegación y sus sistemas visuales están adaptados a niveles muy bajos de luz. Los efectos de la CL en los insectos principalmente son la captación (muerte por impacto o agotamiento al ser atraídos a las fuentes de luz artificial), pérdida de visión, desorientación en la navegación y alteración de conductas reproductivas (la luz puede suprimir la emisión de feromonas o dificultar la actividad de atracción) \citep{CEI2017}, \citep{Davies2013}.\\
+Los insectos son los principales invertebrados afectados por la CL ya que su actividad es básicamente nocturna. Utilizan  la luz del firmamento como referencia de navegación y sus sistemas visuales están adaptados a niveles muy bajos de luz. Los efectos de la CL en los insectos principalmente son la captación (muerte por impacto o agotamiento al ser atraídos a las fuentes de luz artificial), pérdida de visión, desorientación en la navegación y alteración de conductas reproductivas (la luz puede suprimir la emisión de feromonas o dificultar la actividad de atracción) \citep{CEI2017,Davies2013}.\\
 
 \textit{\textbf{Anfibios}}\\
 
-Como se comentó con anterioridad, los anfibios son los vertebrados más afectados por la CL. Su tegumento (tejido orgánico que cubre su cuerpo) es altamente glandular, carece de protección contra la radiación ultravioleta, y es sensible a la luz y al calor. La CL también tiene efecto sobre su reproducción (la luz inhibe los llamados de atracción), retrasos en el crecimiento y variación en el comportamiento de caza (migración de especies a lugares iluminados donde hay mayor densidad de insectos, lo cual los hace más vulnerables a las condiciones del entorno) \citep{Longcore2006}, \citep{LibroCL}, \citep{LibroCL}.\\
+Como se comentó con anterioridad, los anfibios son los vertebrados más afectados por la CL. Su tegumento (tejido orgánico que cubre su cuerpo) es altamente glandular, carece de protección contra la radiación ultravioleta, y es sensible a la luz y al calor. La CL también tiene efecto sobre su reproducción (la luz inhibe los llamados de atracción), retrasos en el crecimiento y variación en el comportamiento de caza (migración de especies a lugares iluminados donde hay mayor densidad de insectos, lo cual los hace más vulnerables a las condiciones del entorno) \citep{Longcore2006,LibroCL}.\\
 
 \textit{\textbf{Aves}}\\
 
@@ -453,7 +453,7 @@ La CL afecta especialmente la migración de las aves: las luces de edificios ilu
 
 La mayor afectación de la CL en los mamíferos es en la alteración de los ritmos circadianos, que como se mencionó con anteriordad, su funcionamiento está totalmente supeditado al ciclo día-noche y son fundamentales en la regulación del metabolismo, el crecimiento y el comportamiento.\\
 
-En este punto resulta importante mencionar los efectos en la salud humana debido a la CL. La alteración en los ritmos circadianos humanos se asocia con la supresión de la producción de la hormonas que sólo se producen durante total oscuridad como la melatonina. Se ha reportado que el déficit de melatonina y la disrupción circadiana en general, están asociadas con un gran número de patologías entre otras el aumento de la incidencia del síndrome metabólico, enfermedades cardiovasculares, alteraciones cognitivas y afectivas, riesgo de padecimiento de algunos tipos de cáncer y envejecimiento prematuro \citep{CEI2017}, \citep{LibroCL}.\\
+En este punto resulta importante mencionar los efectos en la salud humana debido a la CL. La alteración en los ritmos circadianos humanos se asocia con la supresión de la producción de la hormonas que sólo se producen durante total oscuridad como la melatonina. Se ha reportado que el déficit de melatonina y la disrupción circadiana en general, están asociadas con un gran número de patologías entre otras el aumento de la incidencia del síndrome metabólico, enfermedades cardiovasculares, alteraciones cognitivas y afectivas, riesgo de padecimiento de algunos tipos de cáncer y envejecimiento prematuro \citep{CEI2017,LibroCL}.\\
 
 Debido a los orígenes multifactoriales de las patologías anteriormente descritas, hasta el momento, no es posible asociar directamente la CL como causante de tales. Sin embargo, las patologías oculares como las retinopatías sí pueden deberse en gran medida la exposición a luz intensa y luz con longitudes de onda cortas \citep{CEI2017}.\\
 
@@ -474,7 +474,7 @@ El derroche energético que se genera a raíz de la CL tiene implicación en la 
 
 \textit{\textbf{Contaminación atmosférica}}\\ 
 
-Un aspecto interesante es el que sugiere que la luz artificial durante la noche podría producir un efecto sinérgico en la contaminación atmosférica al funcionar como un potencial estímulo de nucleación de partículas ultrafinas (peligrosas para el sistema respiratorio) y contaminantes como el ozono que, entre otros factores, se forman a partir de reacciones fotoquímicas \citep{LibroCL}.\\ 
+Un aspecto interesante es el que sugiere que la luz artificial durante la noche podría producir un efecto sinérgico en la contaminación atmosférica al funcionar como un potencial estímulo de nucleación de partículas ultrafinas (peligrosas para el sistema respiratorio) y contaminantes como el ozono troposférico que, entre otros factores, se forman a partir de reacciones fotoquímicas \citep{LibroCL}.\\ 
 
 \newpage 
  
@@ -482,13 +482,13 @@ Un aspecto interesante es el que sugiere que la luz artificial durante la noche 
 
 La necesidad de cuantificar continuamente la CL ha propiciado el desarrollo de herramientas experimentales (instrumentos de medición) y teóricas (modelos) \citep{Kocifaj2015}. Sin embargo, la mayoría de los instrumentos que miden el brillo del cielo nocturno suelen tener limitaciones que dificultan la obtención e interpretación de los datos.\\
 
-El instrumento más utilizado para medir el brillo del cielo nocturno es el Sky Quality Meter (SQM), este equipo únicamente es capaz de hacer mediciones puntuales en el cenit, lo cual no es representativo de la distribución angular de la radiancia en el cielo \citep{Ribas2015}. Por otro lado, los instrumentos de interés (incluido el SQM) están diseñados para medir en regiones específicas del EE, lo que implica una pérdida de información valiosa \citep{Ribas2015}.\\
+El instrumento más utilizado para medir el brillo del cielo nocturno es el \textit{Sky Quality Meter} (SQM), este equipo únicamente es capaz de hacer mediciones puntuales en el cenit, lo cual no es representativo de la distribución angular de la radiancia en el cielo \citep{Ribas2015}. Por otro lado, los instrumentos de interés (incluido el SQM) están diseñados para medir en regiones específicas del EE, lo que implica una pérdida de información valiosa \citep{Ribas2015}.\\
 
 Ademas de compensar las deficiencias presentes en los instrumentos de medición, los modelos han resultado adecuados para la construcción de simulaciones significativamente estadísticas de distribución de luz en el cielo nocturno las cuales poseen fundamentos teóricos robustos con significado físico \citep{Solano2015}.\\
 
 Los primeros intentos de desarrollar una ley de propagación de la luz en el cielo nocturno surgieron después de que la CL comenzó a significar un problema para la comunidad astronómica. En este sentido \cite{Bertiau1973} presentaron un modelo simplificado que estimaba el brillo artificial cenital a través de la función población - brillo $F (D)$ y la función brillo - distancia $Q (D)$ de las ciudades aledañas \citep{Linares2018}.\\
 
-Un paso importante hacia un modelo más completo lo dio \cite{Garstang1986} quien en lugar de considerar las ciudades como fuentes puntuales, las modeló como superficies circulares uniformes \citep{Linares2018} y, como se menciona en la \textbf{\autoref{sec:brillocielonocturno}} y en la \textbf{\autoref{sec:luzartificial}}, la cantidad de aerosol atmosférico es un parámetro ajustable e incluye la reflectancia del suelo y el porcentaje de luz emitida hacia la atmósfera a través de la CEF.\\
+Un paso importante hacia un modelo más completo lo dio \cite{Garstang1986} quien en lugar de considerar las ciudades como fuentes puntuales, las modeló como superficies circulares uniformes \citep{Linares2018} y, como se menciona en la \textbf{\autoref{sec:brillocielonocturno}} y en la \textbf{\autoref{sec:luzartificial}}, consideró la cantidad de aerosol atmosférico como un parámetro ajustable e incluyó la reflectancia del suelo y el porcentaje de luz emitida hacia la atmósfera a través de la CEF.\\
 
 Hoy en día existen dos modelos prominentes: \textit{SkyGlow} \citep{Kocifaj2007} e \textit{ILLUMINA} \citep{Aube2005}. Ambos modelos consideran la distribución heterogénea de las fuentes de luz. \textit{SkyGlow} sólo toma en cuenta dispersión de primer orden, lo que lo hace adecuado para observadores cercanos a las fuentes de luz mientras que \textit{ILLUMINA} incluye dispersión de primer y segundo orden, lo que permite experimentos en cualquier dirección y distancia (lo que requiere mayor tiempo computacional con respecto a \textit{SkyGlow}) \citep{Linares2018}. Por esta razón \textit{SkyGlow} es recomendable para experimentos que incluyen una malla con gran número de puntos (dominio geográfico grande con alta resolución espacial) \citep{Linares2018}.\\
 
@@ -499,7 +499,7 @@ Dadas las características antes mencionadas, para la exploración de la luz art
 \subsection{Marco regulatorio: normas y leyes en México y el mundo}
 \label{subsec:marcoregulatorio}
 
-Para efectos de legislación de la CL es importante conocer primero la magnitud de la CL para poder reducirla al mínimo en cada proyecto de iluminación. Posteriormente tendría que diseñarse el marco regulatorio con base en las características específicas de la CL en la región encontradas durante el estudio. La estructura principal de cualquier norma o ley sobre CL tendría que incluir los parámetros que se presentan a continuación \citep{LibroCL}.\\
+Para efectos de legislación de la CL es importante conocer primero la magnitud de la CL para poder reducirla al mínimo en cada proyecto de iluminación. Posteriormente tendría que diseñarse el marco regulatorio con base en las características específicas de la región de estudio. La estructura principal de cualquier norma o ley sobre CL tendría que incluir los parámetros que se presentan a continuación \citep{LibroCL}.\\
 
 
 \textbf{Zonificación}.
@@ -507,7 +507,7 @@ Las diferentes zonas se clasifican en función de su sensibilidad respecto a la 
 
 \begin{itemize}
 
-    \item E1. Zonas más restrictivas, de máxima protección frente a la CL. Corresponden a áreas de interés natural (áreas naturales protegidas).
+    \item E1. Zonas más restrictivas, de máxima protección frente a la CL. Corresponden a áreas de interés natural (Áreas Naturales Protegidas, ANP).
     
     \item E2. Corresponden a suelo no urbanizable fuera de un área de interés natural (zonas de amortiguamiento).
     
@@ -542,18 +542,17 @@ Para el caso de México, la historia no es distinta. Originalmente el Observator
 
 Dado el crecimiento de las ciudades aledañas con su correspondiente CL, fue necesaria la elaboración de legislaciones para la protección del cielo nocturno del OAN \citep{UNESCO2016}. De tal manera, en 2006 se aprueba un reglamento contra la CL en el municipio de Ensenada, en 2011 en el municipio de Mexicali y en 2018 en el municipio de Tijuana. En 2010 Baja California publica un decreto que incluye la prevención y control de la CL en la Ley Estatal de Protección al Ambiente y en 2016 la CL es contemplada en la Ley Estatal de Desarrollo Urbano \citep{UNESCO2016}.\\
 
-Sin embargo, el camino hacia la regulación de la CL a nivel federal parece ir en buenos términos. Apenas en febrero de 2018 fue aprobada una reforma en materia de CL a la Ley General del Equilibrio Ecológico y la Protección al Ambiente (LGEEPA) propuesta por  la diputada Tania Arguijo quien a su vez fue asesorada por científicos preocupados por la CL como el Dr. Fernando Ávila del Instituto de Astronomía de Ensenada de la UNAM \citep{Arguijo2018}, \citep{LGEEPA2018}.\\
+Por otro lado, el camino hacia la regulación de la CL a nivel federal parece ir en buenos términos. En febrero de 2018 fue aprobada una reforma en materia de CL a la Ley General del Equilibrio Ecológico y la Protección al Ambiente (LGEEPA) propuesta por  la diputada Tania Arguijo quien a su vez fue asesorada por científicos preocupados por la CL como el Dr. Fernando Ávila del Instituto de Astronomía de Ensenada de la UNAM \citep{Arguijo2018,LGEEPA2018}.\\
 
-Los puntos clave de tal propuesta se encuentran en el Artículo 111 en el que se proponen facultades a la Secretaría del Medio Ambiente y Recursos Naturales (SEMARNAT) para:\\
+Los puntos clave de tal propuesta se encuentran en el Artículo 111 en el que se proponen facultades a la Secretaría del Medio Ambiente y Recursos Naturales para:\\
 
 XV. Expedir, en coordinación con la Secretaría de Energía, las normas oficiales mexicanas que establezcan y certifiquen los niveles máximos permisibles de la luz artificial en el medio ambiente, incluido el impacto de la luz intrusa, que causen CL, y\\
 
 XVI. Promover y apoyar técnicamente, en coordinación con la Secretaría de Energía, a los gobiernos locales en la formulación y aplicación de programas para prevenir, reducir y controlar la CL, que tengan por objeto el cumplimiento de la normatividad aplicable.\\
 
-El decreto de esta reforma entrará al vigor al día siguiente al de su publicación en el Diario Oficial de la Federación y la SEMARNAT dentro de los 6 meses siguientes a la entrada en vigor del decreto deberá expedir la norma oficial mexicana que sea necesaria para dar cumplimiento a las disposiciones reformadas. Sin embargo, a más de un año de su aprobación, la reforma aún no es decretada.\\
+En noviembre de 2019 el Senado de México avaló por unanimidad el decreto de la reforma, convirtiéndose en un hito histórico a nivel mundial ya que se trata de la primera instancia de un país que define explícitamente la CL como un contaminante ambiental. Se estima que el proceso para establecer las regulaciones específicas tomará de uno a dos años a partir de la publicación del decreto en el Diario Oficial de la Federación \citep{IDA2019}.\\
 
-
-Como antes se mencionó, la CL tiene efecto en diferentes escalas de los socioecosistemas por lo que, en este punto se propone que además de considerarse en la LGEEPA (la cual se encarga de regular lo relativo al derecho ambiental especificado en la Constitución Política), tendría que incluirse en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.\\
+Como antes se mencionó, la CL tiene efecto en diferentes escalas de los socioecosistemas por lo que, en este punto se propone que además de considerarse en la LGEEPA (la cual se encarga de regular lo relativo al derecho ambiental especificado en la Constitución Política de los Estados Unidos Mexicanos), tendría que incluirse en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.\\
 
 Los resultados de esta tesis van encaminados a la legislación de la CL a nivel Ciudad de México, aportando una estimación de los niveles de CL e información sobre qué tipo de fuentes de luz resultan más contaminantes (véase \textbf{\autoref{sec:mapacl}} y \textbf{\autoref{chap:conclusiones}}).
 
@@ -567,7 +566,7 @@ La Ciudad de México es la capital de México, abarca una superficie de 1458 km$
 
 La Ciudad de México es una de las ciudades más pobladas del mundo. Actualmente concentra cerca de 9 millones de habitantes \citep{INEGI2015} (Tabla \ref{tab:inventariocdmx}) y está inmersa en la Zona Metropolitana del Valle de México que tiene una población total de alrededor de 22 millones de habitantes \citep{OCDE2015}.\\
 
-La división política de la ciudad consta de 16 alcaldías (Tabla \ref{tab:inventariocdmx}). De manera general, la mancha urbana se concentra en la fracción norte-centro de la ciudad, mientras que 872 km$^{2}$ (59$\%$ de la superficie de la ciudad) distribuidos en su mayoría al sur, son considerados suelo de conservación. En la ciudad existen 23 Áreas Naturales Protegidas (ANP) que ocupan lo correspondiente a 29$\%$ de la superficie del suelo de conservación \citep{SEDEMA2016} (Figura~\ref{ciudaddemexico}, las zonas en blanco indican suelo urbano).\\
+La división política de la ciudad consta de 16 alcaldías (Tabla \ref{tab:inventariocdmx}). De manera general, los asentamientos urbanos se concentran en la fracción norte-centro de la ciudad, mientras que 872 km$^{2}$ (59$\%$ de la superficie de la ciudad) distribuidos en su mayoría al sur, son considerados suelo de conservación. En la ciudad existen 23 ANP que ocupan lo correspondiente a 29$\%$ de la superficie del suelo de conservación \citep{SEDEMA2016} (Figura~\ref{ciudaddemexico}, las zonas en color blanco indican suelo urbano).\\
 
 \begin{figure}[htb]
   \centering
@@ -578,16 +577,17 @@ La división política de la ciudad consta de 16 alcaldías (Tabla \ref{tab:inve
 
 \newpage
 
-El área de estudio contemplada en esta tesis se divide en 17 polígonos correspondientes a las 16 alcaldías de la Ciudad de México y el contorno de Ciudad Universitaria (CU, campus principal de la UNAM) ubicada en la alcaldía Coyoacán, la cual es de especial interés debido a que alberga la REPSA.\\
+El área de estudio contemplada en esta tesis se divide en 17 polígonos correspondientes a las 16 alcaldías de la Ciudad de México y el contorno de Ciudad Universitaria (CU, campus principal de la UNAM) ubicada en la alcaldía Coyoacán, la cual es de especial interés debido a que alberga a la Reserva Ecológica del Pedregal de San Ángel (REPSA).\\
 
 La REPSA es un espacio natural de carácter urbano (no incluida en la categoría de suelo de conservación) protegida por la UNAM, lo cual garantiza un conocimiento ejemplar a través de las numerosas instituciones dedicadas a la investigación y divulgación científica. Su sustrato está conformado en su mayoría por roca basáltica la cual posee un alto valor biológico, ecológico y geomorfológico ya que permite recargar los mantos acuíferos, mantiene la humedad y la calidad del aire, y contribuye a amortiguar los cambios de temperatura en el microclima. La vegetación es de matorral xerófilo con marcada estacionalidad. Actualmente cuenta con una extensión de 237.33 hectáreas, que comprenden tres zonas núcleo y 13 zonas de amortiguamiento \citep{REPSA2019}.\\
 
 En el Atlas de Riesgos de la REPSA \citep{AtlasREPSA} se cita la CL como una de las amenazas para los componentes biológicos del socioecosistema albergado por la REPSA y se menciona la necesidad de estudios en este sentido para la protección y conservación de la vida silvestre de CU.\\
 
-La Ciudad de México está localizada en una zona sub-tropical donde las estaciones del año pueden ser separadas en tres periodos: Primavera Seca (PS) de abril a mayo, Temporada Lluviosa (TL) de junio a octubre e Invierno Seco (IS) de noviembre a marzo \citep{Jauregui2002}.\\
 
 \subsection{Climatología de aerosol atmosférico y nubosidad}
 \label{subsec:climatologia}
+
+La Ciudad de México está localizada en una zona sub-tropical donde las estaciones del año pueden ser separadas en tres periodos: Primavera Seca (PS) de abril a mayo, Temporada Lluviosa (TL) de junio a octubre e Invierno Seco (IS) de noviembre a marzo \citep{Jauregui2002}.\\
 
 Para los fines de modelación de esta tesis resulta importante contar con la climatología de aerosol atmosférico y nubosidad en la Ciudad de México, como una referencia que permite realizar experimentos numéricos con condiciones cercanas a las reales.\\
 
@@ -618,7 +618,7 @@ Temporada Lluviosa (TL) & 0.37         & 1.39           \\ \hline
 
 Las nubes de interés para los experimentos numéricos de esta tesis son las nubes bajas y medias dada su cercanía en altitud con las fuentes artificiales de luz (Figura~\ref{nubes}).\\
 
-A continuación se abordan las características generales de las nubes que forman parte del inventario del modelo \textit{SkyGlow} utilizado en este trabajo \citep{Cloudatlas1987}, \citep{Solano2015}.\\
+A continuación se abordan las características generales de las nubes que forman parte del inventario del modelo \textit{SkyGlow} utilizado en este trabajo \citep{Cloudatlas1987,Solano2015}.\\
 
 \textit{\textbf{Altocumulus}}
 
@@ -640,7 +640,7 @@ A continuación se abordan las características generales de las nubes que forma
 
     \item Clasificación por altitud: nube media (3-5km)
     
-    \item Formación: Asociadas a frentes
+    \item Formación: Usualmente descenso de capas de \textit{cirrostratus}
     
     \item Albedo espectral: 0.5 (350-800 nm)
     
@@ -665,7 +665,7 @@ A continuación se abordan las características generales de las nubes que forma
 \begin{figure}[htb]
   \centering
     \includegraphics[width=150mm, scale=1.5]{nubes}
-  \caption{Nubes. A) Altocumulus, B) Altostratus, C) Stratus \citep{Metoffice2019}}
+  \caption{Nubes. A) \textit{Altocumulus}, B) \textit{Altostratus}, C) \textit{Stratus} \citep{Metoffice2019}}
   \label{nubes}
 \end{figure}
 
@@ -692,7 +692,7 @@ Considerando que el factor de consumo de energía eléctrica en 2017 fue 0.582 t
 
 \subsection{Inventario de Alumbrado Público de la Ciudad de México}
 
-Gracias a los datos brindados por las oficinas de transparencia de cada una de las alcaldías de la Ciudad de México y la Agencia de Gestión Urbana a través del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se construyó el \textbf{Inventario de Alumbrado Público de la Ciudad de México} (Tabla \ref{tab:inventariocdmx}).\\
+Gracias a los datos brindados por las oficinas de transparencia de cada una de las alcaldías de la Ciudad de México y la Agencia de Gestión Urbana perteneciente a la Secretaría de Obras y Servicios a través del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se construyó el \textbf{Inventario de Alumbrado Público de la Ciudad de México} (Tabla \ref{tab:inventariocdmx}).\\
 
 Los datos de consumo de energía eléctrica por entidad federativa se obtuvieron a través del Sistema de Información Energética de la Secretaría de Energía (\url{sie.energia.gob.mx}}) y los datos de consumo de energía eléctrica por municipio producidos por la Comisión Federal de Electricidad se obtuvieron a través de la Plataforma Datos Abiertos del Gobierno de México (\url{datos.gob.mx}}).\\
 

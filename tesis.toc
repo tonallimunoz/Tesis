@@ -21,43 +21,44 @@
 \contentsline {subsection}{\numberline {1.3.2}Fuentes de luz artificial}{8}{subsection.1.3.2}% 
 \contentsline {subsection}{\numberline {1.3.3}Tipos de luminarias}{9}{subsection.1.3.3}% 
 \contentsline {subsection}{\numberline {1.3.4}Función de emisión urbana}{9}{subsection.1.3.4}% 
-\contentsline {section}{\numberline {1.4}Contaminación lumínica (CL)}{11}{section.1.4}% 
-\contentsline {subsection}{\numberline {1.4.1}El enfoque socioecosistémico}{11}{subsection.1.4.1}% 
-\contentsline {subsection}{\numberline {1.4.2}Importancia del ciclo día-noche en la evolución de la vida}{11}{subsection.1.4.2}% 
-\contentsline {subsection}{\numberline {1.4.3}Breve historia del uso y abuso de la luz artificial}{13}{subsection.1.4.3}% 
-\contentsline {subsection}{\numberline {1.4.4}Tipos de CL}{14}{subsection.1.4.4}% 
-\contentsline {subsection}{\numberline {1.4.5}Consecuencias de la CL}{14}{subsection.1.4.5}% 
-\contentsline {subsection}{\numberline {1.4.6}Estudio de la CL}{17}{subsection.1.4.6}% 
-\contentsline {subsection}{\numberline {1.4.7}Marco regulatorio: normas y leyes en México y el mundo}{18}{subsection.1.4.7}% 
-\contentsline {section}{\numberline {1.5}Estudio de caso: Ciudad de México}{20}{section.1.5}% 
-\contentsline {subsection}{\numberline {1.5.1}Descripción del área de estudio}{20}{subsection.1.5.1}% 
-\contentsline {subsection}{\numberline {1.5.2}Climatología de aerosol atmosférico y nubosidad}{21}{subsection.1.5.2}% 
-\contentsline {subsection}{\numberline {1.5.3}Consumo de energía eléctrica}{23}{subsection.1.5.3}% 
-\contentsline {subsection}{\numberline {1.5.4}Inventario de Alumbrado Público de la Ciudad de México}{23}{subsection.1.5.4}% 
-\contentsline {section}{\numberline {1.6}Hipótesis}{25}{section.1.6}% 
-\contentsline {section}{\numberline {1.7}Objetivos}{25}{section.1.7}% 
-\contentsline {subsection}{\numberline {1.7.1}Generales}{25}{subsection.1.7.1}% 
-\contentsline {subsection}{\numberline {1.7.2}Particulares}{25}{subsection.1.7.2}% 
-\contentsline {chapter}{\numberline {2}Metodología}{26}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}El modelo \textit {SkyGlow}}{26}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Datos de entrada}{26}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}Bases teóricas del modelo}{27}{subsection.2.1.2}% 
-\contentsline {subsection}{\numberline {2.1.3}Visualización de datos de salida}{30}{subsection.2.1.3}% 
-\contentsline {section}{\numberline {2.2}El software \textit {Radiance Light Trends}}{31}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Especificaciones}{31}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}Consideraciones}{31}{subsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.2.3}Productos}{31}{subsection.2.2.3}% 
-\contentsline {chapter}{\numberline {3}Resultados y discusión}{32}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Tendencias de radiancia promedio en las alcaldías de la Ciudad de México}{32}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Gráficas tipo \textit {all sky} de distribución de radiancia}{35}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Experimentos numéricos}{37}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}Influencia del aerosol atmosférico en la distribución de radiancia}{38}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}Influencia de la nubosidad en la distribución de radiancia}{39}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}Cambio del tipo de luminarias en la Ciudad de México}{40}{subsection.3.3.3}% 
-\contentsline {section}{\numberline {3.4}Mapa CL-CDMX}{41}{section.3.4}% 
-\contentsline {chapter}{\numberline {4}Conclusiones}{43}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}Recomendaciones}{44}{chapter.5}% 
-\contentsline {chapter}{\numberline {6}Anexos}{45}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Código en Julia del Mapa CL-CDMX}{45}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}Tendencias de radiancia en las alcaldías de la Ciudad de México}{46}{section.6.2}% 
+\contentsline {section}{\numberline {1.4}Contaminación lumínica (CL)}{10}{section.1.4}% 
+\contentsline {subsection}{\numberline {1.4.1}El enfoque socioecosistémico}{10}{subsection.1.4.1}% 
+\contentsline {subsection}{\numberline {1.4.2}Importancia del ciclo día-noche en la evolución de la vida}{10}{subsection.1.4.2}% 
+\contentsline {subsection}{\numberline {1.4.3}Breve historia del uso y abuso de la luz artificial}{12}{subsection.1.4.3}% 
+\contentsline {subsection}{\numberline {1.4.4}Tipos de CL}{13}{subsection.1.4.4}% 
+\contentsline {subsection}{\numberline {1.4.5}Consecuencias de la CL}{13}{subsection.1.4.5}% 
+\contentsline {subsection}{\numberline {1.4.6}Estudio de la CL}{16}{subsection.1.4.6}% 
+\contentsline {subsection}{\numberline {1.4.7}Marco regulatorio: normas y leyes en México y el mundo}{17}{subsection.1.4.7}% 
+\contentsline {section}{\numberline {1.5}Estudio de caso: Ciudad de México}{19}{section.1.5}% 
+\contentsline {subsection}{\numberline {1.5.1}Descripción del área de estudio}{19}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1.5.2}Climatología de aerosol atmosférico y nubosidad}{20}{subsection.1.5.2}% 
+\contentsline {subsection}{\numberline {1.5.3}Consumo de energía eléctrica}{22}{subsection.1.5.3}% 
+\contentsline {subsection}{\numberline {1.5.4}Inventario de Alumbrado Público de la Ciudad de México}{22}{subsection.1.5.4}% 
+\contentsline {section}{\numberline {1.6}Hipótesis}{24}{section.1.6}% 
+\contentsline {section}{\numberline {1.7}Objetivos}{24}{section.1.7}% 
+\contentsline {subsection}{\numberline {1.7.1}Generales}{24}{subsection.1.7.1}% 
+\contentsline {subsection}{\numberline {1.7.2}Particulares}{24}{subsection.1.7.2}% 
+\contentsline {chapter}{\numberline {2}Metodología}{25}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}El modelo \textit {SkyGlow}}{25}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Datos de entrada}{25}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Bases teóricas del modelo}{26}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}Visualización de datos de salida}{29}{subsection.2.1.3}% 
+\contentsline {section}{\numberline {2.2}El software \textit {Radiance Light Trends}}{30}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Especificaciones}{30}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Consideraciones}{30}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Productos}{30}{subsection.2.2.3}% 
+\contentsline {chapter}{\numberline {3}Resultados y discusión}{31}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Tendencias de radiancia promedio en las alcaldías de la Ciudad de México}{31}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Gráficas tipo \textit {all sky} de distribución de radiancia}{34}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Experimentos numéricos}{36}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Influencia del aerosol atmosférico en la distribución de radiancia}{37}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Influencia de la nubosidad en la distribución de radiancia}{38}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Cambio del tipo de luminarias en la Ciudad de México}{39}{subsection.3.3.3}% 
+\contentsline {section}{\numberline {3.4}Mapa CL-CDMX}{40}{section.3.4}% 
+\contentsline {chapter}{\numberline {4}Conclusiones}{42}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}Recomendaciones}{43}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Anexos}{44}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Código en Julia del Mapa CL-CDMX}{44}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Proyecto \textit {International Dark Sky Place} en el Geoparque Comarca Minera}{45}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Tendencias de radiancia en las alcaldías de la Ciudad de México}{46}{section.6.3}% 
 \contentsline {chapter}{Referencias}{53}{section*.11}% 
