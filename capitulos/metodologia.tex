@@ -34,7 +34,7 @@ El área de la superficie de estudio (forma y tamaño) es definida a través de 
 
 \textbf{Inventario de fuentes de luz}
 
-El modelo calcula la emisión total de las fuentes de luz con base en la población (típicamente 750 lm por habitante) y su dependencia espectral \textit{Para este estudio}: datos del \textbf{Inventario de Alumbrado Público de la Ciudad de México} (Tabla \ref{tab:inventariocdmx}).\\
+El modelo calcula la emisión total de las fuentes de luz con base en la población (típicamente 750 lm por habitante) y su dependencia espectral. \textit{Para este estudio}: datos del \textbf{Inventario de Alumbrado Público de la Ciudad de México} (Tabla \ref{tab:inventariocdmx}).\\
 
 \textbf{Variables del caso de estudio}
 
@@ -60,7 +60,7 @@ La intensidad de la luz que crea el patrón del brillo del cielo en un volumen a
 I_{\lambda}(z, \phi) = \frac{A_{0}\, S_{\lambda}}{cos\,z} \int_{h=0}^{h} B_{\lambda}(Q, q, z') \: \Gamma_{\lambda} \:(h, z, \phi, z', \phi') \: T_{\lambda}(h, z, \phi) \: \frac{cos^{2}z'}{h^{2}} dh
 \end{equation}
 
-Donde $\lambda$ es la longitud de onda a la que se emite la luz, $z'$ y $\phi'$ son el ángulo cenital y acimutal de la luz emitida respectivamente, mientras que $z$ y $\phi$ caracterizan la posición del elemento de cielo observado y h es su altura con respecto al observador P (Figura~\ref{geometriamodelo}).\\
+donde $\lambda$ es la longitud de onda a la que se emite la luz, $z'$ y $\phi'$ son el ángulo cenital y acimutal de la luz emitida respectivamente, mientras que $z$ y $\phi$ caracterizan la posición del elemento de cielo observado y \textit{h} es su altura con respecto al observador P (Figura~\ref{geometriamodelo}).\\
 
 El primer término de la derecha de la ecuación captura la emisión de las fuentes de luz (no dependen del observador) donde $A_{0}$ es un elemento de superficie de una fuente de luz que radia en todas direcciones y $S_{\lambda}$ es la potencia emitida por elemento de superficie $A_{0}$ de la fuente radiante (W m$^{-2}$ nm$^{-1}$).\\
 
@@ -73,24 +73,24 @@ El primer término de la derecha de la ecuación captura la emisión de las fuen
 \end{figure}
 
 
-Los procesos capturados por los términos dentro de la integral se desarrollan en la atmósfera (por ello están integrados desde la superficie hasta la altura h). $B$ es la CEF abordada en la \textbf{\autoref{subsec:climatologia}}; esta función determina el comportamiento angular de la radiación emitida por las fuentes de luz. La aproximación semi-empírica a la CEF (Garstang Emission Function, GEF) que \cite{Garstang1986} desarrolló es:
+Los procesos capturados por los términos dentro de la integral se desarrollan en la atmósfera (por ello están integrados desde la superficie hasta la altura h). $B$ es la CEF abordada en la \textbf{\autoref{subsec:climatologia}}; Esta función determina el comportamiento angular de la radiación emitida por las fuentes de luz. La aproximación semi-empírica más utilizada a la CEF, es la GEF:
 
 \begin{equation}
 B(Q, q, z') = 2Q(1-q) cos \, z' + 0.554q \,z'^{4}
 \end{equation}
 
-Donde $Q$ es la fracción de la luz que es reflejada isotrópicamente desde la superficie y $q$ es la fracción radiada directamente hacia arriba, con respecto al ángulo cenital $z'$. La \textbf{Tabla \ref{tab:valoresdeq}} muestra los valores de q utilizados para este estudio.\\
+donde $Q$ es la fracción de la luz que es reflejada isotrópicamente desde la superficie y $q$ es la fracción radiada directamente hacia arriba, con respecto al ángulo cenital $z'$. La \textbf{Tabla \ref{tab:valoresdeq}} muestra los valores de \textit{q} utilizados para este estudio.\\
 
 
 \begin{table}[htb]
 \centering
-\caption{Fracción $q$ radiada directamente hacia arriba en el ángulo cenital $z'$ \citep{Kocifaj2007}}
+\caption{Fracción \textit{q} radiada directamente hacia arriba en el ángulo cenital \textit{z'} \citep{Kocifaj2007}}
 \label{tab:valoresdeq}
 \resizebox{0.5\textwidth}{!}{%
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
 \hline
-\textbf{z'} & 0 & 10 & 20 & 30 & 40 & 50 & 60 & 70 & 80 & 90 \\ \hline
-\textbf{q} & 1 & 0.95 & 0.8 & 0.7 & 0.6 & 0.5 & 0.4 & 0.3 & 0.15 & 0 \\ \hline
+\textit{z'} & 0 & 10 & 20 & 30 & 40 & 50 & 60 & 70 & 80 & 90 \\ \hline
+\textit{q} & 1 & 0.95 & 0.8 & 0.7 & 0.6 & 0.5 & 0.4 & 0.3 & 0.15 & 0 \\ \hline
 \end{tabular}%
 }
 \end{table}
@@ -124,7 +124,7 @@ Para el caso en que se considera cielo nublado, se suma a la ecuación \ref{eq:2
 I_{\lambda, Nube}(z, \phi) = S_{\lambda} \: \frac{A_{0} \, \rho_{\lambda}(z'_{H}, z, \vartheta_{H})}{\pi H^{2}} \: B_{\lambda}(Q, q, z'_{H}) \: T_{\lambda}(H, z, \phi) \: cos^{4} \, z'_{H}
 \end{equation}
 
-Donde $\rho$ es la reflectancia espectral de la nube, $z'_{H}$ es el ángulo cenital de la luz emitida con respecto al elemento de área radiante de la nube y $\vartheta_{H}$ es el ángulo de dispersión en $H$. Sumando la ecuación \ref{eq:2.1} y \ref{eq:2.6} se obtiene la expresión para la radiancia espectral total con cielo nublado $I_{\lambda, Total}(z, \phi)$.
+donde $\rho$ es la reflectancia espectral de la nube, $z'_{H}$ es el ángulo cenital de la luz emitida con respecto al elemento de área radiante de la nube y $\vartheta_{H}$ es el ángulo de dispersión en $H$. Sumando la ecuación \ref{eq:2.1} y \ref{eq:2.6} se obtiene la expresión para la radiancia espectral total con cielo nublado $I_{\lambda, Total}(z, \phi)$.
 
 \newpage
 

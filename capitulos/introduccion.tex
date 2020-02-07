@@ -14,13 +14,13 @@ La luz es radiación electromagnética que se propaga en forma de onda a través
   \label{espectroelectromagnetico}
 \end{figure}
 
-Una de las propiedades de la luz de interés para este trabajo en la región visible del EE ($\sim$ 350-800 nm) es la temperatura de color ($T$)  que está definida a partir de la Ley de desplazamiento de Wien \citep{Halliday&Resnick2008}. Esta ley explica la relación inversa entre la longitud de onda en la que se produce el pico de emisión de un cuerpo negro ($\lambda_{max}$) y $T$:
+Una de las propiedades de la luz de interés para este trabajo en la región visible del EE ($\sim$ 350-800 nm) es la temperatura de color ($T$)  que está definida a partir de la Ley de desplazamiento de Wien. Esta ley explica la relación inversa entre la longitud de onda en la que se produce el pico de emisión de un cuerpo negro ($\lambda_{max}$) y $T$:
 
 \begin{equation}
 \lambda_{max} = \dfrac{b}{T}
 \end{equation}
 
-Donde $b = 2.897...\e{-3}$ m K, es denominada la constante de Wien. Un cuerpo negro es un objeto ideal que absorbe y emite toda radiación electromagnética; en equilibrio termodinámico y térmico, emite radiación térmica sólo con dependencia en su temperatura.\\
+donde $b = 2.897...\e{-3}$ m K, es denominada la constante de Wien. Un cuerpo negro es un objeto ideal que absorbe y emite toda radiación electromagnética; en equilibrio termodinámico y térmico, emite radiación térmica sólo con dependencia en su temperatura \citep{Halliday&Resnick2008}.\\
 
 En la \textbf{\autoref{sec:luzartificial}} y en la \textbf{\autoref{sec:contaminacionluminica}} se presenta la aplicación del concepto de temperatura de color para la clasificación del color de las fuentes de luz y su implicación biológica en los humanos.\\
 
@@ -114,9 +114,9 @@ I_{tot} = (I_A + I_{ZL} + I_{ISL} + I_{DGL} + I_{EBL})\:e^{-\tau} + I_{SCA}
 
 \vspace{2mm} 
 
-Donde $\tau$ es el coeficiente de atenuación atmosférica que depende de la longitud de onda, la distancia cenital (la distancia angular del cuerpo celeste con respecto al cenit), la altura sobre el nivel del mar del observador y las condiciones atmosféricas.\\ 
+donde $\tau$ es el coeficiente de atenuación atmosférica que depende de la longitud de onda, la distancia cenital (la distancia angular del cuerpo celeste con respecto al cenit), la altura sobre el nivel del mar del observador y las condiciones atmosféricas.\\ 
 
-La definición matemática del brillo total del cielo nocturno nos permite inferir que las principales contribuciones se deben al brillo del aire y a la luz zodiacal; estimaciones experimentales confirman este comportamiento reportando mediciones de radiancia de hasta 10$^{-6}$ W sr$^{-1}$  m$^{-2}$ atribuibles a la luz zodiacal en la región visible del EE. \citep{Leinert1998}.\\ 
+La definición matemática del brillo total del cielo nocturno nos permite inferir que las principales contribuciones se deben al brillo del aire y a la luz zodiacal; Estimaciones experimentales confirman este comportamiento reportando mediciones de radiancia de hasta 10$^{-6}$ W sr$^{-1}$  m$^{-2}$ atribuibles a la luz zodiacal en la región visible del EE. \citep{Leinert1998}.\\ 
 
 \subsection{Variación natural del brillo del cielo nocturno por influencia de la Luna}
 
@@ -153,7 +153,7 @@ El AOD es una cantidad adimensional que representa la atenuación atmosférica d
 V(\lambda) = V_0(\lambda)\:d^{2} \:e^{-\tau_{TOT}\: m}
 \end{equation}
 
-Donde $V$ es la diferencia potencial medida en una longitud de onda dada $\lambda$, $d$ es la tasa entre el promedio y la distancia real Tierra-Sol y $m$ es la masa óptica de aire. La masa óptica de aire es la tasa entre la masa de aire que la luz solar atraviesa hasta la superficie de la Tierra y la masa de aire que atravesaría si la incidencia fuera vertical.\\
+donde $V$ es la diferencia potencial medida en una longitud de onda dada $\lambda$, $d$ es la tasa entre el promedio y la distancia real Tierra-Sol y $m$ es la masa óptica de aire. La masa óptica de aire es la tasa entre la masa de aire que la luz solar atraviesa hasta la superficie de la Tierra y la masa de aire que atravesaría si la incidencia fuera vertical.\\
 
 Otros constituyentes atmosféricos pueden dispersar la luz y, por lo tanto, deben de considerarse en el cálculo del AOD \citep{Holben1998} tal y como se muestra en la siguiente ecuación:
 
@@ -171,7 +171,7 @@ La distribución por tamaño del aerosol atmosférico puede ser estimada a trav�
 \alpha (\lambda_1, \lambda_2) = \frac { -ln (\frac{\tau_\lambda_2}{\tau_\lambda_1})}{ ln(\frac{\lambda_2}{\lambda_1})}
 \end{equation}
 
-Donde $\tau_\lambda_1$ y $\tau_\lambda_2$ son el AOD en las longitudes de onda $\lambda_1$ y $\lambda_2$ respectivamente. Típicamente los valores de $\alpha$ varían entre -2 y 2.  $\alpha$ $>$ 1, indica que el modo fino de aerosol atmosférico es dominante mientras que  $\alpha$ $<$ 1 indica que el modo grueso es el más abundante \citep{Carabali2017}.\\
+donde $\tau_\lambda_1$ y $\tau_\lambda_2$ son el AOD en las longitudes de onda $\lambda_1$ y $\lambda_2$ respectivamente. Típicamente los valores de $\alpha$ varían entre -2 y 2.  $\alpha$ $>$ 1, indica que el modo fino (submicrométrico) de aerosol atmosférico es dominante mientras que  $\alpha$ $<$ 1 indica que el modo grueso es el más abundante \citep{Carabali2017}.\\
 
 \textit{\textbf{Parámetro de Asimetría (ASY)}}\\
 
@@ -181,19 +181,19 @@ Su valor es una medida de la dirección de la dispersión de la luz. Está defin
 ASY = < cos \theta > = \frac{1}{2} \int_{0}^{\pi} sen (\theta) cos(\theta) P(\theta) d\theta
 \end{equation}
 
-Con $P(\theta)$ la función de fase de dispersión que describe la dispersión de la luz dependiente del ángulo:
+con $P(\theta)$ la función de fase de dispersión que describe la dispersión de la luz dependiente del ángulo:
 
 \begin{equation}
 P(\theta) = \frac{4\pi}{\sigma_{SCA}} \frac{d\sigma_{SCA}}{d\theta}
 \end{equation}
 
-Donde $\sigma_{SCA}$ es la sección transversal de dispersión:
+donde $\sigma_{SCA}$ es la sección transversal de dispersión:
 
 \begin{equation}
 \sigma_{SCA} = \frac{\pi D^{2}}{4} Q_{SCA}
 \end{equation}
 
-Con $D$ el diámetro de la partícula y $Q_{SCA}$ la eficiencia de dispersión (cuánta energía absorbida es dispersada).\\
+con $D$ el diámetro de la partícula y $Q_{SCA}$ la eficiencia de dispersión (cuánta energía absorbida es dispersada).\\
 
 Cuando ASY = 1, toda la luz es dispersada hacia adelante; ASY = 0, indica una dispersión isotrópica \citep{Solano2015}.
 \\
@@ -213,7 +213,7 @@ Los coeficientes de dispersión $\epsilon$ se obtienen:
 \epsilon = N \sigma
 \end{equation}
 
-Con $N$ la concentración de partículas de tamaño $D$. El valor del SSA es representativo de las propiedades de absorción de la luz del aerosol atmosférico. Cuando el valor del SSA es cercano a 1 es un indicativo que el aerosol en cuestión refleja más luz, mientras que, para el aerosol más absorbente, el valor del SSA es cercano a 0.\\
+con $N$ la concentración de partículas de tamaño $D$. El valor del SSA es representativo de las propiedades de absorción de la luz del aerosol atmosférico. Cuando el valor del SSA es cercano a 1 es un indicativo que el aerosol en cuestión refleja más luz, mientras que, para el aerosol más absorbente, el valor del SSA es cercano a 0.\\
 
 \subsubsection{Propiedades ópticas de las nubes}
 
@@ -276,11 +276,11 @@ Definida para estudios fotométricos, se trata de la cantidad de flujo luminoso 
 
 Existen tres principales tipos de fuentes de luz artificial: incandescente, de descarga y LED (\textbf{Tabla \ref{tab:luzartificial}}), (Figura~\ref{distribucionespectral})  \citep{Solano2013b, Eldvidge2010,LibroCL}.\\
 
-La iluminación incandescente es la más antigua y la más utilizada para interiores, su funcionamiento se basa en hacer pasar corriente eléctrica a través de un filamento, aumentando su temperatura hasta hacer que emita radiaciones visibles (termorradiación).\\
+La iluminación incandescente es la más antigua y la más utilizada para interiores, su funcionamiento se basa en hacer pasar corriente eléctrica a través de un filamento, aumentando su temperatura hasta hacer que emita radiaciones visibles (termorradiación) \citep{LibroCL}.\\
 
-Por otro lado, la luz de descarga, utilizada ampliamente para alumbrado público, es generada por la excitación de un gas sometido a descargas eléctricas entre dos electrodos (luminiscencia).\\
+Por otro lado, la luz de descarga, utilizada ampliamente para alumbrado público, es generada por la excitación de un gas sometido a descargas eléctricas entre dos electrodos (luminiscencia) \citep{LibroCL,Solano2013b}.\\
 
-Por último, el LED, que recientemente se ha comenzando a implementar en el alumbrado público, genera luz moviendo electrones de un semi-conductor sólido de un estado de alto nivel de energía a uno más bajo a través de la aplicación de una diferencia de potencial (electroluminiscencia).
+Por último, el LED, que recientemente se ha comenzando a implementar en el alumbrado público, genera luz moviendo electrones de un semi-conductor sólido de un estado de alto nivel de energía a uno más bajo a través de la aplicación de una diferencia de potencial (electroluminiscencia) \citep{LibroCL,Solano2013b}.
 
 
 \begin{table}[htb]
@@ -332,7 +332,7 @@ La forma en que la luminaria distribuye en el espacio la luz emitida por la fuen
 
 Las fuentes de luz artificiales (públicas y privadas) emiten luz en casi todas las direcciones \citep{Kocifaj2014,Kocifaj2016}. Por lo tanto, la luz artificial emitida a la atmósfera se debe a la superposición de emisiones de las diferentes fuentes distribuidas en la superficie.\\
 
-La distribución angular de la luz emitida por una ciudad es fundamental para la modelación del brillo del cielo nocturno ocasionado por luz artificial \citep{Kocifaj2014} esta distribución es caracterizada a través de una función de emisión parametrizada denominada Función de Emisión Urbana (CEF, por sus siglas en inglés) la cual depende de las características del sistema de iluminación de una ciudad \citep{Kocifaj2014}.\\
+La distribución angular de la luz emitida por una ciudad es fundamental para la modelación del brillo del cielo nocturno ocasionado por luz artificial \citep{Kocifaj2014}. Esta distribución es caracterizada a través de una función de emisión parametrizada denominada Función de Emisión Urbana (CEF, por sus siglas en inglés) la cual depende de las características del sistema de iluminación de una ciudad \citep{Kocifaj2014}.\\
 
 Debido a la falta, hasta la actualidad, de inventarios detallados de las fuentes de luz (públicas y privadas) y su naturaleza heterogénea, resulta extremadamente complicado obtener la CEF a través de estudios teóricos o experimentales \citep{Kocifaj2014}. \cite{Garstang1986} desarolló una aproximación semi-empírica para la estimación de la CEF, la cual es discutida en la \textbf{\autoref{sec:modeloskyglow}}.
 
@@ -343,14 +343,12 @@ Debido a la falta, hasta la actualidad, de inventarios detallados de las fuentes
 
 La CL es cualquier efecto negativo debido a la emisión de luz artificial en intensidades, direcciones, rangos espectrales y/u horarios innecesarios \citep{AtlasREPSA,LibroCL,Stone2017}.\\
 
-En esta sección se presentan los argumentos que permiten afirmar que el brillo del cielo nocturno ocasionado por la luz artificial, es una fuente de CL en los socioecosistemas. Entiéndase contaminación como la alteración negativa de un sistema a través de la introducción de elementos físicos extraños \citep{AtlasREPSA,LibroCL}.\\
-
-Entiéndase un sistema como un conjunto de componentes interactuando en los que: 1) el comportamiento de cada componente tiene un efecto en el comportamiento del todo y, 2) el comportamiento de los componentes y sus efectos en el todo son interdependientes \citep{Avila2019}.\\
+En esta sección se presentan los argumentos que permiten afirmar que el brillo del cielo nocturno ocasionado por la luz artificial, es una fuente de CL en los socioecosistemas. Entiéndase contaminación como la alteración negativa de un sistema a través de la introducción de elementos físicos extraños \citep{AtlasREPSA,LibroCL}. Un sistema es un conjunto de componentes interactuando en los que: 1) el comportamiento de cada componente tiene un efecto en el comportamiento del todo y, 2) el comportamiento de los componentes y sus efectos en el todo son interdependientes \citep{Avila2019}.\\
 
 \subsection{El enfoque socioecosistémico}
 \label{subsec:enfoquesocioecosistemico}
 
-Los seres humanos nombramos a la realidad natural de distintas maneras, las cuales poseen significados diferentes de acuerdo con el fundamento filosófico con el que percibimos el planeta \citep{Avila2019,Uribe2014}. Por ejemplo, las empresas extractivas denominan <<recursos naturales>> a tal realidad, los habitantes de una región, <<territorio>> y los científicos, <<ecosistema>>.\\
+Los seres humanos nombramos a la realidad natural de distintas maneras, las cuales poseen significados diferentes de acuerdo con el fundamento filosófico con el que percibimos el planeta \citep{Avila2019}. Por ejemplo, las empresas extractivas denominan <<recursos naturales>> a tal realidad, los habitantes de una región, <<territorio>> y los científicos, <<ecosistema>> \citep{Uribe2014}.\\
 
 Con la aparición de la vida en la Tierra, surgieron los ecosistemas como un nivel de organización de la materia y la energía, en que los sistemas físico-químicos (abióticos) y los sistemas bióticos interactuaron y evolucionaron de manera integrada. Sin embargo, con la emergencia de las sociedades y su organización con base en un lenguaje simbólico, nacen los socioecosistemas \citep{Avila2019,Uribe2014,Urquiza2015}.\\
 
@@ -385,7 +383,7 @@ Se teoriza que dada la alta permeabilidad de la piel de los anfibios y por lo ta
 \subsection{Breve historia del uso y abuso de la luz artificial}\\
 \\
 
-Es sabido que el control regular del fuego por nuestros antepasados, desde hace aproximadamente 400 ka \citep{Dunbar2014}, fue fundamental en la evolución humana: la capacidad de cocinar alimentos mejoró la digestión y aprovechamiento de calorías, generando así el aumento de la masa cerebral; la llamas del fuego proveyeron protección de los predadores, permitiendo a los primeros humanos extender sus nichos ecológicos \citep{Wrangham2010}.\\
+Es sabido que el control regular del fuego por nuestros antepasados, desde hace aproximadamente 400 ka \citep{Dunbar2014}, fue fundamental en la evolución humana: la capacidad de cocinar alimentos mejoró la digestión y aprovechamiento de calorías, generando así el aumento de la masa cerebral. Las llamas del fuego proveyeron protección de los predadores, permitiendo a los primeros humanos extender sus nichos ecológicos \citep{Wrangham2010}.\\
 
 Por otro lado, la luz artificial del fuego extendió por primera vez la duración del día para las primeras sociedades. Las actividades nocturnas estuvieron lejos de ser económicamente productivas (exclusivamente diurnas); tales horas extras se dedicaron al canto, el baile, las ceremonias religiosas y a contar historias, lo que provocó una alteración en los ritmos circadianos de los primeros humanos \citep{Wiessner2014}.\\
 
@@ -402,7 +400,7 @@ En conclusión, la lógica capitalista bajo la que vivimos ha transformado las h
 
 \subsection{Tipos de CL} 
 
-Hasta este punto únicamente se ha mencionado el brillo del cielo nocturno (objeto de este estudio) como un tipo de CL, sin embargo existen otros tipos \citep{LibroCL} los cuales es importante mencionar y se abordan a continuación.\\ 
+Hasta este punto, únicamente se ha mencionado el brillo del cielo nocturno (objeto de este estudio) como un tipo de CL; sin embargo existen otros tipos que es importante mencionarlos y se abordan a continuación \citep{LibroCL}.\\ 
 
 \textbf{Emisión directa}
 
@@ -413,22 +411,22 @@ Es la emisión procedente directamente de la fuente de luz hacia el entorno orig
 La luz es reflejada en el suelo o construcciones en direcciones no deseadas.\\ 
 
 
-De acuerdo con el Nuevo Atlas Mundial del Brillo Artificial del Cielo Nocturno \citep{Falchi2016} aproximadamente 80$\%$ de la población mundial vive bajo algún tipo de CL, siendo el brillo del cielo nocturno el tipo más extendido.\\ 
+De acuerdo con el nuevo atlas mundial del brillo artificial del cielo nocturno \citep{Falchi2016} aproximadamente 80$\%$ de la población mundial vive bajo algún tipo de CL, siendo el brillo del cielo nocturno el tipo más extendido.\\ 
 
-En conclusión, la energía radiante del alumbrado público y privado es la causa de la CL y mientras esté funcionando durante la noche, la CL será inevitable. Sin embargo sus consecuencias pueden ser reducidas considerablemente, eliminando la emisión directa y regulando la luz reflejada y el brillo del cielo nocturno.\\ 
+En conclusión, la energía radiante del alumbrado público y privado es la causa de la CL y mientras esté funcionando durante la noche, la CL será inevitable. Sin embargo, sus consecuencias pueden ser reducidas considerablemente, eliminando la emisión directa y regulando la luz reflejada y el brillo del cielo nocturno.\\ 
 
 \subsection{Consecuencias de la CL}
 \label{subsec:consecuenciascl}
 
 Regularmente al alumbrado público y privado se les denota de una manera positiva asignándoles valores asociados con la seguridad, estética e identidad los cuales, desafortunadamente, al ser abordados de manera no sustentable invisibilizan el <<lado oscuro de la luz>> que se aborda en la presente subsección \citep{Globaldiscussion,LibroCL}.\\ 
 
-Las consecuencias de la CL son extremadamente diversas y afectan en diferentes escalas a los socioecosistemas. Sin embargo, basta con remitirse a la definición de CL para entender, a grandes rasgos las relaciones causa-consecuencia. Esto es, la luz artificial se vuelve contaminante cuando es emitida en intensidades, direcciones, rangos espectrales, horarios innecesarios o en cualquier combinación de estas características \citep{AtlasREPSA,LibroCL,Stone2017}.\\ 
+Las consecuencias de la CL son extremadamente diversas y afectan en diferentes escalas a los socioecosistemas. Sin embargo, basta con remitirse a la definición de CL para entender, a grandes rasgos, las relaciones causa-consecuencia. Esto es, la luz artificial se vuelve contaminante cuando es emitida en intensidades, direcciones, rangos espectrales, horarios innecesarios o en cualquier combinación de estas características \citep{AtlasREPSA,LibroCL,Stone2017}.\\ 
 
 A continuación se mencionan algunas de las consecuencias de la CL clasificadas de acuerdo con su afectación en los socioecosistemas (de manera directa e indirecta). Este recuento no pretende ser exhaustivo pero sí ser representativo de las consecuencias más apremiantes y cuyo estudio es todavía emergente.\\
 
 \textbf{Consecuencias directas}\\ 
 
-Hasta este punto únicamente se ha mencionado la temperatura de color como indicador de confort en los humanos. Sin embargo, esta propiedad al ser cualitativa no es suficiente para evaluar el impacto de la CL en diferentes especies. Para tales fines resulta necesario basarse en el espectro de emisión de las fuentes de luz \citep{CEI2017}.\\
+Anteriormente se ha mencionado la temperatura de color como indicador de confort en los humanos. Sin embargo, esta propiedad al ser cualitativa no es suficiente para evaluar el impacto de la CL en diferentes especies. Para tales fines resulta necesario basarse en el espectro de emisión de las fuentes de luz \citep{CEI2017}.\\
 
 \newpage
 
@@ -453,7 +451,7 @@ La CL afecta especialmente la migración de las aves: las luces de edificios ilu
 
 La mayor afectación de la CL en los mamíferos es en la alteración de los ritmos circadianos, que como se mencionó con anteriordad, su funcionamiento está totalmente supeditado al ciclo día-noche y son fundamentales en la regulación del metabolismo, el crecimiento y el comportamiento.\\
 
-En este punto resulta importante mencionar los efectos en la salud humana debido a la CL. La alteración en los ritmos circadianos humanos se asocia con la supresión de la producción de la hormonas que sólo se producen durante total oscuridad como la melatonina. Se ha reportado que el déficit de melatonina y la disrupción circadiana en general, están asociadas con un gran número de patologías entre otras el aumento de la incidencia del síndrome metabólico, enfermedades cardiovasculares, alteraciones cognitivas y afectivas, riesgo de padecimiento de algunos tipos de cáncer y envejecimiento prematuro \citep{CEI2017,LibroCL}.\\
+En este punto resulta importante mencionar los efectos en la salud humana debido a la CL. La alteración en los ritmos circadianos humanos se asocia con la supresión de la producción de la hormonas que sólo se producen durante total oscuridad como la melatonina \citep{LibroCL}. Se ha reportado que el déficit de melatonina y la disrupción circadiana en general, están asociadas con un gran número de patologías entre otras el aumento de la incidencia del síndrome metabólico, enfermedades cardiovasculares, alteraciones cognitivas y afectivas, riesgo de padecimiento de algunos tipos de cáncer y envejecimiento prematuro \citep{CEI2017,LibroCL}.\\
 
 Debido a los orígenes multifactoriales de las patologías anteriormente descritas, hasta el momento, no es posible asociar directamente la CL como causante de tales. Sin embargo, las patologías oculares como las retinopatías sí pueden deberse en gran medida la exposición a luz intensa y luz con longitudes de onda cortas \citep{CEI2017}.\\
 
@@ -482,15 +480,15 @@ Un aspecto interesante es el que sugiere que la luz artificial durante la noche 
 
 La necesidad de cuantificar continuamente la CL ha propiciado el desarrollo de herramientas experimentales (instrumentos de medición) y teóricas (modelos) \citep{Kocifaj2015}. Sin embargo, la mayoría de los instrumentos que miden el brillo del cielo nocturno suelen tener limitaciones que dificultan la obtención e interpretación de los datos.\\
 
-El instrumento más utilizado para medir el brillo del cielo nocturno es el \textit{Sky Quality Meter} (SQM), este equipo únicamente es capaz de hacer mediciones puntuales en el cenit, lo cual no es representativo de la distribución angular de la radiancia en el cielo \citep{Ribas2015}. Por otro lado, los instrumentos de interés (incluido el SQM) están diseñados para medir en regiones específicas del EE, lo que implica una pérdida de información valiosa \citep{Ribas2015}.\\
+El instrumento más utilizado para medir el brillo del cielo nocturno es el \textit{Sky Quality Meter} (SQM). Este equipo únicamente es capaz de hacer mediciones puntuales en el cenit, lo cual no es representativo de la distribución angular de la radiancia en el cielo \citep{Ribas2015}. Por otro lado, los instrumentos de interés (incluido el SQM) están diseñados para medir en regiones específicas del EE, lo que implica una pérdida de información valiosa \citep{Ribas2015}.\\
 
 Ademas de compensar las deficiencias presentes en los instrumentos de medición, los modelos han resultado adecuados para la construcción de simulaciones significativamente estadísticas de distribución de luz en el cielo nocturno las cuales poseen fundamentos teóricos robustos con significado físico \citep{Solano2015}.\\
 
-Los primeros intentos de desarrollar una ley de propagación de la luz en el cielo nocturno surgieron después de que la CL comenzó a significar un problema para la comunidad astronómica. En este sentido \cite{Bertiau1973} presentaron un modelo simplificado que estimaba el brillo artificial cenital a través de la función población - brillo $F (D)$ y la función brillo - distancia $Q (D)$ de las ciudades aledañas \citep{Linares2018}.\\
+Los primeros intentos de desarrollar una ley de propagación de la luz en el cielo nocturno surgieron después de que la CL comenzó a significar un problema para la comunidad astronómica. En este sentido \cite{Bertiau1973} presentaron un modelo simplificado que estimaba el brillo artificial cenital a través de la función población - brillo y la función brillo - distancia de las ciudades aledañas \citep{Linares2018}.\\
 
 Un paso importante hacia un modelo más completo lo dio \cite{Garstang1986} quien en lugar de considerar las ciudades como fuentes puntuales, las modeló como superficies circulares uniformes \citep{Linares2018} y, como se menciona en la \textbf{\autoref{sec:brillocielonocturno}} y en la \textbf{\autoref{sec:luzartificial}}, consideró la cantidad de aerosol atmosférico como un parámetro ajustable e incluyó la reflectancia del suelo y el porcentaje de luz emitida hacia la atmósfera a través de la CEF.\\
 
-Hoy en día existen dos modelos prominentes: \textit{SkyGlow} \citep{Kocifaj2007} e \textit{ILLUMINA} \citep{Aube2005}. Ambos modelos consideran la distribución heterogénea de las fuentes de luz. \textit{SkyGlow} sólo toma en cuenta dispersión de primer orden, lo que lo hace adecuado para observadores cercanos a las fuentes de luz mientras que \textit{ILLUMINA} incluye dispersión de primer y segundo orden, lo que permite experimentos en cualquier dirección y distancia (lo que requiere mayor tiempo computacional con respecto a \textit{SkyGlow}) \citep{Linares2018}. Por esta razón \textit{SkyGlow} es recomendable para experimentos que incluyen una malla con gran número de puntos (dominio geográfico grande con alta resolución espacial) \citep{Linares2018}.\\
+Hoy en día existen dos modelos prominentes: \textit{SkyGlow} \citep{Kocifaj2007} e \textit{ILLUMINA} \citep{Aube2005}. Ambos modelos consideran la distribución heterogénea de las fuentes de luz. \textit{SkyGlow} sólo toma en cuenta dispersión de primer orden, lo que lo hace adecuado para observadores cercanos a las fuentes de luz, mientras que \textit{ILLUMINA} incluye dispersión de primer y segundo orden, lo que permite experimentos en cualquier dirección y distancia (lo que requiere mayor tiempo computacional con respecto a \textit{SkyGlow}) \citep{Linares2018}. Por esta razón \textit{SkyGlow} es recomendable para experimentos que incluyen una malla con gran número de puntos (dominio geográfico grande con alta resolución espacial) \citep{Linares2018}.\\
 
 Dadas las características antes mencionadas, para la exploración de la luz artificial durante la noche en la Ciudad de México (objetivo principal de este trabajo) el uso del modelo \textit{SkyGlow} es óptimo. En el  \textbf{\autoref{chap:recomendaciones}} se propone la manera en que una campaña de validación del modelo podría llevarse a cabo utilizando instrumentos como el SQM, cámaras digitales calibradas, datos satelitales y datos generados por ciudadanos no pertenecientes a instituciones de investigación (ciencia ciudadana).\\
 
@@ -570,7 +568,7 @@ La división política de la ciudad consta de 16 alcaldías (Tabla \ref{tab:inve
 
 \begin{figure}[htb]
   \centering
-    \includegraphics[width=100mm, scale=1]{ciudaddemexico}
+    \includegraphics[width=110mm,scale=1]{ciudaddemexico}
   \caption{División política y uso de suelo en la Ciudad de México \citep{SEDEMA2016}}
   \label{ciudaddemexico}
 \end{figure}
@@ -678,13 +676,13 @@ Con sólo 7\% de la población total de México, en la Ciudad de México se cons
 
 De acuerdo con el Sistema de Información Energética de la Secretaría de Energía, durante 2017 se consumieron en la Ciudad de México un total de 12,575,591 MW h$^{-1}$ de los cuales 2,938,559 MW h$^{-1}$ corresponden al sector residencial (23\%) de acuerdo con la Comisión Federal de Electricidad (Tabla \ref{tab:inventariocdmx}).\\
 
-Es de interés conocer la relación entre el consumo de energía eléctrica y el cambio climático, lo cual es posible estimar a través de la emisión de Gases de Efecto Invernadero, más específicamente de CO$_{2}$ con el uso de la siguiente relación \citep{UTSEDEMA2018}: 
+Es de interés conocer la relación entre el consumo de energía eléctrica y el cambio climático, lo cual es posible estimar a través de la emisión de GEI, más específicamente de CO$_{2}$ con el uso de la siguiente relación \citep{UTSEDEMA2018}: 
 
 \begin{equation}
 E_{CO_{2}} = W_{Elect}\: FE_{Elect}
 \end{equation}
 
-Donde $E_{CO_{2}}$ es la emisión en toneladas de CO$_{2}$ equivalente debida al consumo de energía eléctrica, $W_{Elect}$ es el consumo de energía eléctrica en MW h$^{-1}$ y $FE_{Elect}$ es el factor de consumo de energía eléctrica en toneladas de CO$_{2}$ equivalente por MW h$^{-1}$.\\
+donde $E_{CO_{2}}$ es la emisión en toneladas de CO$_{2}$ equivalente debida al consumo de energía eléctrica, $W_{Elect}$ es el consumo de energía eléctrica en MW h$^{-1}$ y $FE_{Elect}$ es el factor de consumo de energía eléctrica en toneladas de CO$_{2}$ equivalente por MW h$^{-1}$.\\
 
 El factor de consumo de energía eléctrica se basa en el consumo total de combustible y la generación de electricidad neta entregada a la red. Varía cada año de acuerdo con la mezcla de combustibles empleados en la generación de electricidad distribuida por el Sistema Eléctrico Nacional, el cual está integrado por la Comisión Federal de Electricidad y productores independientes \citep{GEI2013}.\\
 
@@ -692,7 +690,7 @@ Considerando que el factor de consumo de energía eléctrica en 2017 fue 0.582 t
 
 \subsection{Inventario de Alumbrado Público de la Ciudad de México}
 
-Gracias a los datos brindados por las oficinas de transparencia de cada una de las alcaldías de la Ciudad de México y la Agencia de Gestión Urbana perteneciente a la Secretaría de Obras y Servicios a través del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se construyó el \textbf{Inventario de Alumbrado Público de la Ciudad de México} (Tabla \ref{tab:inventariocdmx}).\\
+Gracias a los datos brindados por las oficinas de transparencia de cada una de las alcaldías de la Ciudad de México y la Agencia de Gestión Urbana perteneciente a la Secretaría de Obras y Servicios a través del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, se construyó el \textbf{Inventario de Alumbrado Público de la Ciudad de México} (Tabla \ref{tab:inventariocdmx}).\\
 
 Los datos de consumo de energía eléctrica por entidad federativa se obtuvieron a través del Sistema de Información Energética de la Secretaría de Energía (\url{sie.energia.gob.mx}}) y los datos de consumo de energía eléctrica por municipio producidos por la Comisión Federal de Electricidad se obtuvieron a través de la Plataforma Datos Abiertos del Gobierno de México (\url{datos.gob.mx}}).\\
 
