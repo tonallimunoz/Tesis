@@ -4,44 +4,44 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Espectro electromagnético \citep {NASA2007}}}{2}{figure.1.1}% 
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Distribución espectral de A) LED, B) Vapor de mercurio, C) Halogenuros metálicos, D) Sodio a alta presión y E) Sodio a baja presión \citep {Solano2013b}}}{8}{figure.1.2}% 
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Ángulo de apantallamiento de luminaria \citep {Marin2009}}}{9}{figure.1.3}% 
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Porcentaje de especies nocturnas de diferentes clases y órdenes de vertebrados con respecto a su origen \citep {Holker2010}}}{11}{figure.1.4}% 
-\contentsline {figure}{\numberline {1.5}{\ignorespaces División política y uso de suelo en la Ciudad de México \citep {SEDEMA2016}}}{19}{figure.1.5}% 
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Espectro electromagn\IeC {\'e}tico \citep {NASA2007}}}{2}{figure.1.1}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Distribuci\IeC {\'o}n espectral de A) LED, B) Vapor de mercurio, C) Halogenuros met\IeC {\'a}licos, D) Sodio a alta presi\IeC {\'o}n y E) Sodio a baja presi\IeC {\'o}n \citep {Solano2013b}}}{8}{figure.1.2}% 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces \IeC {\'A}ngulo de apantallamiento de luminaria \citep {Marin2009}}}{9}{figure.1.3}% 
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Porcentaje de especies nocturnas de diferentes clases y \IeC {\'o}rdenes de vertebrados con respecto a su origen \citep {Holker2010}}}{11}{figure.1.4}% 
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Divisi\IeC {\'o}n pol\IeC {\'\i }tica y uso de suelo en la Ciudad de M\IeC {\'e}xico \citep {SEDEMA2016}}}{19}{figure.1.5}% 
 \contentsline {figure}{\numberline {1.6}{\ignorespaces Nubes. A) \textit {Altocumulus}, B) \textit {Altostratus}, C) \textit {Stratus} \citep {Metoffice2019}}}{21}{figure.1.6}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Intefaz gráfica del modelo \textit {SkyGlow}}}{26}{figure.2.1}% 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Geometría del modelo \citep {Kocifaj2007}}}{27}{figure.2.2}% 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Gráfica polar}}{29}{figure.2.3}% 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Composición de imágenes satelitales de radiancia en la Ciudad de México (imagen y datos procesados por la NOAA, bajo los términos de uso de Microsoft\textregistered \tmspace +\medmuskip {.2222em} Bing\textsuperscript {TM} \tmspace +\medmuskip {.2222em} Maps Platform)}}{30}{figure.2.4}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Intefaz gr\IeC {\'a}fica del modelo \textit {SkyGlow}}}{26}{figure.2.1}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Geometr\IeC {\'\i }a del modelo \citep {Kocifaj2007}}}{27}{figure.2.2}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Gr\IeC {\'a}fica polar}}{29}{figure.2.3}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Composici\IeC {\'o}n de im\IeC {\'a}genes satelitales de radiancia en la Ciudad de M\IeC {\'e}xico (imagen y datos procesados por la NOAA, bajo los t\IeC {\'e}rminos de uso de Microsoft\textregistered \tmspace +\medmuskip {.2222em} Bing\textsuperscript {TM} \tmspace +\medmuskip {.2222em} Maps Platform)}}{30}{figure.2.4}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Tendencia de radiancia promedio para la alcaldía GAM}}{31}{figure.3.1}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a GAM}}{31}{figure.3.1}% 
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Tendencia de radiancia promedio para CU}}{32}{figure.3.2}% 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Tendencia de radiancia promedio para la alcaldía MA}}{32}{figure.3.3}% 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado con A) FP para GAM, B) EC para GAM, C) Caso de A) para MA, D) Caso de B) para MA, E) Caso de A) para CU y F) Caso de B) para CU}}{35}{figure.3.4}% 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado para GAM en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{37}{figure.3.5}% 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado para MA en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{37}{figure.3.6}% 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado para CU en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{37}{figure.3.7}% 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo nublado para GAM con A) \textit {altocumulus}, B) \textit {altostratus} y C) \textit {stratus}}}{38}{figure.3.8}% 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo nublado para MA con A) \textit {altocumulus}, B) \textit {altostratus} y C) \textit {stratus}}}{38}{figure.3.9}% 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo nublado para CU con A) \textit {altocumulus}, B) \textit {altostratus} y C) \textit {stratus}}}{38}{figure.3.10}% 
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Gráficas tipo \textit {all sky} para condiciones de cielo despejado con tipo de luminaria LED con A) FP para GAM, B) EC para GAM, C) Caso de A) para MA, D) Caso de B) para MA, E) Caso de A) para CU y F) Caso de B) para CU}}{39}{figure.3.11}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a MA}}{32}{figure.3.3}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Gr\IeC {\'a}ficas tipo \textit {all sky} para condiciones de cielo despejado con A) FP para GAM, B) EC para GAM, C) Caso de A) para MA, D) Caso de B) para MA, E) Caso de A) para CU y F) Caso de B) para CU}}{35}{figure.3.4}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Gr\IeC {\'a}ficas tipo \textit {all sky} para condiciones de cielo despejado para GAM en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{37}{figure.3.5}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Gr\IeC {\'a}ficas tipo \textit {all sky} para condiciones de cielo despejado para MA en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{37}{figure.3.6}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Gr\IeC {\'a}ficas tipo \textit {all sky} para condiciones de cielo despejado para CU en A) Invierno Seco, B) Primavera Seca y C) Temporada Lluviosa}}{37}{figure.3.7}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Gr\IeC {\'a}ficas tipo \textit {all sky} para condiciones de cielo nublado para GAM con A) \textit {altocumulus}, B) \textit {altostratus} y C) \textit {stratus}}}{38}{figure.3.8}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Gr\IeC {\'a}ficas tipo \textit {all sky} para condiciones de cielo nublado para MA con A) \textit {altocumulus}, B) \textit {altostratus} y C) \textit {stratus}}}{38}{figure.3.9}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Gr\IeC {\'a}ficas tipo \textit {all sky} para condiciones de cielo nublado para CU con A) \textit {altocumulus}, B) \textit {altostratus} y C) \textit {stratus}}}{38}{figure.3.10}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Gr\IeC {\'a}ficas tipo \textit {all sky} para condiciones de cielo despejado con tipo de luminaria LED con A) FP para GAM, B) EC para GAM, C) Caso de A) para MA, D) Caso de B) para MA, E) Caso de A) para CU y F) Caso de B) para CU}}{39}{figure.3.11}% 
 \contentsline {figure}{\numberline {3.12}{\ignorespaces Mapa CL-CDMX}}{41}{figure.3.12}% 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Álvaro Obregón}}{46}{figure.6.1}% 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Azcapotzalco}}{46}{figure.6.2}% 
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Benito Juárez}}{47}{figure.6.3}% 
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Coyoacán}}{47}{figure.6.4}% 
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Cuajimalpa de Morelos}}{48}{figure.6.5}% 
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Cuauhtémoc}}{48}{figure.6.6}% 
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Iztacalco}}{49}{figure.6.7}% 
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Iztapalapa}}{49}{figure.6.8}% 
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Magdalena Contreras}}{50}{figure.6.9}% 
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Miguel Hidalgo}}{50}{figure.6.10}% 
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Tláhuac}}{51}{figure.6.11}% 
-\contentsline {figure}{\numberline {6.12}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Tlalpan}}{51}{figure.6.12}% 
-\contentsline {figure}{\numberline {6.13}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Venustiano Carranza}}{52}{figure.6.13}% 
-\contentsline {figure}{\numberline {6.14}{\ignorespaces Tendencia de radiancia promedio para la alcaldía Xochimilco}}{52}{figure.6.14}% 
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a \IeC {\'A}lvaro Obreg\IeC {\'o}n}}{46}{figure.6.1}% 
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Azcapotzalco}}{46}{figure.6.2}% 
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Benito Ju\IeC {\'a}rez}}{47}{figure.6.3}% 
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Coyoac\IeC {\'a}n}}{47}{figure.6.4}% 
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Cuajimalpa de Morelos}}{48}{figure.6.5}% 
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Cuauht\IeC {\'e}moc}}{48}{figure.6.6}% 
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Iztacalco}}{49}{figure.6.7}% 
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Iztapalapa}}{49}{figure.6.8}% 
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Magdalena Contreras}}{50}{figure.6.9}% 
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Miguel Hidalgo}}{50}{figure.6.10}% 
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Tl\IeC {\'a}huac}}{51}{figure.6.11}% 
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Tlalpan}}{51}{figure.6.12}% 
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Venustiano Carranza}}{52}{figure.6.13}% 
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Tendencia de radiancia promedio para la alcald\IeC {\'\i }a Xochimilco}}{52}{figure.6.14}% 
