@@ -79,6 +79,13 @@ Elvidge, C., Keith, D., Tuttle, B., y Baugh, K. (2010).
 \newblock Spectral identification of lighting type and character.
 \newblock {\em Sensors}, 10:3961--3988.
 
+\bibitem[Ezcurra, 2011]{Ezcurra2011}
+Ezcurra, E. (2011).
+\newblock {De las chinampas a la megalópolis: el medio ambiente en la Cuenca
+  de México}.
+\newblock {\em Fondo de Cultura Económica, Secretaría de Eduación Pública,
+  Consejo Nacional de Ciencia y Tecnología}.
+
 \bibitem[Falchi et~al., 2016]{Falchi2016}
 Falchi, F., Cinzano, P., Duriscoe, D., Kyba, C., Elvidge, C., Baugh, K.,
   Portnov, B., Rybnikova, N., y Furgoni, R. (2016).
@@ -222,6 +229,12 @@ Kocifaj, M. y Solano, H. (2016).
 \newblock {\em Publications of the Astronomical Society of the Pacific},
   128:1--16.
 
+\bibitem[{Kocifaj, M.}, 2007]{Kocifaj2007}
+{Kocifaj, M.} (2007).
+\newblock Light-pollution model for cloudy and cloudless night skies with
+  ground-based light sources.
+\newblock {\em Applied Optics}, 46(15):3013--3022.
+
 \bibitem[Kyba et~al., 2017]{Kyba2017}
 Kyba, C., Mohar, A., y Posch, T. (2017).
 \newblock {How bright is moonlight?}
@@ -255,6 +268,13 @@ Marin, C. (2009).
 \newblock {\em Proceedings of the International Astronomical Union},
   5:449--456.
 
+\bibitem[Martínez-Díaz, 2019]{Martinez2019}
+Martínez-Díaz, B. (2019).
+\newblock Tláhuac: atisbos históricos de un pueblo chinampero.
+\newblock {\em Gobierno de la Ciudad de México, Secretaría del Medio
+  Ambiente, Dirección General de la Comisión de Recursos Naturales y
+  Desarrollo Rural, Grupo Autónomo Cultural Cuitlahuac Ticic}.
+
 \bibitem[Matthews, 2008]{Matthews2008}
 Matthews, G. (2008).
 \newblock {Celestial body irradiance determination from an underfilled
@@ -271,12 +291,6 @@ Meyer, J. (1968).
 \newblock Radiometry and photometry: units and conversion factors.
 \newblock {\em Applied Optics}, 7(10):2081--2084.
 
-\bibitem[{Miroslav Kocifaj}, 2007]{Kocifaj2007}
-{Miroslav Kocifaj} (2007).
-\newblock Light-pollution model for cloudy and cloudless night skies with
-  ground-based light sources.
-\newblock {\em Applied Optics}, 46(15):3013--3022.
-
 \bibitem[{National Aeronautics and Space Administration}, 2007]{NASA2007}
 {National Aeronautics and Space Administration} (2007).
 \newblock Electromagnetic spectrum properties.
@@ -286,6 +300,12 @@ Meyer, J. (1968).
   2015]{OCDE2015}
 {Organización para la Cooperación y el Desarrollo Económicos} (2015).
 \newblock {Estudios territoriales de la OCDE. Valle de México, México}.
+
+\bibitem[Pedersen, 2018]{Pedersen2018}
+Pedersen, M. (2018).
+\newblock The importance of urban biodiversity - an ecosystem services
+  approach.
+\newblock {\em Biodiversity International Journal}, 2(4):357--360.
 
 \bibitem[Penner et~al., 1998]{Penner1998}
 Penner, J., Chuang, C., y Grant, K. (1998).
@@ -314,7 +334,7 @@ Ramos, L. y Montenegro, M. (2012).
 Ribas, S. (2015).
 \newblock Caracterizació de la contaminación lumínica en zones protegides i
   urbanes.
-\newblock {\em Tesis Doctoral Universitat de Barcelona}.
+\newblock {\em Tesi Doctoral, Universitat de Barcelona}.
 
 \bibitem[Rich y Longcore, 2006]{Longcore2006}
 Rich, C. y Longcore, T. (2006).
@@ -437,11 +457,5 @@ Wiesnner, P. (2014).
 Wrangham, R. y Carmody, R. (2010).
 \newblock Human adaptation to the control of fire.
 \newblock {\em Evolutionary Anthropology}, 19(5):187--199.
-
-\bibitem[Zari, 2018]{Zari2018}
-Zari, M.~P. (2018).
-\newblock The importance of urban biodiversity - an ecosystem services
-  approach.
-\newblock {\em Biodiversity International Journal}, 2(4):357--360.
 
 \end{thebibliography}

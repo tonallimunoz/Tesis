@@ -18,6 +18,18 @@
 \usepackage{rotating} %Para rotar figuras
 \usepackage{enumerate} %Enumerar en números romanos
 
+%Imagen de fondo
+\usepackage[pages=some]{background}
+\backgroundsetup{
+scale=1,
+color=black,
+opacity=0.6,
+angle=0,
+contents={%
+  \includegraphics[width=\paperwidth,height=\paperheight]{Tabuchi}
+  }%
+}
+
 %Características de las referencias
 \usepackage[round]{natbib}
 \bibliographystyle{apalike}
@@ -32,14 +44,12 @@
 \titlespacing*{\chapter}{0pt}{-12mm}{40pt}
 \setlength{\parindent}{0cm}
 
-
 %Comandos para páginas en blanco
 \newcommand\blankpage{%
     \null
     \thispagestyle{empty}%
     \addtocounter{page}{-1}%
     \newpage}
-    
     
 %Comandos para insertar muestras de código
 \usepackage{listings}
@@ -77,14 +87,22 @@
 	\include{portada}
 	\afterpage{\blankpage}	
 	\let\cleardoublepage\clearpage
+		
+	\chapter*{La región más brillante}
+	\BgThispage
+	\textit{Si las estrellas, en lugar de brillar continuamente sobre nuestras cabezas, fuera posible verlas solamente en un único lugar en la Tierra, los humanos no podríamos evitar peregrinar hasta allí para contemplar y admirar la belleza del cielo}, escribió el filósofo romano Lucio Séneca hace más de 2000 años \footnote{\cite{Ribas2015}}.\\
 	
-	%Frase	
-	\chapter*{}
-	\begin{flushright}
-	\pagestyle{empty}
-	\thispagestyle{empty}
-	\textit{per aspera ad astra}
-	\end{flushright}
+	Desde que era niño he peregrinado inconscientemente a esas islas habitadas de estrellas, imaginadas por Séneca y que, hoy en día, cada vez van perdiendo más terreno, sumergiéndose en la luz artificial. Las vacaciones de mi infancia las viví en una de esas islas: La Estancia, el casco de una antigua hacienda pulquera, a las orillas de la carretera México-Tuxpan, en el Valle de Pachuca-Tizayuca.\\
+	
+	Por vecinos sólo teníamos los guajolotes y borregos de mis abuelos, los cacomixtles furtivos que se robaban los huevos del gallinero y los enjambres de murciélagos que por las noches nos fascinaban y aterrorizaban cuando teníamos que salir al sanitario ubicado en el extremo de las piezas de descanso, del otro lado del gran patio de la hacienda, a la usanza antigua.\\ 
+	
+	Aunque La Estancia dista 100 km de mi natal Azcapotzalco, al norte de la Ciudad de México, yo me sentía allí tan lejos de casa como un marinero explorando nuevas tierras plagadas de misterio, fantasía y magia.\\ 
+	
+	Un recuerdo inolvidable, no sólo de La Estancia, sino de toda mi niñez, son las noches estrelladas que allí pude vivir. Me tiraba en el gran patio y sentía la necesidad de tener más ojos para abarcar todos los detalles que sucedían en el cielo: las estrellas tiritando tan intensamente que parecía que de un momento a otro se derrumbarían, meteoros surcando la bóveda celeste y el tránsito de los satélites, los objetos que más me inquietaban, porque creía que se trataba de una prueba irrefutable de que otros seres viajaban por el vecindario de la Tierra.\\ 
+	
+	De regreso a la Ciudad de México trataba de compartir los descubrimientos de mi exploración a mis compañeros de la escuela. Muy pocos creyeron mis historias sobre la gran autopista de estrellas que se dibujaba por las noches, en la que circulaban naves espaciales a tal lentitud que podía seguirles el rastro por más de media hora. Muchos de esos niños hoy son adultos que jamás han visto la Vía Láctea.\\
+	
+	Sin embargo, esto no siempre ha sido así en el lugar en que nací. Hace apenas 500 años la Ciudad de México era totalmente diferente a como hoy en día la conocemos sus habitantes. Dominaba un paisaje lacustre que durante las noches se transformaba en un enorme espejo oscuro, en cuya negritud se transcribían con exactitud los destellos celestes\footnote{\cite{Martinez2019}}. Hoy los lagos se han ido y las estrellas se apagaron. Hoy mi ciudad es chinampa en un lago escondido y ya no es la región más transparente del aire, sino la más brillante por las noches\footnote{Ilustración de fondo por Toshio Tabuchi}.
 	\afterpage{\blankpage}
 	
 	\pagenumbering{roman}

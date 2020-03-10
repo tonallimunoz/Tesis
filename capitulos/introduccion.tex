@@ -36,9 +36,9 @@ La óptica es el campo de la física que se encarga de estudiar la interacción 
 \begin{tabular}{|l|l|l|}
 \hline
 \textbf{\textbf{Propiedad}} & \textbf{} & \textbf{\textbf{Descripción}} \\ \hline
-Absorción &  & La luz es captada en el objeto y aumenta su energía térmica \\ \hline
-Transmisión &  & La luz atraviesa el objeto sin cambio de dirección ni intensidad \\ \hline
-Dispersión &  & La luz es captada en el objeto y se re-emite con diferente dirección e intensidad \\ \cline{2-3} 
+Absorción &  & La luz es captada por un objeto y aumenta su energía interna \\ \hline
+Transmitancia &  & Fracción de la luz que atraviesa un objeto sin cambio de dirección \\ \hline
+Esparcimiento &  & La luz cambia su dirección e intensidad al interactuar con un objeto \\ \cline{2-3} 
  & Rayleigh & Dispersión elástica (conserva energía) en que la longitud de onda de la luz \\
  &  & incidente es mucho mayor que el tamaño del objeto \\ \cline{2-3} 
  & \multicolumn{1}{c|} {Mie} & Dispersión elástica en que la longitud de onda de la luz incidente es similar \\
@@ -53,9 +53,9 @@ Refracción &  & La luz cambia de dirección y velocidad al atravesar por un med
 
 \subsection{Unidades de medición}
 
-Existen dos campos de estudio que se encargan de la medición de la luz: la fotometría y la radiometría. La fotometría se encarga de medir la luz con base en la sensibilidad de la vista humana. Por otro lado, la radiometría mide la luz abarcando todas las longitudes de onda del EE. Al ser de carácter general este trabajo, en la \textbf{Tabla \ref{tab:unidadesradiometria}} se muestran las unidades del Sistema Internacional de Unidades (SI) utilizadas en radiometría.\\
+Existen dos campos de estudio que se encargan de la medición de la luz: la fotometría y la radiometría. La fotometría se encarga de medir la luz con base en la sensibilidad de la vista humana. Por otro lado, la radiometría mide la luz abarcando todas las longitudes de onda del EE. Ya que este trabajo es de carácter general, se utilizan las unidades fotométricas de medición de la luz. En la \textbf{Tabla \ref{tab:unidadesradiometria}} se muestran las unidades del Sistema Internacional de Unidades (SI) utilizadas en radiometría.\\
 
-Para estudios enfocados en los niveles de luminosidad en ecosistemas y su influencia en cada uno de sus componentes con base en su sensibilidad, es fundamental utilizar medidas fotométricas (véase la \textbf{\autoref{sec:mapacl}}).
+Sin embargo, para estudios enfocados en los niveles de luz en ecosistemas y su influencia en cada uno de sus componentes con base en su sensibilidad, es fundamental utilizar medidas fotométricas (véase la \textbf{\autoref{sec:mapacl}}).
 
 
 \begin{table}[htb]
@@ -69,10 +69,10 @@ Para estudios enfocados en los niveles de luminosidad en ecosistemas y su influe
 Energía radiante (Q) & J & Energía \\ \hline
 Flujo radiante ($\Phi$) & W & Energía radiada por unidad de tiempo (potencia) \\ \hline
 Intensidad radiante (I) & W sr$^{-1}$ & Potencia por ángulo sólido \\ \hline
-Irradiancia (E) & W m$^{-2}$ & Potencia incidente por superficie \\ \hline
-Emitancia radiante (M) & W m$^{-2}$ & Potencia emitida por superficie de la fuente radiante \\ \hline
-Radiancia (L) & W sr$^{-1}$  m$^{-2}$ & Potencia por ángulo sólido y por superficie \\ \hline
-Radiancia espectral ($L_{\lambda}$) & W sr$^{-1}$  m$^{-3}$ & Potencia por ángulo sólido, por superficie y por longitud de onda \\ \hline
+Irradiancia (E) & W m$^{-2}$ & Potencia incidente por área \\ \hline
+Emitancia radiante (M) & W m$^{-2}$ & Potencia emitida por área de la fuente radiante \\ \hline
+Radiancia (L) & W sr$^{-1}$  m$^{-2}$ & Potencia por ángulo sólido y por área \\ \hline
+Radiancia espectral ($L_{\lambda}$) & W sr$^{-1}$  m$^{-3}$ & Potencia por ángulo sólido, por área y por longitud de onda \\ \hline
 \end{tabular}%
 }
 \end{table}
@@ -168,7 +168,7 @@ Otros constituyentes atmosféricos pueden dispersar la luz y, por lo tanto, debe
 La distribución por tamaño del aerosol atmosférico puede ser estimada a través del Parámetro de Angstrom $(\alpha)$ \citep{Holben1998} definido a partir de la siguiente ecuación:
 
 \begin{equation}
-\alpha (\lambda_1, \lambda_2) = \frac { -ln (\frac{\tau_\lambda_2}{\tau_\lambda_1})}{ ln(\frac{\lambda_2}{\lambda_1})}
+\alpha (\lambda_1, \lambda_2) = \frac {-ln (\frac{\tau_\lambda_2}{\tau_\lambda_1})}{ ln(\frac{\lambda_2}{\lambda_1})}
 \end{equation}
 
 donde $\tau_\lambda_1$ y $\tau_\lambda_2$ son el AOD en las longitudes de onda $\lambda_1$ y $\lambda_2$ respectivamente. Típicamente los valores de $\alpha$ varían entre -2 y 2.  $\alpha$ $>$ 1, indica que el modo fino (submicrométrico) de aerosol atmosférico es dominante mientras que  $\alpha$ $<$ 1 indica que el modo grueso es el más abundante \citep{Carabali2017}.\\
