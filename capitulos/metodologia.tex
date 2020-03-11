@@ -3,7 +3,7 @@
 
 En este capítulo se describen las bases teóricas y técnicas del modelo de distribución de la luz en la atmósfera \textit{SkyGlow} desarrollado por \cite{Kocifaj2007}, además del software \textit{Radiance Light Trends} desarrollado por \cite{RLT2019} que permite analizar datos de radiancia medidos por el sensor \textit{Visible Infrared Imaging Radiometer Suite} (VIIRS) a bordo del satélite \textit{Suomi National Polar-orbiting Partnership}.\\
 
-Advertencia: la distribución de radiancia teórica generada por el modelo \textit{SkyGlow} se construye considerando un observador en superficie por lo que, al comparar los valores de radiancia teóricos del modelo con los generados por el VIIRS, no se pretende validar el modelo, sino estimar la tendencia de los valores de radiancia para el área de interés.\\
+Advertencia: la distribución de radiancia teórica generada por el modelo \textit{SkyGlow} se construye considerando un observador en superficie por lo que, al comparar los valores de radiancia teóricos del modelo con los generados por el VIIRS, no se pretende validar el modelo, sino estimar la tendencia espacial de los valores de radiancia para el área de interés.\\
 
 En el \textbf{\autoref{chap:recomendaciones}} se presentan propuestas para validar el modelo \textit{SkyGlow} para la Ciudad de México.\\ 
 
@@ -73,7 +73,7 @@ El primer término de la derecha de la ecuación captura la emisión de las fuen
 \end{figure}
 
 
-Los procesos capturados por los términos dentro de la integral se desarrollan en la atmósfera (por ello están integrados desde la superficie hasta la altura h). $B$ es la CEF abordada en la \textbf{\autoref{subsec:climatologia}}; Esta función determina el comportamiento angular de la radiación emitida por las fuentes de luz. La aproximación semi-empírica más utilizada a la CEF, es la GEF:
+Los procesos capturados por los términos dentro de la integral se desarrollan en la atmósfera (por ello están integrados desde la superficie hasta la altura \textit{h}). $B$ es la CEF abordada en la \textbf{\autoref{subsec:climatologia}}; Esta función determina el comportamiento angular de la radiación emitida por las fuentes de luz. La aproximación semi-empírica más utilizada a la CEF, es la GEF:
 
 \begin{equation}
 B(Q, q, z') = 2Q(1-q) cos \, z' + 0.554q \,z'^{4}

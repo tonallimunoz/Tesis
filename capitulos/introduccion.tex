@@ -116,13 +116,13 @@ I_{tot} = (I_A + I_{ZL} + I_{ISL} + I_{DGL} + I_{EBL})\:e^{-\tau} + I_{SCA}
 
 donde $\tau$ es el coeficiente de atenuación atmosférica que depende de la longitud de onda, la distancia cenital (la distancia angular del cuerpo celeste con respecto al cenit), la altura sobre el nivel del mar del observador y las condiciones atmosféricas.\\ 
 
-La definición matemática del brillo total del cielo nocturno nos permite inferir que las principales contribuciones se deben al brillo del aire y a la luz zodiacal; Estimaciones experimentales confirman este comportamiento reportando mediciones de radiancia de hasta 10$^{-6}$ W sr$^{-1}$  m$^{-2}$ atribuibles a la luz zodiacal en la región visible del EE. \citep{Leinert1998}.\\ 
+La definición matemática del brillo total del cielo nocturno nos permite inferir que las principales contribuciones se deben al brillo del aire y a la luz zodiacal; Estimaciones experimentales confirman este comportamiento reportando mediciones de radiancia de hasta 1 x 10$^{-6}$ W sr$^{-1}$  m$^{-2}$ atribuibles a la luz zodiacal en la región visible del EE. \citep{Leinert1998}.\\ 
 
 \subsection{Variación natural del brillo del cielo nocturno por influencia de la Luna}
 
-La luz lunar percibida en la Tierra es resultado de la reflexión de la luz solar y, en menor medida, terrestre en la superficie de la Luna. El albedo lunar es 0.136 lo que significa que refleja 13.6\% del total de la radiación incidente \citep{Matthews2008}. La cantidad de luz lunar varía hasta en tres órdenes de magnitud a lo largo del mes de acuerdo con el ciclo lunar \citep{Kyba2017}.\\
+La luz lunar percibida en la Tierra es resultado de la reflexión de la luz solar y, en menor medida terrestre, en la superficie de la Luna. El albedo lunar es 0.136, lo que significa que refleja 13.6\% del total de la radiación incidente \citep{Matthews2008}. La cantidad de luz lunar varía hasta en tres órdenes de magnitud a lo largo del mes de acuerdo con el ciclo lunar \citep{Kyba2017}.\\
 
-En condiciones atmosféricas despejadas y de nula luz artificial, la luz lunar es la principal responsable del brillo total del cielo nocturno ya que, típicamente, los valores de brillo del aire son hasta tres órdenes de magnitud más pequeños que los reportados para la luz lunar \citep{Hanel2018}.\\
+En condiciones atmosféricas despejadas y de nula luz artificial, la luz lunar es la principal responsable del brillo total del cielo nocturno ya que, típicamente, los valores de brillo del aire y de luz zodiacal son hasta tres órdenes de magnitud más pequeños que los reportados para la luz lunar \citep{Hanel2018}.\\
 
 \newpage
 
@@ -193,9 +193,7 @@ donde $\sigma_{SCA}$ es la sección transversal de dispersión:
 \sigma_{SCA} = \frac{\pi D^{2}}{4} Q_{SCA}
 \end{equation}
 
-con $D$ el diámetro de la partícula y $Q_{SCA}$ la eficiencia de dispersión (cuánta energía absorbida es dispersada).\\
-
-Cuando ASY = 1, toda la luz es dispersada hacia adelante; ASY = 0, indica una dispersión isotrópica \citep{Solano2015}.
+con $D$ el diámetro de la partícula y $Q_{SCA}$ la eficiencia de dispersión (cuánta de la radiación incidente es dispersada). Cuando ASY = 1, toda la luz es dispersada hacia adelante; ASY = 0, indica una dispersión isotrópica \citep{Solano2015}.
 \\
 
 \textit{\textbf{Albedo de Dispersión Simple (SSA)}}\\
@@ -207,17 +205,17 @@ SSA = \frac{\epsilon_{SCA}}{\epsilon_{SCA} + \epsilon_{ABS}}
 \end{equation}
 
 
-Los coeficientes de dispersión $\epsilon$ se obtienen:
+Los coeficientes $\epsilon$ se obtienen:
 
 \begin{equation}
 \epsilon = N \sigma
 \end{equation}
 
-con $N$ la concentración de partículas de tamaño $D$. El valor del SSA es representativo de las propiedades de absorción de la luz del aerosol atmosférico. Cuando el valor del SSA es cercano a 1 es un indicativo que el aerosol en cuestión refleja más luz, mientras que, para el aerosol más absorbente, el valor del SSA es cercano a 0.\\
+con $N$ la concentración de partículas de tamaño $D$ y donde $\sigma$ es $\sigma_{SCA}$ para el coeficiente de dispersión y $\sigma_{ABS}$ para el coeficiente de absorción. El valor del SSA es representativo de las propiedades de absorción de la luz del aerosol atmosférico. Cuando el valor del SSA es cercano a 1 es un indicativo que el aerosol en cuestión dispersa más luz, mientras que, para el aerosol más absorbente, el valor del SSA es cercano a 0.\\
 
 \subsubsection{Propiedades ópticas de las nubes}
 
-\cite{Twomey1967} desarrolló por primera vez una teoría de dispersión de la luz debido a la nubosidad. Estudios más recientes \citep{Kocifaj2007,Solano2014,Solano2015}, han encontrado cambios significativos en el brillo del cielo por la dispersión de luz artificial por acción de la nubosidad. Las nubes son un medio dispersivo complejo, esto es, que poseen diferentes constituyentes con diferente índice refractivo complejo $(\underline{n})$ definido como:
+\cite{Twomey1967} desarrolló por primera vez una teoría de dispersión de la luz debido a la nubosidad. Estudios más recientes \citep{Kocifaj2007,Solano2014,Solano2015}, han encontrado cambios significativos en el brillo del cielo por la dispersión de luz artificial por acción de la nubosidad. Las nubes son un medio dispersivo complejo, esto es, que las gotitas y cristales de hielo que las constituyen poseen un índice complejo de refracción, $\underline{n}$, definido como:
 
 \begin{equation}
 \underline{n} = n + i k
@@ -225,13 +223,13 @@ con $N$ la concentración de partículas de tamaño $D$. El valor del SSA es rep
 
 \vspace{2mm} 
 
-Donde $n$, la parte real de la ecuación, indica la velocidad de la luz dentro de un medio y la parte imaginaria $k$ es el coeficiente de atenuación de la luz dentro del medio en cuestión \citep{Born&Wolf2003}. Los valores de la parte imaginaria del índice refractivo complejo para las gotitas de nube y los cristales de hielo que forman las nubes son muy bajos de acuerdo con \cite{Solano2015}.\\
+Donde $n$, la componente real de la ecuación, indica la velocidad de la luz dentro de un medio y la parte imaginaria $k$ es el coeficiente de atenuación de la luz dentro del medio en cuestión \citep{Born&Wolf2003}. Los valores de la parte imaginaria del índice refractivo complejo para las gotitas de nube y los cristales de hielo que forman las nubes son muy bajos de acuerdo con \cite{Solano2015}.\\
 
 Tomando en cuenta lo anterior, \cite{Solano2015} consideran a las nubes como cuerpos Lambertianos con albedo espectral variante para su estudio óptico. Un cuerpo Lambertiano es aquel que posee una superficie ideal que refleja la luz incidente de manera isotrópica, permitiendo así que el brillo de tal superficie sea la misma para el observador independientemente de su ángulo de visión \citep{Born&Wolf2003}.\\
 
 El albedo espectral de las nubes depende principalmente de factores como la altitud de su base con respecto al observador y la microfísica incluyendo el contenido de agua líquida y la distribución por tamaño de las gotitas de nube \citep{Kocifaj2007}.\\ 
 
-Resulta complicado medir el albedo espectral de las nubes durante la noche ya que la mayoría de los fotómetros que miden esta propiedad funcionan con base en niveles de radiación presentes sólo durante el día. Por esta razón, las simulaciones numéricas de la influencia de las nubes en el brillo del cielo nocturna resultan útiles \citep{Solano2015}.\\
+Resulta complicado medir el albedo espectral de las nubes durante la noche ya que la mayoría de los fotómetros que miden esta propiedad funcionan con base en niveles de radiación presentes sólo durante el día. Por esta razón, las simulaciones numéricas de la influencia de las nubes en el brillo del cielo nocturno resultan útiles \citep{Solano2015}.\\
 
 Además, es importante mencionar que los factores que se toman en cuenta en la modelación teórica (descritos en la \textbf{\autoref{sec:modeloskyglow}}) son capaces de reproducir diferentes comportamientos del brillo del cielo con respecto a la posición del observador, lo cual es deseable para la predicción del brillo del cielo nocturno influenciado por diferentes tipos de nubes \citep{Kocifaj2007,Solano2015}.
 
@@ -261,7 +259,7 @@ La cantidad de energía radiada en determinadas regiones del EE \citep{Solano201
   
 \textbf{Temperatura de color}
 
-La temperatura de color define el color de una fuente de luz sólo si esta se asemeja a un cuerpo negro. La mayoría de las fuentes de luz tradicionalmente utilizadas (incandescentes) se asemejan a un cuerpo negro, mientras que para las que no cumplen con esa característica (de descarga y diodo emisor de luz (LED, por sus siglas en inglés)), se implementa la temperatura de color correlacionada \citep{LibroCL}.\\
+La temperatura de color define la distribución espectral de una fuente de luz sólo si ésta se asemeja a un cuerpo negro. La mayoría de las fuentes de luz tradicionalmente utilizadas (incandescentes) se asemejan a un cuerpo negro, mientras que para las que no cumplen con esa característica (de descarga y diodo emisor de luz (LED, por sus siglas en inglés)), se implementa la temperatura de color correlacionada \citep{LibroCL}.\\
 
 Para efectos de evaluación de reproducción de color y confort se asocia una apariencia de color a los rangos de temperatura de color teniendo <<luz cálida>> para temperatura de color de hasta 3000 K, <<luz intermedia>> de 3000 - 5300 K y <<luz fría>> para temperaturas de color mayor a 5300 K \citep{Globaldiscussion}.\\
 
@@ -296,7 +294,7 @@ De descarga & Lámpara de sodio a baja presión (LPS) & 2000 & 180 (muy alta) \\
  & Lámpara de sodio a alta presión (HPS) & 2300 & 100 (alta) \\ \cline{2-4} 
  & Lámpara de halogenuros metálicos (MH) & 2800 - 5000 & 70 - 90 (alta) \\ \cline{2-4} 
  & Lámpara de vapor de mercurio (MV) & 3200 - 4000 & 60 (media) \\ \hline
-LED & LED & 2700 - 5000 & 10 - 150 (baja) \\ \hline
+LED & LED & 2700 - 5000 & 10 - 150 (baja a muy alta) \\ \hline
 \end{tabular}%
 }
 \end{table}
@@ -422,7 +420,7 @@ Regularmente al alumbrado público y privado se les denota de una manera positiv
 
 Las consecuencias de la CL son extremadamente diversas y afectan en diferentes escalas a los socioecosistemas. Sin embargo, basta con remitirse a la definición de CL para entender, a grandes rasgos, las relaciones causa-consecuencia. Esto es, la luz artificial se vuelve contaminante cuando es emitida en intensidades, direcciones, rangos espectrales, horarios innecesarios o en cualquier combinación de estas características \citep{AtlasREPSA,LibroCL,Stone2017}.\\ 
 
-A continuación se mencionan algunas de las consecuencias de la CL clasificadas de acuerdo con su afectación en los socioecosistemas (de manera directa e indirecta). Este recuento no pretende ser exhaustivo pero sí ser representativo de las consecuencias más apremiantes y cuyo estudio es todavía emergente.\\
+A continuación se mencionan algunas de las consecuencias de la CL clasificadas de acuerdo con su afectación en los socioecosistemas (de manera directa e indirecta). Este recuento no pretende ser exhaustivo pero sí ser representativo de las consecuencias más relevantes y cuyo estudio es todavía emergente.\\
 
 \textbf{Consecuencias directas}\\ 
 
