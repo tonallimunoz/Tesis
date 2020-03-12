@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.27)  11 MAR 2020 19:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.27)  12 MAR 2020 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -882,9 +882,10 @@ Package: listings 2019/02/27 1.8b (Carsten Heinz)
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  (./agradecimientos.aux) (./abreviaturas.aux) (./resumen.aux)
-(./productos.aux) (./capitulos/introduccion.aux) (./capitulos/metodologia.aux)
-(./capitulos/resultados_discusion.aux) (./capitulos/conclusiones.aux)
-(./capitulos/recomendaciones.aux) (./capitulos/anexos.aux
+(./productos.aux) (./estructura.aux) (./capitulos/introduccion.aux)
+(./capitulos/metodologia.aux) (./capitulos/resultados_discusion.aux)
+(./capitulos/conclusiones.aux) (./capitulos/recomendaciones.aux)
+(./capitulos/anexos.aux
 
 LaTeX Warning: Label `radiancetrendstlah' multiply defined.
 
@@ -1026,12 +1027,12 @@ LaTeX Info: Redefining \nameref on input line 85.
 
 
 (./Portada.tex
-<unam.pdf, id=256, 822.27202pt x 924.25299pt>
+<unam.pdf, id=260, 822.27202pt x 924.25299pt>
 File: unam.pdf Graphic file (type pdf)
 <use unam.pdf>
 Package pdftex.def Info: unam.pdf  used on input line 7.
 (pdftex.def)             Requested size: 74.00128pt x 83.17917pt.
-<ciencias.pdf, id=257, 359.74399pt x 411.136pt>
+<ciencias.pdf, id=261, 359.74399pt x 411.136pt>
 File: ciencias.pdf Graphic file (type pdf)
 <use ciencias.pdf>
 Package pdftex.def Info: ciencias.pdf  used on input line 19.
@@ -1116,7 +1117,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
-<Tabuchi.jpg, id=277, 700.6175pt x 903.375pt>
+<Tabuchi.jpg, id=281, 700.6175pt x 903.375pt>
 File: Tabuchi.jpg Graphic file (type jpg)
 <use Tabuchi.jpg>
 Package pdftex.def Info: Tabuchi.jpg  used on input line 110.
@@ -1292,15 +1293,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--116
 
 [6
 
-] [7]pdfTeX warning (ext4): destination with the same identifier (name{page.VII
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.119 	\include{productos}
-                           [7
-
-
-]
+] [7]
 \openout2 = `productos.aux'.
 
  (./productos.tex
@@ -1348,11 +1341,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
 ) [8
 
+
+
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.VIII}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.122 	\tableofcontents
+l.121 	\tableofcontents
                         [8
 
 
@@ -1396,8 +1391,8 @@ Package spanish Warning: Replacing `OT1/pplx/bx/sc' by
 \tf@toc=\write5
 \openout5 = `tesis.toc'.
 
-LaTeX Info: Redefining \. on input line 124.
-LaTeX Info: Redefining \% on input line 124.
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
  [10] (./tesis.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1408,8 +1403,8 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lof=\write6
 \openout6 = `tesis.lof'.
 
-LaTeX Info: Redefining \. on input line 130.
-LaTeX Info: Redefining \% on input line 130.
+LaTeX Info: Redefining \. on input line 129.
+LaTeX Info: Redefining \% on input line 129.
  [12] (./tesis.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1424,19 +1419,44 @@ LaTeX Info: Redefining \% on input line 1.
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.139 	\mainmatter
+l.135 	\mainmatter
                    %comienza numeración arábiga [13
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.XIII}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.139 	\mainmatter
-                   %comienza numeración arábiga [13]
+]
+\openout2 = `estructura.aux'.
+
+ (./estructura.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+) [1
+
+
+]
 \openout2 = `./capitulos/introduccion.aux'.
 
-
-(./capitulos/introduccion.tex
+ (./capitulos/introduccion.tex
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <12> not available
 (Font)              Font shape `OT1/pplx/b/n' tried instead on input line 6.
@@ -1445,7 +1465,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<espectroelectromagnetico.png, id=609, 1027.84pt x 609.27625pt>
+<espectroelectromagnetico.png, id=617, 1027.84pt x 609.27625pt>
 File: espectroelectromagnetico.png Graphic file (type png)
 <use espectroelectromagnetico.png>
 Package pdftex.def Info: espectroelectromagnetico.png  used on input line 12.
@@ -1464,7 +1484,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 31.
 
-[1
+[2
+
 
 
 ]
@@ -1474,7 +1495,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
 LaTeX Info: Redefining \. on input line 80.
 LaTeX Info: Redefining \% on input line 80.
-[2 <./espectroelectromagnetico.png>]
+[3 <./espectroelectromagnetico.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
@@ -1496,7 +1517,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
 LaTeX Info: Redefining \. on input line 127.
 LaTeX Info: Redefining \% on input line 127.
-[3]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
@@ -1507,7 +1528,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--136
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
+Underfull \hbox (badness 10000) in paragraph at lines 143--145
 
  []
 
@@ -1528,7 +1549,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
 LaTeX Info: Redefining \. on input line 164.
 LaTeX Info: Redefining \% on input line 164.
-[4]
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
@@ -1584,7 +1605,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
 LaTeX Info: Redefining \. on input line 219.
 LaTeX Info: Redefining \% on input line 219.
-[5]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
@@ -1606,7 +1627,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
 LaTeX Info: Redefining \. on input line 236.
 LaTeX Info: Redefining \% on input line 236.
-[6]
+[7]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1657,7 +1678,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
 LaTeX Info: Redefining \. on input line 276.
 LaTeX Info: Redefining \% on input line 276.
-[7]
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 277--278
 
  []
@@ -1667,19 +1688,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--280
 
  []
 
-<distribucionespectral.png, id=785, 457.96358pt x 392.5402pt>
+<distribucionespectral.png, id=793, 457.96358pt x 392.5402pt>
 File: distribucionespectral.png Graphic file (type png)
 <use distribucionespectral.png>
 Package pdftex.def Info: distribucionespectral.png  used on input line 305.
 (pdftex.def)             Requested size: 457.96245pt x 392.53925pt.
 LaTeX Info: Redefining \. on input line 310.
 LaTeX Info: Redefining \% on input line 310.
-[8 <./distribucionespectral.PNG>]
+[9 <./distribucionespectral.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 315--316
 
  []
 
-<anguloapantallamiento.png, id=803, 171.64125pt x 277.035pt>
+<anguloapantallamiento.png, id=811, 171.64125pt x 277.035pt>
 File: anguloapantallamiento.png Graphic file (type png)
 <use anguloapantallamiento.png>
 Package pdftex.def Info: anguloapantallamiento.png  used on input line 322.
@@ -1696,7 +1717,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--334
 
 LaTeX Info: Redefining \. on input line 337.
 LaTeX Info: Redefining \% on input line 337.
-[9 <./anguloapantallamiento.PNG>]
+[10 <./anguloapantallamiento.PNG>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1752,7 +1773,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 361--362
 
 LaTeX Info: Redefining \. on input line 362.
 LaTeX Info: Redefining \% on input line 362.
-[10]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 363--364
 
  []
@@ -1762,14 +1783,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
-<nocturnalidad.png, id=881, 514.17094pt x 386.94562pt>
+<nocturnalidad.png, id=889, 514.17094pt x 386.94562pt>
 File: nocturnalidad.png Graphic file (type png)
 <use nocturnalidad.png>
 Package pdftex.def Info: nocturnalidad.png  used on input line 372.
 (pdftex.def)             Requested size: 488.45963pt x 367.59625pt.
 LaTeX Info: Redefining \. on input line 379.
 LaTeX Info: Redefining \% on input line 379.
-[11 <./nocturnalidad.PNG>]
+[12 <./nocturnalidad.PNG>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1823,7 +1844,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 392--393
 
 LaTeX Info: Redefining \. on input line 397.
 LaTeX Info: Redefining \% on input line 397.
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 401--402
 
  []
@@ -1875,7 +1896,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 427--428
 
 LaTeX Info: Redefining \. on input line 429.
 LaTeX Info: Redefining \% on input line 429.
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 431--432
 
  []
@@ -1932,7 +1953,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 452--453
 
 LaTeX Info: Redefining \. on input line 453.
 LaTeX Info: Redefining \% on input line 453.
-[14]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 454--455
 
  []
@@ -1979,7 +2000,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 473--474
 
 LaTeX Info: Redefining \. on input line 475.
 LaTeX Info: Redefining \% on input line 475.
-[15]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
@@ -2016,7 +2037,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 491--492
 
 LaTeX Info: Redefining \. on input line 493.
 LaTeX Info: Redefining \% on input line 493.
-[16]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 498--499
 
  []
@@ -2053,7 +2074,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 535--536
 
 LaTeX Info: Redefining \. on input line 537.
 LaTeX Info: Redefining \% on input line 537.
-[17]
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 539--540
 
  []
@@ -2090,7 +2111,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 551--552
 
 LaTeX Info: Redefining \. on input line 555.
 LaTeX Info: Redefining \% on input line 555.
-[18]
+[19]
 ! Too many }'s.
 l.561 ..., abarca una superficie de 1458 km$^{2}$}
                                                    (0.08$\%$ de la superfici...
@@ -2112,14 +2133,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 565--566
 
  []
 
-<ciudaddemexico.png, id=1075, 624.83438pt x 441.14813pt>
+<ciudaddemexico.png, id=1083, 624.83438pt x 441.14813pt>
 File: ciudaddemexico.png Graphic file (type png)
 <use ciudaddemexico.png>
 Package pdftex.def Info: ciudaddemexico.png  used on input line 569.
 (pdftex.def)             Requested size: 624.83286pt x 441.14705pt.
 LaTeX Info: Redefining \. on input line 574.
 LaTeX Info: Redefining \% on input line 574.
-[19 <./ciudaddemexico.png>]
+[20 <./ciudaddemexico.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 576--577
 
  []
@@ -2151,7 +2172,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 592--593
 
 LaTeX Info: Redefining \. on input line 611.
 LaTeX Info: Redefining \% on input line 611.
-[20]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 615--616
 
  []
@@ -2200,14 +2221,14 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<nubes.png, id=1119, 2707.11375pt x 611.28375pt>
+<nubes.png, id=1127, 2707.11375pt x 611.28375pt>
 File: nubes.png Graphic file (type png)
 <use nubes.png>
 Package pdftex.def Info: nubes.png  used on input line 663.
 (pdftex.def)             Requested size: 4060.66078pt x 916.92339pt.
 LaTeX Info: Redefining \. on input line 668.
 LaTeX Info: Redefining \% on input line 668.
-[21 <./nubes.png>]
+[22 <./nubes.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 673--674
 
  []
@@ -2256,7 +2277,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 693--694
 
 LaTeX Info: Redefining \. on input line 695.
 LaTeX Info: Redefining \% on input line 695.
-[22]
+[23]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 698.
@@ -2268,7 +2289,7 @@ Overfull \hbox (7.23213pt too wide) in paragraph at lines 702--727
 
 LaTeX Info: Redefining \. on input line 728.
 LaTeX Info: Redefining \% on input line 728.
-[23]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 734--735
 
  []
@@ -2279,9 +2300,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 736--737
  []
 
 )
-LaTeX Info: Redefining \. on input line 141.
-LaTeX Info: Redefining \% on input line 141.
- [24
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
+ [25
 
 
 ]
@@ -2321,12 +2342,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-[25
+[26
 
 
 
 ]
-<ciudaddemexicomodelo.png, id=1183, 603.75563pt x 465.23813pt>
+<ciudaddemexicomodelo.png, id=1191, 603.75563pt x 465.23813pt>
 File: ciudaddemexicomodelo.png Graphic file (type png)
 <use ciudaddemexicomodelo.png>
 Package pdftex.def Info: ciudaddemexicomodelo.png  used on input line 30.
@@ -2338,7 +2359,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
 LaTeX Info: Redefining \. on input line 58.
 LaTeX Info: Redefining \% on input line 58.
-[26 <./ciudaddemexicomodelo.PNG>]
+[27 <./ciudaddemexicomodelo.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
@@ -2348,7 +2369,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-<geometriamodelo.png, id=1204, 659.46375pt x 349.305pt>
+<geometriamodelo.png, id=1212, 659.46375pt x 349.305pt>
 File: geometriamodelo.png Graphic file (type png)
 <use geometriamodelo.png>
 Package pdftex.def Info: geometriamodelo.png  used on input line 70.
@@ -2365,14 +2386,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
 LaTeX Info: Redefining \. on input line 99.
 LaTeX Info: Redefining \% on input line 99.
-[27 <./geometriamodelo.PNG>]
+[28 <./geometriamodelo.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
 LaTeX Info: Redefining \. on input line 129.
 LaTeX Info: Redefining \% on input line 129.
-[28]
+[29]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -2442,7 +2463,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
-<graficapolar.png, id=1243, 283.0575pt x 281.55188pt>
+<graficapolar.png, id=1251, 283.0575pt x 281.55188pt>
 File: graficapolar.png Graphic file (type png)
 <use graficapolar.png>
 Package pdftex.def Info: graficapolar.png  used on input line 162.
@@ -2481,7 +2502,7 @@ Such booboos are generally harmless, so keep going.
 
 LaTeX Info: Redefining \. on input line 172.
 LaTeX Info: Redefining \% on input line 172.
-[29 <./graficapolar.png>]
+[30 <./graficapolar.png>]
 ! Too many }'s.
 l.176 ...\url{lighttrends.lightpollutionmap.info}}
                                                   ) que permite analizar ten...
@@ -2509,35 +2530,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
-<RadianceTrends.png, id=1261, 277.035pt x 356.83313pt>
+<RadianceTrends.png, id=1269, 277.035pt x 356.83313pt>
 File: RadianceTrends.png Graphic file (type png)
 <use RadianceTrends.png>
 Package pdftex.def Info: RadianceTrends.png  used on input line 192.
 (pdftex.def)             Requested size: 140.92793pt x 181.51967pt.
 )
-LaTeX Info: Redefining \. on input line 143.
-LaTeX Info: Redefining \% on input line 143.
- [30 <./RadianceTrends.PNG>]
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+ [31 <./RadianceTrends.PNG>]
 \openout2 = `./capitulos/resultados_discusion.aux'.
 
  (./capitulos/resultados_discusion.tex
 Cap\'{\i }tulo 3.
-<GAM.png, id=1271, 1176.64594pt x 587.94656pt>
+<GAM.png, id=1279, 1176.64594pt x 587.94656pt>
 File: GAM.png Graphic file (type png)
 <use GAM.png>
 Package pdftex.def Info: GAM.png  used on input line 12.
 (pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
-[31
+[32
 
 
 
  <./GAM.png>]
-<CU.png, id=1277, 1176.64594pt x 587.94656pt>
+<CU.png, id=1285, 1176.64594pt x 587.94656pt>
 File: CU.png Graphic file (type png)
 <use CU.png>
 Package pdftex.def Info: CU.png  used on input line 22.
 (pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
-<MA.png, id=1278, 1176.64594pt x 587.94656pt>
+<MA.png, id=1286, 1176.64594pt x 587.94656pt>
 File: MA.png Graphic file (type png)
 <use MA.png>
 Package pdftex.def Info: MA.png  used on input line 26.
@@ -2554,7 +2575,13 @@ and I'll forget about whatever was undefined.
 
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
-[32 <./CU.png> <./MA.png>]
+
+Overfull \hbox (26.28653pt too wide) has occurred while \output is active
+\OT1/pplx/m/it/10.95 3.1.  TENDENCIAS DE RADIANCIA PROMEDIO EN LAS ALCALD[]IAS 
+DE LA CIUDAD DE M[]EXICO \OT1/pplx/m/n/10.95 33
+ []
+
+[33 <./CU.png> <./MA.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
@@ -2591,13 +2618,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
 LaTeX Info: Redefining \. on input line 49.
 LaTeX Info: Redefining \% on input line 49.
-
-Overfull \hbox (26.28653pt too wide) has occurred while \output is active
-\OT1/pplx/m/it/10.95 3.1.  TENDENCIAS DE RADIANCIA PROMEDIO EN LAS ALCALD[]IAS 
-DE LA CIUDAD DE M[]EXICO \OT1/pplx/m/n/10.95 33
- []
-
-[33]
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
@@ -2644,15 +2665,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
 LaTeX Info: Redefining \. on input line 72.
 LaTeX Info: Redefining \% on input line 72.
-[34]
-<1.png, id=1315, 1713.40125pt x 2048.40282pt>
+[35]
+<1.png, id=1323, 1713.40125pt x 2048.40282pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 76.
 (pdftex.def)             Requested size: 469.75502pt x 561.57782pt.
 LaTeX Info: Redefining \. on input line 82.
 LaTeX Info: Redefining \% on input line 82.
- [35 <./1.png>]
+ [36 <./1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
@@ -2689,8 +2710,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
 LaTeX Info: Redefining \. on input line 100.
 LaTeX Info: Redefining \% on input line 100.
-[36]
-<2.png, id=1333, 873.2625pt x 264.99pt>
+[37]
+<2.png, id=1341, 873.2625pt x 264.99pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
 Package pdftex.def Info: 2.png  used on input line 106.
@@ -2702,45 +2723,45 @@ l.109 \end{figure}}
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-<3.png, id=1334, 846.91406pt x 253.69781pt>
+<3.png, id=1342, 846.91406pt x 253.69781pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
 Package pdftex.def Info: 3.png  used on input line 113.
 (pdftex.def)             Requested size: 469.75502pt x 140.7149pt.
-<4.png, id=1335, 851.43094pt x 252.945pt>
+<4.png, id=1343, 851.43094pt x 252.945pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
 Package pdftex.def Info: 4.png  used on input line 120.
 (pdftex.def)             Requested size: 469.75502pt x 139.5563pt.
 LaTeX Info: Redefining \. on input line 125.
 LaTeX Info: Redefining \% on input line 125.
-[37 <./2.png> <./3.png> <./4.png>]
-<5.png, id=1340, 901.86937pt x 269.50688pt>
+[38 <./2.png> <./3.png> <./4.png>]
+<5.png, id=1348, 901.86937pt x 269.50688pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
 Package pdftex.def Info: 5.png  used on input line 131.
 (pdftex.def)             Requested size: 469.75502pt x 140.37877pt.
-<6.png, id=1341, 899.61093pt x 268.75406pt>
+<6.png, id=1349, 899.61093pt x 268.75406pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
 Package pdftex.def Info: 6.png  used on input line 138.
 (pdftex.def)             Requested size: 469.75502pt x 140.33524pt.
-<7.png, id=1342, 886.81313pt x 270.25969pt>
+<7.png, id=1350, 886.81313pt x 270.25969pt>
 File: 7.png Graphic file (type png)
 <use 7.png>
 Package pdftex.def Info: 7.png  used on input line 145.
 (pdftex.def)             Requested size: 469.75502pt x 143.16272pt.
 LaTeX Info: Redefining \. on input line 150.
 LaTeX Info: Redefining \% on input line 150.
- [38 <./5.png> <./6.png> <./7.png>]
-<8.png, id=1347, 1713.40125pt x 1934.72812pt>
+ [39 <./5.png> <./6.png> <./7.png>]
+<8.png, id=1355, 1713.40125pt x 1934.72812pt>
 File: 8.png Graphic file (type png)
 <use 8.png>
 Package pdftex.def Info: 8.png  used on input line 156.
 (pdftex.def)             Requested size: 469.75502pt x 530.41344pt.
 LaTeX Info: Redefining \. on input line 161.
 LaTeX Info: Redefining \% on input line 161.
- [39 <./8.png>]
+ [40 <./8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
@@ -2767,20 +2788,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
 LaTeX Info: Redefining \. on input line 183.
 LaTeX Info: Redefining \% on input line 183.
-[40]
-<MapaCLCDMX.png, id=1365, 796.47563pt x 856.70062pt>
+[41]
+<MapaCLCDMX.png, id=1373, 796.47563pt x 856.70062pt>
 File: MapaCLCDMX.png Graphic file (type png)
 <use MapaCLCDMX.png>
 Package pdftex.def Info: MapaCLCDMX.png  used on input line 189.
 (pdftex.def)             Requested size: 469.75502pt x 505.26598pt.
 LaTeX Info: Redefining \. on input line 194.
 LaTeX Info: Redefining \% on input line 194.
- [41 <./MapaCLCDMX.png>])
+ [42 <./MapaCLCDMX.png>])
 \openout2 = `./capitulos/conclusiones.aux'.
 
  (./capitulos/conclusiones.tex
 Cap\'{\i }tulo 4.
-) [42
+) [43
 
 
 
@@ -2789,7 +2810,7 @@ Cap\'{\i }tulo 4.
 
  (./capitulos/recomendaciones.tex
 Cap\'{\i }tulo 5.
-) [43
+) [44
 
 
 
@@ -2804,7 +2825,7 @@ l.5 ...eo continuo de CL en la Ciudad de México}}
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-[44
+[45
 
 
 
@@ -2840,13 +2861,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
-
-Overfull \hbox (14.60434pt too wide) has occurred while \output is active
-\OT1/pplx/m/it/10.95 6.2.  PROYECTO INTERNATIONAL DARK SKY PLACE EN EL GEOPARQU
-E COMARCA MINERA \OT1/pplx/m/n/10.95 45
- []
-
-[45]
+[46]
 ! Too many }'s.
 l.43 \section{Código en Julia del Mapa CL-CDMX}}
                                                  
@@ -2926,19 +2941,19 @@ nput line 45.
 (./CodigoMuestra.jl)
 LaTeX Info: Redefining \. on input line 47.
 LaTeX Info: Redefining \% on input line 47.
- [46]
+ [47]
 ! Too many }'s.
 l.49 ...n las alcaldías de la Ciudad de México}}
                                                   
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-<AO.png, id=1451, 1176.64594pt x 587.94656pt>
+<AO.png, id=1459, 1176.64594pt x 587.94656pt>
 File: AO.png Graphic file (type png)
 <use AO.png>
 Package pdftex.def Info: AO.png  used on input line 53.
 (pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
-<AZ.png, id=1452, 1176.64594pt x 587.94656pt>
+<AZ.png, id=1460, 1176.64594pt x 587.94656pt>
 File: AZ.png Graphic file (type png)
 <use AZ.png>
 Package pdftex.def Info: AZ.png  used on input line 57.
@@ -2954,13 +2969,13 @@ and I'll forget about whatever was undefined.
 
 LaTeX Info: Redefining \. on input line 63.
 LaTeX Info: Redefining \% on input line 63.
-[47 <./AO.png> <./AZ.png>]
-<BJ.png, id=1459, 1176.64594pt x 587.94656pt>
+[48 <./AO.png> <./AZ.png>]
+<BJ.png, id=1467, 1176.64594pt x 587.94656pt>
 File: BJ.png Graphic file (type png)
 <use BJ.png>
 Package pdftex.def Info: BJ.png  used on input line 67.
 (pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
-<CO.png, id=1460, 1176.64594pt x 587.94656pt>
+<CO.png, id=1468, 1176.64594pt x 587.94656pt>
 File: CO.png Graphic file (type png)
 <use CO.png>
 Package pdftex.def Info: CO.png  used on input line 71.
@@ -2977,13 +2992,13 @@ and I'll forget about whatever was undefined.
 
 LaTeX Info: Redefining \. on input line 77.
 LaTeX Info: Redefining \% on input line 77.
-[48 <./BJ.png> <./CO.png>]
-<CM.png, id=1467, 1176.64594pt x 587.94656pt>
+[49 <./BJ.png> <./CO.png>]
+<CM.png, id=1475, 1176.64594pt x 587.94656pt>
 File: CM.png Graphic file (type png)
 <use CM.png>
 Package pdftex.def Info: CM.png  used on input line 81.
 (pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
-<CUA.png, id=1468, 1176.64594pt x 587.94656pt>
+<CUA.png, id=1476, 1176.64594pt x 587.94656pt>
 File: CUA.png Graphic file (type png)
 <use CUA.png>
 Package pdftex.def Info: CUA.png  used on input line 85.
@@ -3000,13 +3015,13 @@ and I'll forget about whatever was undefined.
 
 LaTeX Info: Redefining \. on input line 91.
 LaTeX Info: Redefining \% on input line 91.
-[49 <./CM.png> <./CUA.png>]
-<IZT.png, id=1475, 1176.64594pt x 587.94656pt>
+[50 <./CM.png> <./CUA.png>]
+<IZT.png, id=1483, 1176.64594pt x 587.94656pt>
 File: IZT.png Graphic file (type png)
 <use IZT.png>
 Package pdftex.def Info: IZT.png  used on input line 95.
 (pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
-<IZP.png, id=1476, 1176.64594pt x 587.94656pt>
+<IZP.png, id=1484, 1176.64594pt x 587.94656pt>
 File: IZP.png Graphic file (type png)
 <use IZP.png>
 Package pdftex.def Info: IZP.png  used on input line 99.
@@ -3023,13 +3038,13 @@ and I'll forget about whatever was undefined.
 
 LaTeX Info: Redefining \. on input line 105.
 LaTeX Info: Redefining \% on input line 105.
-[50 <./IZT.png> <./IZP.png>]
-<MC.png, id=1483, 1176.64594pt x 587.94656pt>
+[51 <./IZT.png> <./IZP.png>]
+<MC.png, id=1491, 1176.64594pt x 587.94656pt>
 File: MC.png Graphic file (type png)
 <use MC.png>
 Package pdftex.def Info: MC.png  used on input line 109.
 (pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
-<MH.png, id=1484, 1176.64594pt x 587.94656pt>
+<MH.png, id=1492, 1176.64594pt x 587.94656pt>
 File: MH.png Graphic file (type png)
 <use MH.png>
 Package pdftex.def Info: MH.png  used on input line 113.
@@ -3044,12 +3059,12 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-<TLAH.png, id=1485, 1176.64594pt x 587.94656pt>
+<TLAH.png, id=1493, 1176.64594pt x 587.94656pt>
 File: TLAH.png Graphic file (type png)
 <use TLAH.png>
 Package pdftex.def Info: TLAH.png  used on input line 123.
 (pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
-<TLA.png, id=1486, 1176.64594pt x 587.94656pt>
+<TLA.png, id=1494, 1176.64594pt x 587.94656pt>
 File: TLA.png Graphic file (type png)
 <use TLA.png>
 Package pdftex.def Info: TLA.png  used on input line 127.
@@ -3068,16 +3083,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 132.
 LaTeX Info: Redefining \% on input line 132.
- [51 <./MC.png> <./MH.png>]
+ [52 <./MC.png> <./MH.png>]
 LaTeX Info: Redefining \. on input line 133.
 LaTeX Info: Redefining \% on input line 133.
- [52 <./TLAH.png> <./TLA.png>]
-<VC.png, id=1500, 1176.64594pt x 587.94656pt>
+ [53 <./TLAH.png> <./TLA.png>]
+<VC.png, id=1508, 1176.64594pt x 587.94656pt>
 File: VC.png Graphic file (type png)
 <use VC.png>
 Package pdftex.def Info: VC.png  used on input line 137.
 (pdftex.def)             Requested size: 469.75502pt x 234.72589pt.
-<XO.png, id=1501, 1176.64594pt x 587.94656pt>
+<XO.png, id=1509, 1176.64594pt x 587.94656pt>
 File: XO.png Graphic file (type png)
 <use XO.png>
 Package pdftex.def Info: XO.png  used on input line 141.
@@ -3094,35 +3109,36 @@ and I'll forget about whatever was undefined.
 
 LaTeX Info: Redefining \. on input line 147.
 LaTeX Info: Redefining \% on input line 147.
-[53 <./VC.png> <./XO.png>]) (./tesis.bbl [54
+[54 <./VC.png> <./XO.png>]) (./tesis.bbl [55
 
 
 ]
 LaTeX Info: Redefining \. on input line 210.
 LaTeX Info: Redefining \% on input line 210.
- [55]
+ [56]
 LaTeX Info: Redefining \. on input line 314.
 LaTeX Info: Redefining \% on input line 314.
- [56]
+ [57]
 LaTeX Info: Redefining \. on input line 427.
 LaTeX Info: Redefining \% on input line 427.
- [57])
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
- [58]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
+ [58])
+LaTeX Info: Redefining \. on input line 157.
+LaTeX Info: Redefining \% on input line 157.
+ [59]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
  (./tesis.aux (./portada.aux)
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
  (./agradecimientos.aux) (./abreviaturas.aux) (./resumen.aux)
-(./productos.aux) (./capitulos/introduccion.aux) (./capitulos/metodologia.aux)
-(./capitulos/resultados_discusion.aux) (./capitulos/conclusiones.aux)
-(./capitulos/recomendaciones.aux) (./capitulos/anexos.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
+(./productos.aux) (./estructura.aux) (./capitulos/introduccion.aux)
+(./capitulos/metodologia.aux) (./capitulos/resultados_discusion.aux)
+(./capitulos/conclusiones.aux) (./capitulos/recomendaciones.aux)
+(./capitulos/anexos.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 157.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 157.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 58E13931F5C653AAF2533AA7ACDA0FAD;5006.
+(rerunfilecheck)             Checksum: 89A0BCE4E87B62AA419C5C2EF85973CD;5054.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -3130,13 +3146,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
- 22706 strings out of 492609
- 402034 string characters out of 6131462
- 823133 words of memory out of 5000000
- 25660 multiletter control sequences out of 15000+600000
+ 22720 strings out of 492609
+ 402235 string characters out of 6131462
+ 822695 words of memory out of 5000000
+ 25665 multiletter control sequences out of 15000+600000
  49356 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,17n,66p,1003b,1192s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3154,10 +3170,10 @@ re/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
 rw/palatino/uplri8a.pfb>
-Output written on tesis.pdf (80 pages, 10720581 bytes).
+Output written on tesis.pdf (79 pages, 10722015 bytes).
 PDF statistics:
- 1658 PDF objects out of 1728 (max. 8388607)
- 1474 compressed objects within 15 object streams
- 344 named destinations out of 1000 (max. 500000)
- 704 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1666 PDF objects out of 1728 (max. 8388607)
+ 1483 compressed objects within 15 object streams
+ 346 named destinations out of 1000 (max. 500000)
+ 712 words of extra memory for PDF output out of 10000 (max. 10000000)
 

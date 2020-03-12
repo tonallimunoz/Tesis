@@ -1,10 +1,13 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: tesis.aux
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: tesis.aux
 The style file: apalike.bst
 A level-1 auxiliary file: portada.aux
 A level-1 auxiliary file: agradecimientos.aux
 A level-1 auxiliary file: abreviaturas.aux
 A level-1 auxiliary file: resumen.aux
 A level-1 auxiliary file: productos.aux
+A level-1 auxiliary file: estructura.aux
 A level-1 auxiliary file: ./capitulos/introduccion.aux
 A level-1 auxiliary file: ./capitulos/metodologia.aux
 A level-1 auxiliary file: ./capitulos/resultados_discusion.aux
@@ -26,11 +29,52 @@ Warning--empty title in LGEEPA2018
 Warning--empty journal in LGEEPA2018
 Warning--empty journal in Metoffice2019
 Warning--empty journal in OCDE2015
-Warning--empty journal in REPSA2019
 Warning--empty journal in GEI2013
+Warning--empty journal in REPSA2019
 Warning--empty journal in SENER2013
 Warning--empty journal in SEDEMA2016
 Warning--empty journal in UTSEDEMA2018
 Warning--empty journal in UNESCO2016
 Warning--empty journal in Cloudatlas1987
+You've used 82 entries,
+            1935 wiz_defined-function locations,
+            971 strings with 16659 characters,
+and the built_in function-call counts, 29834 in all, are:
+= -- 2808
+> -- 1256
+< -- 57
++ -- 433
+- -- 420
+* -- 2510
+:= -- 5400
+add.period$ -- 229
+call.type$ -- 82
+change.case$ -- 619
+chr.to.int$ -- 81
+cite$ -- 99
+duplicate$ -- 1109
+empty$ -- 2054
+format.name$ -- 536
+if$ -- 5716
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 82
+newline$ -- 396
+num.names$ -- 246
+pop$ -- 506
+preamble$ -- 1
+purify$ -- 620
+quote$ -- 0
+skip$ -- 878
+stack$ -- 0
+substring$ -- 1914
+swap$ -- 66
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 492
+warning$ -- 17
+while$ -- 207
+width$ -- 0
+write$ -- 998
 (There was 1 error message)
