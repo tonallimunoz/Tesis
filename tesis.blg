@@ -36,45 +36,45 @@ Warning--empty journal in SEDEMA2016
 Warning--empty journal in UTSEDEMA2018
 Warning--empty journal in UNESCO2016
 Warning--empty journal in Cloudatlas1987
-You've used 82 entries,
+You've used 83 entries,
             1935 wiz_defined-function locations,
-            971 strings with 16659 characters,
-and the built_in function-call counts, 29834 in all, are:
-= -- 2808
-> -- 1256
-< -- 57
-+ -- 433
-- -- 420
-* -- 2510
-:= -- 5400
-add.period$ -- 229
-call.type$ -- 82
-change.case$ -- 619
-chr.to.int$ -- 81
-cite$ -- 99
-duplicate$ -- 1109
-empty$ -- 2054
-format.name$ -- 536
-if$ -- 5716
+            976 strings with 16785 characters,
+and the built_in function-call counts, 30104 in all, are:
+= -- 2834
+> -- 1263
+< -- 58
++ -- 435
+- -- 422
+* -- 2527
+:= -- 5452
+add.period$ -- 232
+call.type$ -- 83
+change.case$ -- 625
+chr.to.int$ -- 82
+cite$ -- 100
+duplicate$ -- 1122
+empty$ -- 2074
+format.name$ -- 539
+if$ -- 5767
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 82
-newline$ -- 396
-num.names$ -- 246
-pop$ -- 506
+missing$ -- 83
+newline$ -- 401
+num.names$ -- 249
+pop$ -- 511
 preamble$ -- 1
-purify$ -- 620
+purify$ -- 626
 quote$ -- 0
-skip$ -- 878
+skip$ -- 889
 stack$ -- 0
-substring$ -- 1914
-swap$ -- 66
+substring$ -- 1926
+swap$ -- 67
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 492
+type$ -- 498
 warning$ -- 17
-while$ -- 207
+while$ -- 209
 width$ -- 0
-write$ -- 998
+write$ -- 1010
 (There was 1 error message)
