@@ -317,6 +317,10 @@ Penner, J., Chuang, C., y Grant, K. (1998).
 \newblock Climate forcing by carbonaceous and sulfate aerosols.
 \newblock {\em Climate Dynamics}, 14:839--851.
 
+\bibitem[{Página Oficial de la REPSA}, 2019]{REPSA2019}
+{Página Oficial de la REPSA} (2019).
+\newblock {\url{repsa.unam.mx}}.
+
 \bibitem[{Programa GEI México}, 2013]{GEI2013}
 {Programa GEI México} (2013).
 \newblock {\url{geimexico.org}}.
@@ -325,10 +329,6 @@ Penner, J., Chuang, C., y Grant, K. (1998).
 Purcell, E. y Morin, D. (2013).
 \newblock Electricity and magnetism.
 \newblock {\em Cambridge University Press}.
-
-\bibitem[{Página Oficial de la REPSA}, 2019]{REPSA2019}
-{Página Oficial de la REPSA} (2019).
-\newblock {\url{repsa.unam.mx}}.
 
 \bibitem[Ramos y Montenegro, 2012]{Ramos2012}
 Ramos, L. y Montenegro, M. (2012).
@@ -442,6 +442,12 @@ Urquiza, A. y Cadenas, H. (2015).
   la discusión en torno a la vulnerabilidad hídrica.
 \newblock {\em L'Ordinaire des Amériques}, 218:1--18.
 
+\bibitem[Ávila y Perevochtchikova, 2019]{Avila2019}
+Ávila, V. y Perevochtchikova, M. (2019).
+\newblock {Sistemas socio-ecológicos: marcos analíticos y estudios de caso en
+  Oaxaca, México}.
+\newblock {\em Universidad Nacional Autónoma de México}.
+
 \bibitem[Wiesnner, 2014]{Wiessner2014}
 Wiesnner, P. (2014).
 \newblock Embers of society: firelight talk.
@@ -456,11 +462,5 @@ Wiesnner, P. (2014).
 Wrangham, R. y Carmody, R. (2010).
 \newblock Human adaptation to the control of fire.
 \newblock {\em Evolutionary Anthropology}, 19(5):187--199.
-
-\bibitem[Ávila y Perevochtchikova, 2019]{Avila2019}
-Ávila, V. y Perevochtchikova, M. (2019).
-\newblock {Sistemas socio-ecológicos: marcos analíticos y estudios de caso en
-  Oaxaca, México}.
-\newblock {\em Universidad Nacional Autónoma de México}.
 
 \end{thebibliography}
