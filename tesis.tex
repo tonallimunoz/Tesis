@@ -1,4 +1,4 @@
-\documentclass[letterpaper,11pt,twoside]{book} 
+\documentclass[letterpaper,11pt,oneside]{book} 
 
 %Configuración inicial
 \usepackage[spanish,es-tabla]{babel} %español 
@@ -8,7 +8,9 @@
 \usepackage{afterpage} %salto de página
 \usepackage{ragged2e} %guiones de alineación de página 
 \usepackage[margin=1in]{geometry} %tamaños de margen
+
 \usepackage[sc]{mathpazo} %fuente
+
 \newcommand{\grad}{$^{\circ}$} %grados
 \usepackage{hyperref} %referencias navegables
 \usepackage{upgreek} %diferentes letras griegas
@@ -85,8 +87,8 @@ contents={%
 \begin{document}
 
 	\include{portada}
-	\afterpage{\blankpage}	
-	\let\cleardoublepage\clearpage
+	
+	\pagenumbering{roman}
 		
 	\chapter*{La región más brillante}
 	\BgThispage
@@ -103,40 +105,36 @@ contents={%
 	De regreso a la Ciudad de México trataba de compartir los descubrimientos de mi exploración a mis compañeros de la escuela. Muy pocos creyeron mis historias sobre la gran autopista de estrellas que se dibujaba por las noches, en la que circulaban naves espaciales a tal lentitud que podía seguirles el rastro por más de media hora. Muchos de esos niños hoy son adultos que jamás han visto la Vía Láctea.\\
 	
 	Sin embargo, esto no siempre ha sido así en el lugar en que nací. Hace apenas 500 años la Ciudad de México era totalmente diferente a como hoy en día la conocemos sus habitantes. Dominaba un paisaje lacustre que durante las noches se transformaba en un enorme espejo oscuro, en cuya negritud se transcribían con exactitud los destellos celestes\footnote{\cite{Martinez2019}}. Hoy los lagos se han ido y las estrellas se apagaron. Hoy mi ciudad es chinampa en un lago escondido y ya no es la región más transparente del aire, sino la más brillante por las noches\footnote{Ilustración de fondo por Toshio Tabuchi}.
-	\afterpage{\blankpage}
 	
-	\pagenumbering{roman}
 	
 	\include{agradecimientos}
-	\afterpage{\blankpage}
-	
+
 	\include{abreviaturas}
-	\afterpage{\blankpage}
 	
 	\include{resumen}
 	
 	\include{productos}
-	\afterpage{\blankpage}
 
 	\tableofcontents
 	 
-	\cleardoublepage
-	\phantomsection
 	\renewcommand\listfigurename{Índice de figuras}
     \addcontentsline{toc}{chapter}{\listfigurename}
-	\listoffigures
-	
-	\cleardoublepage
-	\phantomsection
+    \listoffigures
+    
+    \begingroup
+    \let\clearpage\relax
+    
 	\renewcommand\listtablename{Índice de tablas}
     \addcontentsline{toc}{chapter}{Índice de tablas}
+    \vspace{3cm}
 	\listoftables
-	\afterpage{\blankpage}
+	
+	\endgroup
+	
 	\mainmatter %comienza numeración arábiga
 	
 	\include{estructura}
-	\addcontentsline{toc}{chapter}{Estructura}
-	
+
 	\include{./capitulos/introduccion}
 	
 	\include{./capitulos/metodologia}
@@ -149,7 +147,6 @@ contents={%
 	
 	\include{./capitulos/anexos}
 	
-	\phantomsection
 	\renewcommand\bibname{Referencias}
 	\addcontentsline{toc}{chapter}{Referencias}
 	\bibliography{referencias}

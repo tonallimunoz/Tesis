@@ -2,9 +2,9 @@
 \contentsline {chapter}{Agradecimientos}{\es@scroman {ii}}{chapter*.2}% 
 \contentsline {chapter}{Abreviaturas}{\es@scroman {v}}{chapter*.3}% 
 \contentsline {chapter}{Resumen}{\es@scroman {vi}}{chapter*.4}% 
-\contentsline {chapter}{Productos}{\es@scroman {viii}}{chapter*.5}% 
-\contentsline {chapter}{Índice de figuras}{\es@scroman {xi}}{section*.7}% 
-\contentsline {chapter}{Índice de tablas}{\es@scroman {xiii}}{section*.9}% 
+\contentsline {chapter}{Productos}{\es@scroman {vii}}{chapter*.5}% 
+\contentsline {chapter}{Índice de figuras}{\es@scroman {ix}}{chapter*.6}% 
+\contentsline {chapter}{Índice de tablas}{\es@scroman {xi}}{chapter*.7}% 
 \contentsline {chapter}{\numberline {1}Introducción}{2}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Fundamentos teóricos de la luz}{2}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Radiación electromagnética}{2}{subsection.1.1.1}% 
@@ -38,7 +38,6 @@
 \contentsline {section}{\numberline {1.7}Objetivos}{25}{section.1.7}% 
 \contentsline {subsection}{\numberline {1.7.1}Generales}{25}{subsection.1.7.1}% 
 \contentsline {subsection}{\numberline {1.7.2}Particulares}{25}{subsection.1.7.2}% 
-\contentsline {chapter}{Estructura}{2}{chapter*.11}% 
 \contentsline {chapter}{\numberline {2}Metodología}{26}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}El modelo \textit {SkyGlow}}{26}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Datos de entrada}{26}{subsection.2.1.1}% 
@@ -63,4 +62,4 @@
 \contentsline {section}{\numberline {6.2}Proyecto \textit {International Dark Sky Place} en el Geoparque Comarca Minera}{46}{section.6.2}% 
 \contentsline {section}{\numberline {6.3}Código en Julia del Mapa CL-CDMX}{47}{section.6.3}% 
 \contentsline {section}{\numberline {6.4}Tendencias de radiancia en las alcaldías de la Ciudad de México}{48}{section.6.4}% 
-\contentsline {chapter}{Referencias}{55}{section*.12}% 
+\contentsline {chapter}{Referencias}{55}{figure.6.14}% 
